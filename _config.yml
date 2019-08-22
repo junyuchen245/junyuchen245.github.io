@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Junyu's Homepage"
 title_separator          : "-"
-name                     : &name "Junyu Chen"
-description              : &description "Ph.D. student at Johns Hopkins University"
+name                     : &name "Junyu's Homepage"
+description              : &description "Junyu's Homepage"
 url                      : https://junyuchen245.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "junyuchen245/junyuchen245.github.io"
@@ -67,41 +67,41 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Junyu Chen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  bio              : "Ph.D. student at Johns Hopkins University"
+  location         : "Baltimore, MD, USA"
+  employer         : "Johns Hopkins University"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=9jIpgScAAAAJ&hl=en"
+  email            : "jchen245@jhmi.edu"
+  #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  #uri              :
+  #bitbucket        :
+  #codepen          :
+  #dribbble         :
+  #flickr           :
+  #facebook         :
+  #foursquare       :
+  #github           : "academicpages"
+  #google_plus      :
+  #keybase          :
+  #instagram        :
+  #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  #lastfm           :
+  linkedin         : ""
+  #orcid            : "http://orcid.org/yourorcidurl"
+  #pinterest        :
+  #soundcloud       :
+  #stackoverflow    : # http://stackoverflow.com/users/123456/username
+  #steam            :
+  #tumblr           :
+  #twitter          : "replacethistwitterhandle"
+  #vine             :
+  #weibo            :
+  #xing             :
+  #youtube          :
+  #wikipedia        :
 
 
 # Reading Files
