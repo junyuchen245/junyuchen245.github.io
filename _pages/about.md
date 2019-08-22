@@ -15,7 +15,7 @@ I am a first year Ph.D. student in Electrical and Computer Engineering at the Jo
 RESEARCH INTERESTS
 ----
 #### Nuclear Medicine Imaging (SPECT, PET).
-#### Medical Image Analysis (Desnoise, Segmentation).
+#### Medical Image Analysis (Segmentation, Desnoising).
 #### Deep Learning & Machine Learning
 
 EDUCATION
