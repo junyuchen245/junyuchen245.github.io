@@ -1,20 +1,3 @@
-ABOUT MYSELF
-====
-I am a first year Ph.D. student in Electrical and Computer Engineering at the Johns Hopkins University, I work for Radiological Physics Division in the Russell H. Morgan Department of Radiology and Radiological Science at
-Johns Hopkins Medical Institutions and advised by Dr. Eric C. Frey. 
-
-RESEARCH INTERESTS
-----
-#### Nuclear Medicine Imaging (SPECT, PET).
-#### Medical Image Analysis (Desnoise, Segmentation).
-#### Deep Learning & Machine Learning
-
-EDUCATION
-----
-#### M.S.E. in Electrical & Computer Engineering, Johns Hopkins University (Baltimore, MD) (2019)
-#### B.Sc. in Computer Engineering, North Carolina State University (Raleigh, NC) (2017)
-#### B.Sc. in Electrical Engineering, North Carolina State University (Raleigh, NC) (2017)
-
 ---
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
@@ -65,3 +48,20 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+ABOUT MYSELF
+====
+I am a first year Ph.D. student in Electrical and Computer Engineering at the Johns Hopkins University, I work for Radiological Physics Division in the Russell H. Morgan Department of Radiology and Radiological Science at
+Johns Hopkins Medical Institutions and advised by Dr. Eric C. Frey. 
+
+RESEARCH INTERESTS
+----
+#### Nuclear Medicine Imaging (SPECT, PET).
+#### Medical Image Analysis (Desnoise, Segmentation).
+#### Deep Learning & Machine Learning
+
+EDUCATION
+----
+#### M.S.E. in Electrical & Computer Engineering, Johns Hopkins University (Baltimore, MD) (2019)
+#### B.Sc. in Computer Engineering, North Carolina State University (Raleigh, NC) (2017)
+#### B.Sc. in Electrical Engineering, North Carolina State University (Raleigh, NC) (2017)
