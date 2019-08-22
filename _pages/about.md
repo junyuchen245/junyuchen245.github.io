@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Junyu"
+title: "Junyu's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
