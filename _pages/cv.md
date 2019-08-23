@@ -11,49 +11,55 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Computer Engineering, North Carolina State University, 2017
+* B.Sc. in Electrical Engineering, North Carolina State University, 2017
+* M.S.E. in Electrical & Computer Engineering, Johns Hopkins University, 2019
+* Ph.D. in Electrical & Computer Engineering, Johns Hopkins University, 2023 (expected)
 
-Work experience
+Professional experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep 2017 - Present: **Graduate Research Assistant**
+  * Department of Radiology and Radiological Science, Johns Hopkins Medical Institutions, *Baltimore, MD*
+  * Duties included: 
+    * Nuclear Medicine Imaging 
+    * NM image segmentation 
+    * NM image denoising 
+    * Quantitative accuracy
+  * Supervisor: Dr. Eric C. Frey
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2016 – Jul 2017: **Unergraduate Research Assistant**
+  * North Carolina State University, *Raleigh, NC*
+  * Duties included: 
+    * Real time ECG peak detection 
+    * Adaptive filter design for ECG signals 
+  * Supervisor: Dr. Edgar Lobaton
+
+
+* Aug 2016 – Dec 2016: **Undergraduate Research Fellow**
+  * The NSF Center for Advanced Self-Powered Systems of Integrated Sensors and Technologies, *Raleigh, NC*
+  * Duties included: 
+    * Peak Detection Algorithm testing for ECG signals. 
+    * QRS-Wave Detection, P-Wave Detection, Heart Rate estimation
+    
+* Jun 2015 – Aug 2015: **Application Engineer Intern**
+  * Analog Devices, Inc., *Greensboro, NC*
+  * Duties included: 
+    * RF, Wireless Communication System
+    * Worked with Wireless Communication Group.
+    * Did several performance measurements for their transceiver products.
+  * Supervisor: Kenny Man
+ 
+Teaching experience
+======
+* Aug 2019 - Present: **Teaching Assistant**
+  * Medical Imaging Systems(EN520.432/EN580.472/EN520.632), Johns Hopkins University, *Baltimore, MD*
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Jan 2019 - May 2019: **Course Assistant**
+  * Medical Image Analysis (EN520.433/623), Johns Hopkins University, *Baltimore, MD*
+  
+* Jan 2017 - May 2017: **Teaching Assistant**
+  * Electric Circuits (ECE 211), North Carolina State University, *Raleigh, NC*
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<a href="https://scholar.google.com/citations?user=9jIpgScAAAAJ&hl=en">Junyu Chen's Google Scholar</a>
