@@ -10,7 +10,7 @@ redirect_from:
 
 ABOUT MYSELF
 ====
-I am a first year Ph.D. student in Electrical and Computer Engineering at the Johns Hopkins University, I work for Radiological Physics Division as a Graduate Research Assistant in the Russell H. Morgan Department of Radiology and Radiological Science at Johns Hopkins Medical Institutions, my advisor is Dr. Eric C. Frey. 
+I am a Ph.D. student in Electrical and Computer Engineering at the Johns Hopkins University, I am currently working for Radiological Physics Division as a Graduate Research Assistant in the Russell H. Morgan Department of Radiology and Radiological Science at Johns Hopkins Medical Institutions, adivsed by Dr. Eric C. Frey. 
 
 RESEARCH INTERESTS
 ----
