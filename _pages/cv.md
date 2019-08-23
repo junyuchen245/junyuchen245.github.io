@@ -52,7 +52,7 @@ Professional experience
 Teaching experience
 ======
 * Aug 2019 - Present: **Teaching Assistant**
-  * Medical Imaging Systems(EN520.432/EN580.472/EN520.632), Johns Hopkins University, *Baltimore, MD*
+  * Medical Imaging Systems (EN520.432/EN580.472/EN520.632), Johns Hopkins University, *Baltimore, MD*
   
 * Jan 2019 - May 2019: **Course Assistant**
   * Medical Image Analysis (EN520.433/623), Johns Hopkins University, *Baltimore, MD*
