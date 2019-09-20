@@ -12,7 +12,7 @@ ABOUT MYSELF
 ====
 I am a Ph.D. student in Electrical and Computer Engineering at the Johns Hopkins University, I am currently working for Radiological Physics Division as a Graduate Research Assistant in the Russell H. Morgan Department of Radiology and Radiological Science at Johns Hopkins Medical Institutions, adivsed by <a href="https://www.hopkinsmedicine.org/profiles/results/directory/profile/7285784/eric-frey">Dr. Eric C. Frey</a>. 
 
-I received my dual B.Sc. degrees with Summa Cum Laude honor in Computer Engineering and Electrical Engineering for <a href="https://www.ece.ncsu.edu/">North Carolina State University</a> in 2017, and my M.S.E. in Electrical & Computer Engineering from <a href="https://engineering.jhu.edu/ece/">Johns Hopkins University</a> in 2019, I then became a Ph.D. student there.
+I received my dual B.Sc. degrees with Summa Cum Laude honor in Computer Engineering and Electrical Engineering from <a href="https://www.ece.ncsu.edu/">North Carolina State University</a> in 2017, and my M.S.E. degree in Electrical & Computer Engineering from <a href="https://engineering.jhu.edu/ece/">Johns Hopkins University</a> in 2019, I then became a Ph.D. student there.
 
 RESEARCH INTERESTS
 ----
