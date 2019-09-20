@@ -28,11 +28,7 @@ EDUCATION
 
 MEMBERSHIPS
 ----
-#### Society of Nuclear Medicine and Molecular Imaging (SNMMI)
-  Scientist-in-Training Member
-#### Institute of Electrical and Electronics Engineers (IEEE)
-  Student Member
-#### The International Society for Optics and Photonics (SPIE)
-  Student Member
-#### Association for Computing Machinery (ACM)
-  Student Member
+#### Society of Nuclear Medicine and Molecular Imaging (SNMMI), *Scientist-in-Training Member*
+#### Institute of Electrical and Electronics Engineers (IEEE), *Student Member*
+#### The International Society for Optics and Photonics (SPIE), *Student Member*
+#### Association for Computing Machinery (ACM), *Student Member*
