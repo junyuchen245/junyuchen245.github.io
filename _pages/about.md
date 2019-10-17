@@ -37,4 +37,4 @@ TEACHING
 ----
 I gave several guest lectures when I was TA for Medical Imaging Systems course, lecture recordings can be find here:
 
-<a href="https://youtu.be/vaSidxjEWXY">1. Physics of Nuclear Medicine</a>
+<a href="https://youtu.be/rM4WBpq4-g0">1. Physics of Nuclear Medicine</a>
