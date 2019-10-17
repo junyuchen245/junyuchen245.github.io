@@ -32,3 +32,9 @@ MEMBERSHIPS
 #### Institute of Electrical and Electronics Engineers (IEEE), *Student Member*
 #### The International Society for Optics and Photonics (SPIE), *Student Member*
 #### Association for Computing Machinery (ACM), *Student Member*
+
+TEACHING
+----
+I gave several guest lectures when I was TA for Medical Imaging Systems course, lecture recordings can be find here:
+
+<a href="https://youtu.be/vaSidxjEWXY">1. Physics of Nuclear Medicine</a>
