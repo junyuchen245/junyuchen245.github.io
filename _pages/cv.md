@@ -18,10 +18,17 @@ Education
 
 Professional experience
 ------
+* Jun 2020 - Present: **PET Image Reconstruction and Quality Scientist Intern**
+  * ***Canon Medical Research USA, Inc.***, *Vernon Hills, IL*
+  * Duties included: 
+    * PET image denoising 
+    * Transfer learning
+    * Domain adaptation for deep neural networks
+  * Mentor & Supervisor: Dr. Chung (Jan) Chan & Dr. Evren Asma
 * Sep 2017 - Present: **Graduate Research Assistant**
   * ***Department of Radiology and Radiological Science, Johns Hopkins Medical Institutions***, *Baltimore, MD*
   * Duties included: 
-    * Nuclear Medicine Imaging 
+    * Nuclear Medicine imaging 
     * NM image segmentation 
     * NM image denoising 
     * Quantitative accuracy
