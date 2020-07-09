@@ -34,8 +34,18 @@ MEMBERSHIPS
 #### The International Society for Optics and Photonics (SPIE), *Student Member*
 #### Association for Computing Machinery (ACM), *Student Member*
 
+Presentations
+----
+#### Medical Image Segmentation via Unsupervised Convolutional Neural Network, MIDL 2020
+<a href="https://2020.midl.io/papers/chen20.html">Poster Presentation</a>
+
+#### A Fully Unsupervised Approach to Create Patient-like Phantoms via Convolutional Neural Networks, SNMMI 2020 Annual Meeting
+<a href="http://jnm.snmjournals.org/content/61/supplement_1/522.short">Oral Presentation</a>
+
 TEACHING
 ----
 I gave several guest lectures when I was TA for Medical Imaging Systems course, lecture recordings can be find here:
 
 <a href="https://youtu.be/Sk-IjeNy1aU">1. Physics of Nuclear Medicine</a>
+
+
