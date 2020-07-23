@@ -41,7 +41,7 @@ Presentations
 <a href="https://2020.midl.io/papers/chen20.html">Poster Presentation</a>
 
 #### *A Fully Unsupervised Approach to Create Patient-like Phantoms via Convolutional Neural Networks*, SNMMI 2020 Annual Meeting
-<a href="http://jnm.snmjournals.org/content/61/supplement_1/522.short">Oral Presentation</a>
+<a href="https://youtu.be/KUbIXUBA7bk">Oral Presentation</a>
 
 TEACHING
 ----
