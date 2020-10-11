@@ -48,7 +48,7 @@ PUBLICATIONS
 <a href="https://scholar.google.com/citations?user=9jIpgScAAAAJ&hl=en">Junyu Chen's Google Scholar</a>
 
 1.	<strong>Chen, J.</strong>, & Frey, E. C. (2020, January). Medical Image Segmentation via Unsupervised Convolutional Neural Network. In Medical Imaging with Deep Learning.
-2.	<strong>Chen, J.</strong>, Li, Y., & Frey, E. C. (2020). Generating Patient-like Phantoms Using Fully Unsupervised Deformable Image Registration with Convolutional Neural Networks. arXiv preprint arXiv: 1912.02942. (Accepted to Medical Physics)
+2.	<strong>Chen, J.</strong>, Li, Y., & Frey, E. C. (2020). Generating Anthropomorphic Phantoms Using Fully Unsupervised Deformable Image Registration with Convolutional Neural Networks. Medical Physics.
 3.	<strong>Chen, J.</strong>, Li, Y., & Frey, E. (2020). A fully unsupervised approach to create patient-like phantoms via convolutional neural networks. Journal of Nuclear Medicine, 61(supplement 1), 522-522. (Oral presentation)
 4.	Li, Y., <strong>Chen, J.</strong>, Brown, J., Treves, S. T., Cao, X., Fahey, F., ... & Frey, E. (2020). DeepAMO: An Anthropomorphic Model Observer for Visual Detection Tasks in Volume Images. Journal of Nuclear Medicine, 61(supplement 1), 1427-1427.
 5.	<strong>Chen, J.</strong>, Frey, E. C., & Lodge, M. A. (2019). Accuracy of PET/CT quantification in bone. Journal of Nuclear Medicine 60 (supplement 1), 1201-1201.
