@@ -15,12 +15,13 @@ We treat CNN as an optimization tool that iteratively minimizes the loss functio
 [Paper link](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.14545) | [PDF](http://junyuchen245.github.io/files/Phantoms_2020_MedPhy.pdf) | [Code](https://github.com/junyuchen245/Fully_Unsupervised_CNN_Registration_Keras)
 
 Citation:
-*APA:
+
+*APA:*
     
     'Chen, J., Li, Y., Du, Y. and Frey, E.C. (2020), Generating anthropomorphic phantoms using 
     fully unsupervised deformable image registration with convolutional neural networks. <i>Medical Physics</i>. https://doi.org/10.1002/mp.14545'
 
-*BibTex:
+*BibTex:*
     
     @article{chen2020phantoms,
     author = {Chen, Junyu and Li, Ye and Du, Yong and Frey, Eric C.},
