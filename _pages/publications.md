@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1.  Generating anthropomorphic phantoms using fully unsupervised deformable image registration with convolutional neural networks
+1.  ***Generating anthropomorphic phantoms using fully unsupervised deformable image registration with convolutional neural networks***
     
     * *Published in:* Medical Physics, 2020
     * *Paper link:* [https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.14545](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.14545)
