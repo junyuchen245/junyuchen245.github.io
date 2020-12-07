@@ -2,7 +2,6 @@
 title: "Generating anthropomorphic phantoms using fully unsupervised deformable image registration with convolutional neural networks"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-10-19
 venue: 'Medical Physics'
 paperurl: 'https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.14545'
@@ -14,6 +13,8 @@ We treat CNN as an optimization tool that iteratively minimizes the loss functio
 
 Recommended citation:
 
+    'Chen, J., Li, Y., Du, Y. and Frey, E.C. (2020), Generating anthropomorphic phantoms using fully unsupervised deformable image registration with convolutional neural networks. <i>Medical Physics</i>. https://doi.org/10.1002/mp.14545'
+    
     @article{chen2020phantoms,
     author = {Chen, Junyu and Li, Ye and Du, Yong and Frey, Eric C.},
     title = {Generating Anthropomorphic Phantoms Using Fully Unsupervised Deformable Image Registration with Convolutional Neural Networks},
