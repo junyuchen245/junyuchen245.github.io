@@ -13,6 +13,7 @@ We treat CNN as an optimization tool that iteratively minimizes the loss functio
 <img src="https://github.com/junyuchen245/junyuchen245.github.io/blob/master/images/MedPhy_phantom.jpg" width="1000"/>
 
 [Paper link](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.14545)
+
 [Download paper here](http://junyuchen245.github.io/files/Phantoms_2020_MedPhy.pdf)
 
 Citation:
