@@ -5,6 +5,8 @@ permalink: /publication/2009-10-01-paper-title-number-1
 date: 2020-10-19
 venue: 'Medical Physics'
 ---
+
+
 We treat CNN as an optimization tool that iteratively minimizes the loss function via reparametrization in each iteration. This means that the algorithm is fully unsupervised and thus **no prior training is required**. We generate phantom variations by warpping an XCAT phantom to capture the anatomical variations within the real human CT images.
 
 <img src="https://github.com/junyuchen245/junyuchen245.github.io/blob/master/images/MedPhy_phantom.jpg" width="1000"/>
