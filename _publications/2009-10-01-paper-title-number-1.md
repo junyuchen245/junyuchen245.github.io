@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2020-10-19
 venue: 'Medical Physics'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.14545'
 ---
 
 
