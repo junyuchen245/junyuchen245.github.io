@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 1.  ***Generating anthropomorphic phantoms using fully unsupervised deformable image registration with convolutional neural networks***
-    
+    * *Authors:* **Junyu Chen**, Ye Li, Yong Du, Eric C. Frey
     * *Published in:* Medical Physics, 2020
     * *Paper link:* [https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.14545](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.14545)
     * *PDF:* [Phantoms_2020_MedPhy.pdf](http://junyuchen245.github.io/files/Phantoms_2020_MedPhy.pdf)
@@ -27,6 +27,7 @@ author_profile: true
                     
                    
 2. ***Medical Image Segmentation via Unsupervised Convolutional Neural Network***     
+    * *Authors:* **Junyu Chen**, Eric C. Frey
     * *Published in:* Medical Imaging with Deep Learning, 2020
     * *Paper link:* [https://openreview.net/forum?id=XrbnSCv4LU](https://openreview.net/forum?id=XrbnSCv4LU)
     * *PDF:* [Unsupervised_CNNseg.pdf](https://openreview.net/pdf?id=XrbnSCv4LU)
@@ -41,3 +42,22 @@ author_profile: true
                     booktitle={Medical Imaging with Deep Learning},
                     year={2020}}
 
+3. ***Incorporating CT prior information in the robust fuzzy C-means algorithm for QSPECT image segmentation***
+    * *Authors:* **Junyu Chen**, Abhinav K Jha, Eric C. Frey
+    * *Published in:* Medical Imaging 2019: Image Processing
+    * *Paper link:* [SPIE Digital Library](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10949/109491W/Incorporating-CT-prior-information-in-the-robust-fuzzy-C-means/10.1117/12.2506805.short)
+    * *PDF:* [CT_prior_SPECT_Seg.pdf](http://junyuchen245.github.io/files/109491W.pdf)
+    * *Code:* [SPECT-CT-Seg-RFCM](https://github.com/junyuchen245/SPECT-CT-Seg-RFCM)
+    * *Description:* We propose and evaluate a fuzzy C-means (FCM) clustering based semi-automatic segmentation method on quantitative Tc-99m MDP quantitative SPECT/CT. We propose to incorporate information from registered CT images, which can be used to segment normal bones quite readily, into the FCM segmentation algorithm. The proposed method modifies the objective function of the robust fuzzy C-means (RFCM) method to include prior information about bone from CT images and spatial information from the SPECT image to allow for simultaneously segmenting lesion and bone in BQSPECT/CT images.
+    * <img src="/images/RFCM_Seg.jpg" width="700"/>
+    * *Citation:*
+        * *APA:* Chen, J., Jha, A. K., & Frey, E. C. (2019, March). Incorporating CT prior information in the robust fuzzy C-means algorithm for QSPECT image segmentation. In Medical Imaging 2019: Image Processing (Vol. 10949, p. 109491W). International Society for Optics and Photonics.
+        * *BibTex:* @inproceedings{chen2019incorporating,
+                    title={Incorporating CT prior information in the robust fuzzy C-means algorithm for QSPECT image segmentation},
+                    author={Chen, Junyu and Jha, Abhinav K and Frey, Eric C},
+                    booktitle={Medical Imaging 2019: Image Processing},
+                    volume={10949},
+                    pages={109491W},
+                    year={2019},
+                    organization={International Society for Optics and Photonics}
+                    }
