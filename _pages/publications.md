@@ -27,7 +27,8 @@ author_profile: true
 2. ***DeepAMO: A Multi-Slice, Multi-View Anthropomorphic Model Observer for Visual Detection Tasks Performed on Volume Images***
     * *Authors:* Y. Li, **J. Chen**, J. Brown, S.T. Treves, X. Cao, F.H. Fahey, G. Sgouros, W.E. Bolch, and E.C. Frey.
     * *Published in:*  Journal of Medical Imaging’s special section: Perspectives in Human and Model Observer Performance (Accepted), 2020
-    * *Paper link:* [DeepAMO.pdf](http://garyliye.com/DeepAMO.pdf)
+    * *Paper link:* Upcoming...
+    * *PDF:* [DeepAMO.pdf](http://garyliye.com/DeepAMO.pdf)
     * *Code:* [From GaryLi's site](http://garyliye.com/deepAMO.zip)
     * *Description:* We have developed a deep learning-based anthropomorphic model observer (DeepAMO) for image quality evaluation of multi-orientation, multi-slice image sets with respect to a clinically realistic 3D defect detection task. The input to the DeepAMO is a composite image,
 typical of that used to view 3D volumes in clinical practice. The output is a rating value designed to mimic human observer’s defect detection performance. The main
