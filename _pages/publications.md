@@ -28,7 +28,7 @@ author_profile: true
     * *Authors:* Y. Li, **J. Chen**, J. Brown, S.T. Treves, X. Cao, F.H. Fahey, G. Sgouros, W.E. Bolch, and E.C. Frey.
     * *Published in:*  Journal of Medical Imaging’s special section: Perspectives in Human and Model Observer Performance (Accepted), 2020
     * *Paper link:* [DeepAMO.pdf](http://garyliye.com/DeepAMO.pdf)
-    * *Code:* [From GaryLi's site](http://garyliye.com/DeepAMO.zip)
+    * *Code:* [From GaryLi's site](http://garyliye.com/deepAMO.zip)
     * *Description:* We have developed a deep learning-based anthropomorphic model observer (DeepAMO) for image quality evaluation of multi-orientation, multi-slice image sets with respect to a clinically realistic 3D defect detection task. The input to the DeepAMO is a composite image,
 typical of that used to view 3D volumes in clinical practice. The output is a rating value designed to mimic human observer’s defect detection performance. The main
 contributions of this paper are threefold. First, we propose a hypothetical model of the decision process of a reader performing a detection task using a 3D volume. Second, we propose a projection-based defect confirmation network architecture to confirm defect present in two different slicing orientations. Third, we propose a novel calibration method that ‘learns’ the underlying distribution of observer ratings from the human observer rating data (thus modeling
