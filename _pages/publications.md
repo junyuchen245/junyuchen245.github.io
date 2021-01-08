@@ -24,9 +24,21 @@ author_profile: true
                     pages = {},
                     doi = {10.1002/mp.14545},
                     url = {https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.14545},}
-                    
+2. ***DeepAMO: A Multi-Slice, Multi-View Anthropomorphic Model Observer for Visual Detection Tasks Performed on Volume Images***
+    * *Authors:* Y. Li, **J. Chen**, J. Brown, S.T. Treves, X. Cao, F.H. Fahey, G. Sgouros, W.E. Bolch, and E.C. Frey.
+    * *Published in:*  Journal of Medical Imaging’s special section: Perspectives in Human and Model Observer Performance (Accepted), 2020
+    * *Paper link:* [DeepAMO.pdf](http://garyliye.com/DeepAMO.pdf)
+    * *Code:* [From GaryLi's site](http://garyliye.com/DeepAMO.zip)
+    * *Description:* We have developed a deep learning-based anthropomorphic model observer (DeepAMO) for image quality evaluation of multi-orientation, multi-slice image sets with respect to a clinically realistic 3D defect detection task. The input to the DeepAMO is a composite image,
+typical of that used to view 3D volumes in clinical practice. The output is a rating value designed to mimic human observer’s defect detection performance. The main
+contributions of this paper are threefold. First, we propose a hypothetical model of the decision process of a reader performing a detection task using a 3D volume. Second, we propose a projection-based defect confirmation network architecture to confirm defect present in two different slicing orientations. Third, we propose a novel calibration method that ‘learns’ the underlying distribution of observer ratings from the human observer rating data (thus modeling
+inter- or intra- observer variability) using a Mixture Density Network.
+    * <img src="/images/DeepAMO_profile_pic.png" width="700"/>
+    * *Citation:*
+        * *APA:* Upcoming...
+        * *BibTex:* Upcoming...
                    
-2. ***Medical Image Segmentation via Unsupervised Convolutional Neural Network***     
+3. ***Medical Image Segmentation via Unsupervised Convolutional Neural Network***     
     * *Authors:* **Junyu Chen**, Eric C. Frey
     * *Published in:* Medical Imaging with Deep Learning, 2020
     * *Paper link:* [https://openreview.net/forum?id=XrbnSCv4LU](https://openreview.net/forum?id=XrbnSCv4LU)
@@ -42,7 +54,7 @@ author_profile: true
                     booktitle={Medical Imaging with Deep Learning},
                     year={2020}}
 
-3. ***Incorporating CT prior information in the robust fuzzy C-means algorithm for QSPECT image segmentation***
+4. ***Incorporating CT prior information in the robust fuzzy C-means algorithm for QSPECT image segmentation***
     * *Authors:* **Junyu Chen**, Abhinav K Jha, Eric C. Frey
     * *Published in:* Medical Imaging 2019: Image Processing
     * *Paper link:* [SPIE Digital Library](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10949/109491W/Incorporating-CT-prior-information-in-the-robust-fuzzy-C-means/10.1117/12.2506805.short)
