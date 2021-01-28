@@ -27,7 +27,7 @@ author_profile: true
 2. ***DeepAMO: A Multi-Slice, Multi-View Anthropomorphic Model Observer for Visual Detection Tasks Performed on Volume Images***
     * *Authors:* Y. Li, **J. Chen**, J. Brown, S.T. Treves, X. Cao, F.H. Fahey, G. Sgouros, W.E. Bolch, and E.C. Frey.
     * *Published in:*  Journal of Medical Imaging’s special section: Perspectives in Human and Model Observer Performance (Accepted), 2020
-    * *Paper link:* Upcoming...
+    * *Paper link:* [SPIE. Digital Library](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-8/issue-4/041204/DeepAMO--a-multi-slice-multi-view-anthropomorphic-model-observer/10.1117/1.JMI.8.4.041204.short?SSO=1)
     * *PDF:* [DeepAMO.pdf](http://garyliye.com/DeepAMO.pdf)
     * *Code:* [From GaryLi's site](http://garyliye.com/deepAMO.zip)
     * *Description:* We have developed a deep learning-based anthropomorphic model observer (DeepAMO) for image quality evaluation of multi-orientation, multi-slice image sets with respect to a clinically realistic 3D defect detection task. The input to the DeepAMO is a composite image,
@@ -36,9 +36,20 @@ contributions of this paper are threefold. First, we propose a hypothetical mode
 inter- or intra- observer variability) using a Mixture Density Network.
     * <img src="/images/DeepAMO_profile_pic.png" width="700"/>
     * *Citation:*
-        * *APA:* Upcoming...
-        * *BibTex:* Upcoming...
-                   
+        * *APA:* Li, Y., Chen, J., Brown, J. L., Treves, S. T., Cao, X., Fahey, F. H., Sgouros, G., Bolch, W. E., & Frey, E. C. (2021, January). DeepAMO: a                   multi-slice, multi-view anthropomorphic model observer for visual detection tasks performed on volume images. <i>Journal of Medical                            Imaging</i>. https://doi:10.1117/1.JMI.8.4.041204
+        * *BibTex:*  @article{10.1117/1.JMI.8.4.041204,
+                     author = {Ye Li and Junyu Chen and Justin L. Brown and S. Ted Treves and Xinhua Cao and Frederic H. Fahey and George Sgouros and Wesley                      E. Bolch and Eric C. Frey},
+                     title = {{DeepAMO: a multi-slice, multi-view anthropomorphic model observer for visual detection tasks performed on volume images}},
+                     volume = {8},
+                     journal = {Journal of Medical Imaging},
+                     number = {4},
+                     publisher = {SPIE},
+                     pages = {1 -- 22},
+                     keywords = {model observer, deep learning, task-based image quality assessment},
+                     year = {2021},
+                     doi = {10.1117/1.JMI.8.4.041204},
+                     URL = {https://doi.org/10.1117/1.JMI.8.4.041204},}
+   
 3. ***Medical Image Segmentation via Unsupervised Convolutional Neural Network***     
     * *Authors:* **Junyu Chen**, Eric C. Frey
     * *Published in:* Medical Imaging with Deep Learning, 2020
