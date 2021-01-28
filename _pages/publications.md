@@ -14,14 +14,14 @@ author_profile: true
     * *Description:* We treat CNN as an optimization tool that iteratively minimizes the loss function via reparametrization in each iteration. This means that the algorithm is fully unsupervised and thus **no prior training is required**. We generate phantom variations by warpping an XCAT phantom to capture the anatomical variations within the real human CT images.
     * <img src="/images/MedPhy_phantom.jpg" width="1000"/>
     * *Citation:*
-        * *APA:* Chen, J., Li, Y., Du, Y. and Frey, E.C. (2020), Generating anthropomorphic phantoms using fully unsupervised deformable image registration with convolutional neural networks. <i>Medical Physics</i>. https://doi.org/10.1002/mp.14545
+        * *APA:* Chen, J., Li, Y., Du, Y. and Frey, E.C. (2020), Generating anthropomorphic phantoms using fully unsupervised deformable image registration with convolutional neural networks. <i>Med. Phys.</i>, 47: 6366-6380. https://doi.org/10.1002/mp.14545
         * *BibTex:* @article{chen2020phantoms,
                     author = {Chen, Junyu and Li, Ye and Du, Yong and Frey, Eric C.},
                     title = {Generating Anthropomorphic Phantoms Using Fully Unsupervised Deformable Image Registration with Convolutional Neural Networks},
                     journal = {Medical Physics},
-                    volume = {n/a},
-                    number = {n/a},
-                    pages = {},
+                    volume = {47},
+                    number = {12},
+                    pages = {6366-6380},
                     doi = {10.1002/mp.14545},
                     url = {https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.14545},}
 2. ***DeepAMO: A Multi-Slice, Multi-View Anthropomorphic Model Observer for Visual Detection Tasks Performed on Volume Images***
@@ -36,7 +36,7 @@ contributions of this paper are threefold. First, we propose a hypothetical mode
 inter- or intra- observer variability) using a Mixture Density Network.
     * <img src="/images/DeepAMO_profile_pic.png" width="700"/>
     * *Citation:*
-        * *APA:* Li, Y., Chen, J., Brown, J. L., Treves, S. T., Cao, X., Fahey, F. H., Sgouros, G., Bolch, W. E., & Frey, E. C. (2021, January). DeepAMO: a                   multi-slice, multi-view anthropomorphic model observer for visual detection tasks performed on volume images. <i>Journal of Medical                            Imaging</i>. https://doi:10.1117/1.JMI.8.4.041204
+        * *APA:* Li, Y., Chen, J., Brown, J. L., Treves, S. T., Cao, X., Fahey, F. H., Sgouros, G., Bolch, W. E., & Frey, E. C. (2021, January). DeepAMO: a                   multi-slice, multi-view anthropomorphic model observer for visual detection tasks performed on volume images. <i>Journal of Medical                            Imaging</i>, 8(4): 041204. https://doi:10.1117/1.JMI.8.4.041204
         * *BibTex:*  @article{10.1117/1.JMI.8.4.041204,
                      author = {Ye Li and Junyu Chen and Justin L. Brown and S. Ted Treves and Xinhua Cao and Frederic H. Fahey and George Sgouros and Wesley                      E. Bolch and Eric C. Frey},
                      title = {{DeepAMO: a multi-slice, multi-view anthropomorphic model observer for visual detection tasks performed on volume images}},
