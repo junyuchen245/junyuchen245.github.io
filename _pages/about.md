@@ -49,7 +49,7 @@ PUBLICATIONS
 
 ***Journal Publications:***
 1.	<strong>Chen, J.</strong>, Li, Y., Chen, J., Brown, J. L., Treves, S. T., Cao, X., Fahey, F. H., ... & Frey, E. C. (2021). DeepAMO: a multi-slice, multi-view anthropomorphic model observer for visual detection tasks performed on volume images. Journal of Medical Imaging, 8(4), 041204.
-2.	<strong>Chen, J.</strong>, Li, Y., Du, Y., & Frey, E. C. (2020). Generating Anthropomorphic Phantoms Using Fully Unsupervised Deformable Image Registration with Convolutional Neural Networks. Medical Physics. (<div class="text-purple">Editor's Choice</div>)
+2.	<strong>Chen, J.</strong>, Li, Y., Du, Y., & Frey, E. C. (2020). Generating Anthropomorphic Phantoms Using Fully Unsupervised Deformable Image Registration with Convolutional Neural Networks. Medical Physics. (***<a href="https://aapm.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2473-4209.EDITORS_CHOICE">Editor's Choice</a>***)
 
 ***Conference Publications:***
 1.	<strong>Chen, J.</strong>, & Frey, E. C. (2020, January). Medical Image Segmentation via Unsupervised Convolutional Neural Network. In Medical Imaging with Deep Learning.
