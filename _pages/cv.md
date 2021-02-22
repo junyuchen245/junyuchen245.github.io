@@ -56,6 +56,11 @@ Professional experience
     * Did several performance measurements for their transceiver products.
   * Supervisor: Kenny Man
  
+Jounral peer review activies
+------
+* Medical Physics
+* Computer Methods and Programs in Biomedicine 
+ 
 Teaching experience
 ------
 * Aug 2020 - Dec 2020: **Teaching Assistant**
