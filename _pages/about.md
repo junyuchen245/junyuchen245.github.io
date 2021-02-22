@@ -61,6 +61,10 @@ PUBLICATIONS
 7.	Li, X., Chen, L., & <strong>Chen, J.</strong> (2017, December). A visual saliency-based method for automatic lung regions extraction in chest radiographs. In 2017 14th International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP) (pp. 162-165). IEEE.
 8.	Zhong, B., Qin, Z., Yang, S., <strong>Chen, J.</strong>, Mudrick, N., Taub, M., ... & Lobaton, E. (2017, December). Emotion recognition with facial expressions and physiological signals. In 2017 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 1-8). IEEE.
 
+PEER REVIEW ACTIVITIES
+----
+1. <a href="https://aapm.onlinelibrary.wiley.com/journal/24734209">Medical Physics</a> (IF: 3.317)
+2. <a href="https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine">Computer Methods and Programs in Biomedicine</a> (IF: 3.632)
 
 TEACHING
 ----
