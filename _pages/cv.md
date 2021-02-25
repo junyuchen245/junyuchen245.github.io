@@ -60,6 +60,7 @@ Jounral peer review activies
 ------
 * Medical Physics
 * Computer Methods and Programs in Biomedicine 
+* IEEE Access
  
 Teaching experience
 ------
