@@ -65,6 +65,7 @@ PEER REVIEW ACTIVITIES
 ----
 1. <a href="https://aapm.onlinelibrary.wiley.com/journal/24734209">Medical Physics</a> (IF: 3.317)
 2. <a href="https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine">Computer Methods and Programs in Biomedicine</a> (IF: 3.632)
+3. <a href="https://ieeeaccess.ieee.org/">IEEE Access</a> (IF: 3.745)
 
 TEACHING
 ----
