@@ -11,7 +11,7 @@ author_profile: true
     * *PDF:* [https://openreview.net/pdf?id=h3HC1EU7AEz](https://openreview.net/pdf?id=h3HC1EU7AEz)
     * *Code:* [ViT-V-Net_for_3D_Image_Registration](https://github.com/junyuchen245/ViT-V-Net_for_3D_Image_Registration)
     * *Description:* We present ViT-V-Net that bridges Vision Transformer and V-Net for volumetric medical image registration. The experimental results demonstrate that the proposed architecture achieves superior performance to several state-of-the-art registration methods.
-    * <img src="/images/ViT-V-Net.jpg" width="1000"/>
+    * <img src="/images/ViT-V-Net.jpg" width="800"/>
     * *Citation:* Coming soon...
 
 2.  ***Generating anthropomorphic phantoms using fully unsupervised deformable image registration with convolutional neural networks***
