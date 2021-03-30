@@ -4,7 +4,17 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-1. ***ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration***
+1.  ***Learning Fuzzy Clustering for SPECT/CT Segmentation via Convolutional Neural Networks***
+    * *Authors:* **Junyu Chen**, Ye Li, Licia P. Luna, Hyun Woo Chung, Steven P. Rowe, Yong Du, Lilja B. Solnes, and Eric C. Frey
+    * *Published in:* Medical Physics *Accpeted*
+    * *Paper link:* Coming soon...
+    * *PDF:* Coming soon...
+    * *Code:* Coming soon...
+    * *Description:* We present a new unsupervised segmentation loss function and its semi- and supervised variants for training a convolutional neural network (ConvNet). The loss functions were developed based on the objective function of the classical Fuzzy C-means (FCM) algorithm. The first proposed loss function can be computed within the input image itself without any ground truth labels, and is thus unsupervised; the proposed supervised loss function follows the traditional paradigm of the deep learning-based segmentation methods and leverages ground truth labels during training. The last loss function is a combination of the first and the second and includes a weighting parameter, which enables semi-supervised segmentation using deep learning neural network.
+    * <img src="/images/overview.jpg" width="600"/>
+    * *Citation:* Coming soon...
+    
+2. ***ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration***
     * *Authors:* **Junyu Chen**, Yufan He, Eric C. Frey, Ye Li, Yong Du
     * *Published in:* MIDL 2021 Short Paper Track, Under Review
     * *Paper link:* [https://openreview.net/forum?id=h3HC1EU7AEz](https://openreview.net/forum?id=h3HC1EU7AEz)
@@ -14,7 +24,7 @@ author_profile: true
     * <img src="/images/ViT-V-Net.jpg" width="800"/>
     * *Citation:* Coming soon...
 
-2.  ***Generating anthropomorphic phantoms using fully unsupervised deformable image registration with convolutional neural networks***
+3.  ***Generating anthropomorphic phantoms using fully unsupervised deformable image registration with convolutional neural networks***
     * *Authors:* **Junyu Chen**, Ye Li, Yong Du, Eric C. Frey
     * *Published in:* Medical Physics, Dec. 2020 (***Editor's Choice***)
     * *Paper link:* [https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.14545](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.14545)
@@ -33,7 +43,7 @@ author_profile: true
                     pages = {6366-6380},
                     doi = {10.1002/mp.14545},
                     url = {https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.14545},}
-3. ***DeepAMO: A Multi-Slice, Multi-View Anthropomorphic Model Observer for Visual Detection Tasks Performed on Volume Images***
+4. ***DeepAMO: A Multi-Slice, Multi-View Anthropomorphic Model Observer for Visual Detection Tasks Performed on Volume Images***
     * *Authors:* Ye Li, **Junyu Chen**, Justin L. Brown, S. Ted Treves, Xinhua Cao, Frederic H. Fahey, George Sgouros, Wesley E. Bolch, Eric C. Frey
     * *Published in:*  Journal of Medical Imaging’s special section: Perspectives in Human and Model Observer Performance, 2020
     * *Paper link:* [SPIE. Digital Library](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-8/issue-4/041204/DeepAMO--a-multi-slice-multi-view-anthropomorphic-model-observer/10.1117/1.JMI.8.4.041204.short?SSO=1)
@@ -59,7 +69,7 @@ inter- or intra- observer variability) using a Mixture Density Network.
                      doi = {10.1117/1.JMI.8.4.041204},
                      URL = {https://doi.org/10.1117/1.JMI.8.4.041204},}
    
-4. ***Medical Image Segmentation via Unsupervised Convolutional Neural Network***     
+5. ***Medical Image Segmentation via Unsupervised Convolutional Neural Network***     
     * *Authors:* **Junyu Chen**, Eric C. Frey
     * *Published in:* Medical Imaging with Deep Learning, 2020
     * *Paper link:* [https://openreview.net/forum?id=XrbnSCv4LU](https://openreview.net/forum?id=XrbnSCv4LU)
@@ -75,7 +85,7 @@ inter- or intra- observer variability) using a Mixture Density Network.
                     booktitle={Medical Imaging with Deep Learning},
                     year={2020}}
 
-5. ***Incorporating CT prior information in the robust fuzzy C-means algorithm for QSPECT image segmentation***
+6. ***Incorporating CT prior information in the robust fuzzy C-means algorithm for QSPECT image segmentation***
     * *Authors:* **Junyu Chen**, Abhinav K Jha, Eric C. Frey
     * *Published in:* Medical Imaging 2019: Image Processing
     * *Paper link:* [SPIE Digital Library](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10949/109491W/Incorporating-CT-prior-information-in-the-robust-fuzzy-C-means/10.1117/12.2506805.short)
