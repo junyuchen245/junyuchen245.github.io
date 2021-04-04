@@ -45,7 +45,7 @@ PRESENTATIONS
 
 PUBLICATIONS
 ------
-<a href="https://scholar.google.com/citations?user=9jIpgScAAAAJ&hl=en">Junyu Chen's Google Scholar</a>
+<a href="https://scholar.google.com/citations?user=9jIpgScAAAAJ&hl=en">Junyu Chen on Google Scholar</a>
 
 ***Journal Publications:***
 1.	<strong>Chen, J.</strong>, Li, Y., Luna, L. P., Chung, H. W., Rowe, S. P., Du, Y., Solnes, L. B., & Frey, E. C. (2021). Learning Fuzzy Clustering for SPECT/CT Segmentation via Convolutional Neural Networks. Medical Physics. (***Accepted***) 
