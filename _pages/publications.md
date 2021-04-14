@@ -6,7 +6,7 @@ author_profile: true
 ---
 1.  ***Learning Fuzzy Clustering for SPECT/CT Segmentation via Convolutional Neural Networks***
     * *Authors:* **Junyu Chen**, Ye Li, Licia P. Luna, Hyun Woo Chung, Steven P. Rowe, Yong Du, Lilja B. Solnes, and Eric C. Frey
-    * *Published in:* Medical Physics *Accpeted*
+    * *Published in:* Medical Physics *In press*
     * *Paper link:* Coming soon...
     * *PDF:* Coming soon...
     * *Code:* [Semi-supervised_FCM_Loss_for_Segmentation](https://github.com/junyuchen245/Semi-supervised_FCM_Loss_for_Segmentation)
