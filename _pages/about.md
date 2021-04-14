@@ -12,7 +12,7 @@ ABOUT MYSELF
 ====
 I am a Ph.D. student in Electrical and Computer Engineering at the Johns Hopkins University, I am currently working for <a href="https://www.hopkinsmedicine.org/radiology/research/divisions/radiological-physics/our-team.html">Radiological Physics Division</a> as a Graduate Research Assistant in the <a href="https://www.hopkinsmedicine.org/radiology/index.html">Russell H. Morgan Department of Radiology and Radiological Science</a> at Johns Hopkins Medical Institutions, adivsed by <a href="https://scholar.google.com/citations?user=_-K45vUAAAAJ&hl=en">Dr. Eric C. Frey</a>. I'm also working at <a href="https://www.research.us.medical.canon/"> Canon Medical Research USA, Inc.</a> (full-time in Summer 2020, part-time in Fall 2020 and Spring 2021), as a PET Image Reconstruction and Quality Scientist Intern, where I am supervised by <a href="https://scholar.google.com/citations?user=h5ZNDBUAAAAJ&hl=en"> Dr. Evren Asma</a> and mentored by <a href="https://scholar.google.com/citations?user=Or4xII0AAAAJ&hl=en"> Dr. Chung (Jan) Chan</a>.
 
-I received my dual B.Sc. degrees with <a href="http://catalog.ncsu.edu/undergraduate/academic-policies-procedures/student-status-honors/academic-honors/">Summa Cum Laude</a> honor in Computer Engineering and Electrical Engineering from <a href="https://www.ece.ncsu.edu/">North Carolina State University</a> in 2017, and my M.S.E. degree in Electrical & Computer Engineering from <a href="https://engineering.jhu.edu/ece/">Johns Hopkins University</a> in 2019, I then became a Ph.D. student there.
+I received my dual B.Sc. degrees with <a href="http://catalog.ncsu.edu/undergraduate/academic-policies-procedures/student-status-honors/academic-honors/">Summa Cum Laude</a> honors in Computer Engineering and Electrical Engineering from <a href="https://www.ece.ncsu.edu/">North Carolina State University</a> in 2017, and my M.S.E. degree in Electrical & Computer Engineering from <a href="https://engineering.jhu.edu/ece/">Johns Hopkins University</a> in 2019, I then became a Ph.D. student there.
 
 RESEARCH INTERESTS
 ----
@@ -48,7 +48,7 @@ PUBLICATIONS
 <a href="https://scholar.google.com/citations?user=9jIpgScAAAAJ&hl=en">Junyu Chen on Google Scholar</a>
 
 ***Journal Publications:***
-1.	<strong>Chen, J.</strong>, Li, Y., Luna, L. P., Chung, H. W., Rowe, S. P., Du, Y., Solnes, L. B., & Frey, E. C. (2021). Learning Fuzzy Clustering for SPECT/CT Segmentation via Convolutional Neural Networks. Medical Physics. (***Accepted***) 
+1.	<strong>Chen, J.</strong>, Li, Y., Luna, L. P., Chung, H. W., Rowe, S. P., Du, Y., Solnes, L. B., & Frey, E. C. (2021). Learning Fuzzy Clustering for SPECT/CT Segmentation via Convolutional Neural Networks. Medical Physics. (***In press***) 
 1.	Li, Y., <strong>Chen, J.</strong>, Brown, J. L., Treves, S. T., Cao, X., Fahey, F. H., ... & Frey, E. C. (2021). DeepAMO: a multi-slice, multi-view anthropomorphic model observer for visual detection tasks performed on volume images. Journal of Medical Imaging, 8(4), 041204.
 3.	<strong>Chen, J.</strong>, Li, Y., Du, Y., & Frey, E. C. (2020). Generating Anthropomorphic Phantoms Using Fully Unsupervised Deformable Image Registration with Convolutional Neural Networks. Medical Physics, 47: 6366-6380. (***<a href="https://aapm.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2473-4209.EDITORS_CHOICE">Editor's Choice</a>***)
 
