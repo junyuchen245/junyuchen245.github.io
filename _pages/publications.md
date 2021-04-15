@@ -22,8 +22,16 @@ author_profile: true
     * *Code:* [ViT-V-Net_for_3D_Image_Registration](https://github.com/junyuchen245/ViT-V-Net_for_3D_Image_Registration)
     * *Description:* We present ViT-V-Net that bridges Vision Transformer and V-Net for volumetric medical image registration. The experimental results demonstrate that the proposed architecture achieves superior performance to several state-of-the-art registration methods.
     * <img src="/images/ViT-V-Net.jpg" width="800"/>
-    * *Citation:* Coming soon...
-
+    * *Citation:*
+         * *APA:* Chen, J., He, Y., Frey, E. C., Li, Y. and Du, Y. (2021), ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration. <i>arXiv preprint</i>
+         * *BibTex:*@misc{chen2021vitvnet,
+                     title={ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration}, 
+                     author={Junyu Chen and Yufan He and Eric C. Frey and Ye Li and Yong Du},
+                     year={2021},
+                     eprint={2104.06468},
+                     archivePrefix={arXiv},
+                     primaryClass={eess.IV}
+                     }
 3.  ***Generating anthropomorphic phantoms using fully unsupervised deformable image registration with convolutional neural networks***
     * *Authors:* **Junyu Chen**, Ye Li, Yong Du, Eric C. Frey
     * *Published in:* Medical Physics, Dec. 2020 (***Editor's Choice***)
