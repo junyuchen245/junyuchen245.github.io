@@ -23,7 +23,7 @@ author_profile: true
             pages = {},
             doi = {https://doi.org/10.1002/mp.14903},
             url = {https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.14903},
-            eprint = {https://aapm.onlinelibrary.wiley.com/doi/pdf/10.1002/mp.14903},
+            eprint = {https://aapm.onlinelibrary.wiley.com/doi/pdf/10.1002/mp.14903}
             }
     
 2. ***ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration***
@@ -62,7 +62,7 @@ author_profile: true
                     number = {12},
                     pages = {6366-6380},
                     doi = {10.1002/mp.14545},
-                    url = {https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.14545},}
+                    url = {https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.14545}}
 4. ***DeepAMO: A Multi-Slice, Multi-View Anthropomorphic Model Observer for Visual Detection Tasks Performed on Volume Images***
     * *Authors:* Ye Li, **Junyu Chen**, Justin L. Brown, S. Ted Treves, Xinhua Cao, Frederic H. Fahey, George Sgouros, Wesley E. Bolch, Eric C. Frey
     * *Published in:*  Journal of Medical Imaging’s special section: Perspectives in Human and Model Observer Performance, 2020
@@ -87,7 +87,7 @@ inter- or intra- observer variability) using a Mixture Density Network.
                      keywords = {model observer, deep learning, task-based image quality assessment},
                      year = {2021},
                      doi = {10.1117/1.JMI.8.4.041204},
-                     URL = {https://doi.org/10.1117/1.JMI.8.4.041204},}
+                     URL = {https://doi.org/10.1117/1.JMI.8.4.041204}}
    
 5. ***Medical Image Segmentation via Unsupervised Convolutional Neural Network***     
     * *Authors:* **Junyu Chen**, Eric C. Frey
