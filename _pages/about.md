@@ -21,7 +21,7 @@ RESEARCH INTERESTS
 #### Deep Learning & Machine Learning
 #### Digital Phantoms
 
-EDUCATION <img src="JHU_flat.png" width="170"/> <img src="NC.png" width="200"/>
+EDUCATION <img src="images/JHU_flat.png" width="170"/> <img src="images/NC.png" width="200"/>
 ----
 #### Ph.D. in Electrical & Computer Engineering, <a href="https://engineering.jhu.edu/ece/">Johns Hopkins University</a> (Baltimore, MD) (~2023)
 #### M.S.E. in Electrical & Computer Engineering, <a href="https://engineering.jhu.edu/ece/">Johns Hopkins University</a> (Baltimore, MD) (2019)   
