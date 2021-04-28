@@ -6,21 +6,25 @@ author_profile: true
 ---
 1.  ***Learning Fuzzy Clustering for SPECT/CT Segmentation via Convolutional Neural Networks***
     * *Authors:* **Junyu Chen**, Ye Li, Licia P. Luna, Hyun Woo Chung, Steven P. Rowe, Yong Du, Lilja B. Solnes, and Eric C. Frey
-    * *Published in:* Medical Physics (*In press*)
-    * *Paper link:* [on *arXiv*](https://arxiv.org/abs/2104.08623)
-    * *PDF:* [*pre-print*](https://arxiv.org/pdf/2104.08623.pdf)
+    * *Published in:* Medical Physics
+    * *Paper link:* [https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.14903](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.14903)
+    * *PDF:* [*arXiv pre-print*](https://arxiv.org/pdf/2104.08623.pdf)
     * *Code:* [Semi-supervised_FCM_Loss_for_Segmentation](https://github.com/junyuchen245/Semi-supervised_FCM_Loss_for_Segmentation)
     * *Description:* We present a new unsupervised segmentation loss function and its semi- and supervised variants for training a convolutional neural network (ConvNet). The loss functions were developed based on the objective function of the classical Fuzzy C-means (FCM) algorithm. The first proposed loss function can be computed within the input image itself without any ground truth labels, and is thus unsupervised; the proposed supervised loss function follows the traditional paradigm of the deep learning-based segmentation methods and leverages ground truth labels during training. The last loss function is a combination of the first and the second and includes a weighting parameter, which enables semi-supervised segmentation using deep learning neural network.
     * <img src="/images/overview.jpg" width="600"/>
     * *Citation:* 
-         * *APA:* Chen, J., Li, Y., Luna, L., Chung, H.W., Rowe, S., Du, Y., Solnes, L.B., & Frey, E. (2021). Learning Fuzzy Clustering for SPECT/CT Segmentation via Convolutional Neural Networks. <i>Med. Phys. (In Press)</i>
-         * *BibTex:*@article{chen2021SPECT,
-                     title={Learning Fuzzy Clustering for SPECT/CT Segmentation via Convolutional Neural Networks},
-                     author={Chen, Junyu and Li, Ye and Luna, Licia P. and Chung, Hyun Woo and Rowe, Steven P.  and Du, Yong and Solnes, Lilja B. and Frey, Eric C.},
-                     journal={Medical physics},
-                     year={2021 (in press)},
-                     publisher={Wiley Online Library}
-                     }
+         * *APA:* Chen, J., Li, Y., Luna, L.P., Chung, H.W., Rowe, S.P., Du, Y., Solnes, L.B. and Frey, E.C. (2021), Learning Fuzzy Clustering for SPECT/CT Segmentation via Convolutional Neural Networks. <i>Med. Phys.</i>. Accepted Author Manuscript. https://doi.org/10.1002/mp.14903
+         * *BibTex:@article{https://doi.org/10.1002/mp.14903,
+            author = {Chen, Junyu and Li, Ye and Luna, Licia P. and Chung, Hyun Woo and Rowe, Steven P. and Du, Yong and Solnes, Lilja B. and Frey, Eric C.},
+            title = {Learning Fuzzy Clustering for SPECT/CT Segmentation via Convolutional Neural Networks},
+            journal = {Medical Physics},
+            volume = {n/a},
+            number = {n/a},
+            pages = {},
+            doi = {https://doi.org/10.1002/mp.14903},
+            url = {https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.14903},
+            eprint = {https://aapm.onlinelibrary.wiley.com/doi/pdf/10.1002/mp.14903},
+            }
     
 2. ***ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration***
     * *Authors:* **Junyu Chen**, Yufan He, Eric C. Frey, Ye Li, Yong Du
