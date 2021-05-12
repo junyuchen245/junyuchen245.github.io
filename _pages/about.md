@@ -47,10 +47,10 @@ Upcoming...
 Upcoming...
 
 #### *Medical Image Segmentation via Unsupervised Convolutional Neural Network*, MIDL 2020
-<a href="https://2020.midl.io/papers/chen20.html">Poster Presentation</a>
+*Poster Presentation* [<img src="/images/youtube-logo-png.png" width="25"/>](https://2020.midl.io/papers/chen20.html)
 
 #### *A Fully Unsupervised Approach to Create Patient-like Phantoms via Convolutional Neural Networks*, SNMMI 2020 Annual Meeting
-<a href="https://youtu.be/KUbIXUBA7bk">Oral Presentation</a>
+*Oral Presentation* [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/KUbIXUBA7bk)
 
 PUBLICATIONS
 ------
@@ -84,6 +84,6 @@ TEACHING
 ----
 I gave several guest lectures when I was a TA for Medical Imaging Systems course, some lecture recordings can be found here:
 
-<a href="https://youtu.be/Sk-IjeNy1aU">1. Physics of Nuclear Medicine</a>
+1. Physics of Nuclear Medicine [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/Sk-IjeNy1aU)
 
 
