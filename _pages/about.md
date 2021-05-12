@@ -37,6 +37,15 @@ MEMBERSHIPS
 
 PRESENTATIONS
 ----
+#### *ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration*, MIDL 2021
+Upcoming...
+
+#### *Creating Anthropomorphic Phantoms via Unsupervised Convolutional Neural Networks*, MIDL 2021
+Upcoming...
+
+#### *Semi-supervised SPECT segmentation using convolutional neural networks*, SNMMI 2021 Annual Meeting
+Upcoming...
+
 #### *Medical Image Segmentation via Unsupervised Convolutional Neural Network*, MIDL 2020
 <a href="https://2020.midl.io/papers/chen20.html">Poster Presentation</a>
 
