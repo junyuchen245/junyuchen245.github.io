@@ -28,7 +28,7 @@ author_profile: true
     
 2. ***ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration***
     * *Authors:* **Junyu Chen**, Yufan He, Eric C. Frey, Ye Li, Yong Du
-    * *Published in:* arXiv
+    * *Published in:* Medical Imaging with Deep Learning, 2021
     * *Paper link:* [https://arxiv.org/abs/2104.06468](https://arxiv.org/abs/2104.06468)
     * *PDF:* [https://arxiv.org/abs/2104.06468](https://arxiv.org/pdf/2104.06468.pdf)
     * *Code:* [ViT-V-Net_for_3D_Image_Registration](https://github.com/junyuchen245/ViT-V-Net_for_3D_Image_Registration)
