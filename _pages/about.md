@@ -17,7 +17,7 @@ I received my dual B.Sc. degrees with <a href="http://catalog.ncsu.edu/undergrad
 RESEARCH INTERESTS
 ----
 #### Nuclear Medicine Imaging (SPECT, PET)
-#### Medical Image Analysis (Segmentation, Desnoising)
+#### Medical Image Analysis (Segmentation, Registration, Desnoising)
 #### Deep Learning & Machine Learning
 #### Digital Phantoms
 
