@@ -65,7 +65,7 @@ PUBLICATIONS
 3.	<strong>Chen, J.</strong>, Li, Y., Du, Y., & Frey, E. C. (2020). Generating Anthropomorphic Phantoms Using Fully Unsupervised Deformable Image Registration with Convolutional Neural Networks. Medical Physics, 47: 6366-6380. (***<a href="https://aapm.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2473-4209.EDITORS_CHOICE">Editor's Choice</a>***)
 
 ***Conference Publications:***
-1. <strong>Chen, J.</strong>, Asma, E., Chan, C. (2021). Targeted Gradient Descent: A Novel Method for Convolutional Neural Networks Fine-tuning and Online-learning. In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). (*provisionally accepted, top 13% of 1630 papers*)
+1. <strong>Chen, J.</strong>, Asma, E., & Chan, C. (2021). Targeted Gradient Descent: A Novel Method for Convolutional Neural Networks Fine-tuning and Online-learning. In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). (*provisionally accepted, top 13% of 1630 papers*)
 2. <strong>Chen, J.</strong>, He, Y., Frey, E. C., Li, Y., & Du, Y. (2021). ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration. In Medical Imaging with Deep Learning (MIDL).
 3. <strong>Chen, J.</strong>, Li, Y., Du, Y., & Frey, E. (2021). Creating Anthropomorphic Phantoms via Unsupervised Convolutional Neural Networks. In Medical Imaging with Deep Learning (MIDL).
 4.	<strong>Chen, J.</strong>, & Frey, E. C. (2020, January). Medical Image Segmentation via Unsupervised Convolutional Neural Network. In Medical Imaging with Deep Learning (MIDL).
