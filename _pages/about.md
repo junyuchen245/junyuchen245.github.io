@@ -95,4 +95,5 @@ NOTES
 ----
 1. An overview of SPECT imaging [<img src="/images/pdf_icon.png" width="30"/>](http://junyuchen245.github.io/files/SPECT_Systems.pdf)
 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
