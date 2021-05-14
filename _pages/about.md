@@ -93,6 +93,6 @@ I gave several guest lectures when I was a TA for Medical Imaging Systems course
 
 NOTES
 ----
-1. [An overview of SPECT imaging.pdf](http://junyuchen245.github.io/files/SPECT_Systems.pdf)
+1. [An overview of SPECT imaging](http://junyuchen245.github.io/files/SPECT_Systems.pdf)
 
 
