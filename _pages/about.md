@@ -91,3 +91,8 @@ I gave several guest lectures when I was a TA for Medical Imaging Systems course
 1. Physics of Nuclear Medicine [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/Sk-IjeNy1aU)
 
 
+NOTES
+----
+1. [An overview of SPECT imaging.pdf](http://junyuchen245.github.io/files/SPECT_Systems.pdf)
+
+
