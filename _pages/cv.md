@@ -76,7 +76,7 @@ Teaching experience
 * Jan 2017 - May 2017: **Teaching Assistant**
   * Electric Circuits (ECE 211), ***North Carolina State University***, *Raleigh, NC*
 
-Peer-reviewed Publications
+Peer-reviewed publications
 ------
 ***Journal Publications:***
 1.	<strong>Chen, J.</strong>, Li, Y., Luna, L. P., Chung, H. W., Rowe, S. P., Du, Y., Solnes, L. B., & Frey, E. C. (2021). Learning Fuzzy Clustering for SPECT/CT Segmentation via Convolutional Neural Networks. Medical Physics.
