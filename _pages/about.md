@@ -84,6 +84,7 @@ PEER REVIEW ACTIVITIES
 2. <a href="https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine">Computer Methods and Programs in Biomedicine</a> (IF: 3.632)
 3. <a href="https://ieeeaccess.ieee.org/">IEEE Access</a> (IF: 3.745)
 4. <a href="https://qims.amegroups.com/">Quantitative Imaging in Medicine and Surgery</a> (IF: 3.226)
+
 TEACHING
 ----
 I gave several guest lectures when I was a TA for Medical Imaging Systems course, some lecture recordings can be found here:
