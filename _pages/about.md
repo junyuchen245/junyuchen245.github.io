@@ -95,6 +95,7 @@ I gave several guest lectures when I was a TA for Medical Imaging Systems course
 NOTES
 ----
 1. An overview of SPECT imaging [<img src="/images/pdf_icon.png" width="30"/>](http://junyuchen245.github.io/files/SPECT_Systems.pdf)
+2. Basics of convolutional neural networks [<img src="/images/pdf_icon.png" width="30"/>](Basics_of_Convolutional_Neural_Networks.pdf)
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
