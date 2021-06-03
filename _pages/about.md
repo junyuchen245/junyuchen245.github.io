@@ -37,23 +37,29 @@ MEMBERSHIPS
 
 PRESENTATIONS
 ----
-#### *Targeted Gradient Descent: A Novel Method for Convolutional Neural Networks Fine-tuning and Online-learning*, MICCAI, 2021
-Upcoming...
+#### *Targeted Gradient Descent: A Novel Method for Convolutional Neural Networks Fine-tuning and Online-learning*
+* MICCAI 2021
+* Upcoming...
 
-#### *ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration*, MIDL 2021
-Upcoming...
+#### *ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration*
+* MIDL 2021
+* Upcoming...
 
-#### *Creating Anthropomorphic Phantoms via Unsupervised Convolutional Neural Networks*, MIDL 2021
-Upcoming...
+#### *Creating Anthropomorphic Phantoms via Unsupervised Convolutional Neural Networks* 
+* MIDL 2021
+* Upcoming...
 
-#### *Semi-supervised SPECT segmentation using convolutional neural networks*, SNMMI 2021 Annual Meeting
-*Poster Presentation* [<img src="/images/pdf_icon.png" width="30"/>](http://junyuchen245.github.io/files/SNMMI2021.pdf)
+#### *Semi-supervised SPECT segmentation using convolutional neural networks*
+* SNMMI 2021 Annual Meeting
+* *Poster Presentation* [<img src="/images/pdf_icon.png" width="30"/>](http://junyuchen245.github.io/files/SNMMI2021.pdf)
 
-#### *Medical Image Segmentation via Unsupervised Convolutional Neural Network*, MIDL 2020
-*Poster Presentation* [<img src="/images/youtube-logo-png.png" width="25"/>](https://2020.midl.io/papers/chen20.html)
+#### *Medical Image Segmentation via Unsupervised Convolutional Neural Network*
+* MIDL 2020
+* *Poster Presentation* [<img src="/images/youtube-logo-png.png" width="25"/>](https://2020.midl.io/papers/chen20.html)
 
 #### *A Fully Unsupervised Approach to Create Patient-like Phantoms via Convolutional Neural Networks*, SNMMI 2020 Annual Meeting
-*Oral Presentation* [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/KUbIXUBA7bk)
+* SNMMI 2020 Annual Meeting
+* *Oral Presentation* [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/KUbIXUBA7bk)
 
 PUBLICATIONS
 ------
