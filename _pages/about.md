@@ -38,28 +38,22 @@ MEMBERSHIPS
 PRESENTATIONS
 ----
 #### *Targeted Gradient Descent: A Novel Method for Convolutional Neural Networks Fine-tuning and Online-learning*
-* MICCAI 2021
-* Upcoming...
+Upcoming... at MICCAI 2021
 
 #### *ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration*
-* MIDL 2021
-* Upcoming...
+Upcoming... at MIDL 2021
 
 #### *Creating Anthropomorphic Phantoms via Unsupervised Convolutional Neural Networks* 
-* MIDL 2021
-* Upcoming...
+Upcoming... at MIDL 2021
 
 #### *Semi-supervised SPECT segmentation using convolutional neural networks*
-* SNMMI 2021 Annual Meeting
-* *Poster Presentation* [<img src="/images/pdf_icon.png" width="30"/>](http://junyuchen245.github.io/files/SNMMI2021.pdf)
+*Poster Presentation* at SNMMI 2021 Annual Meeting [<img src="/images/pdf_icon.png" width="30"/>](http://junyuchen245.github.io/files/SNMMI2021.pdf)
 
 #### *Medical Image Segmentation via Unsupervised Convolutional Neural Network*
-* MIDL 2020
-* *Poster Presentation* [<img src="/images/youtube-logo-png.png" width="25"/>](https://2020.midl.io/papers/chen20.html)
+*Poster Presentation* at MIDL 2020 [<img src="/images/youtube-logo-png.png" width="25"/>](https://2020.midl.io/papers/chen20.html)
 
 #### *A Fully Unsupervised Approach to Create Patient-like Phantoms via Convolutional Neural Networks*, SNMMI 2020 Annual Meeting
-* SNMMI 2020 Annual Meeting
-* *Oral Presentation* [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/KUbIXUBA7bk)
+*Oral Presentation* at SNMMI 2020 Annual Meeting [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/KUbIXUBA7bk)
 
 PUBLICATIONS
 ------
