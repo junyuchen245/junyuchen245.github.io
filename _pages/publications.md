@@ -77,7 +77,7 @@ author_profile: true
     * *Authors:* Ye Li, **Junyu Chen**, Justin L. Brown, S. Ted Treves, Xinhua Cao, Frederic H. Fahey, George Sgouros, Wesley E. Bolch, Eric C. Frey
     * *Published in:*  Journal of Medical Imaging’s special section: Perspectives in Human and Model Observer Performance, 2020
     * *Paper link:* [SPIE. Digital Library](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-8/issue-4/041204/DeepAMO--a-multi-slice-multi-view-anthropomorphic-model-observer/10.1117/1.JMI.8.4.041204.short?SSO=1)
-    * *PDF:* [<img src="/images/pdf_icon.png" width="25"/>](http://garyliye.com/DeepAMO.pdf)
+    * *PDF:* [<img src="/images/pdf_icon.png" width="25"/>](http://junyuchen245.github.io/files/041204_1.pdf)
     * *Code:* [From GaryLi's site](http://garyliye.com/deepAMO.zip)
     * *Description:* We have developed a deep learning-based anthropomorphic model observer (DeepAMO) for image quality evaluation of multi-orientation, multi-slice image sets with respect to a clinically realistic 3D defect detection task. The input to the DeepAMO is a composite image,
 typical of that used to view 3D volumes in clinical practice. The output is a rating value designed to mimic human observer’s defect detection performance. The main
