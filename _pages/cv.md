@@ -95,7 +95,8 @@ Peer-reviewed publications
 11.	Zhong, B., Qin, Z., Yang, S., <strong>Chen, J.</strong>, Mudrick, N., Taub, M., ... & Lobaton, E. (2017, December). Emotion recognition with facial expressions and physiological signals. In 2017 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 1-8). IEEE.
 
 ***Conference Abstract Publications:***
-1.	<strong>Chen, J.</strong>, Li, Y., & Frey, E. (2020). A fully unsupervised approach to create patient-like phantoms via convolutional neural networks. Journal of Nuclear Medicine, 61(supplement 1), 522-522. (Oral presentation)
-2.	Li, Y., <strong>Chen, J.</strong>, Brown, J., Treves, S. T., Cao, X., Fahey, F., ... & Frey, E. (2020). DeepAMO: An Anthropomorphic Model Observer for Visual Detection Tasks in Volume Images. Journal of Nuclear Medicine, 61(supplement 1), 1427-1427.
-3.	<strong>Chen, J.</strong>, Frey, E. C., & Lodge, M. A. (2019). Accuracy of PET/CT quantification in bone. Journal of Nuclear Medicine 60 (supplement 1), 1201-1201.
+1.  <strong>Chen, J.</strong>, Li, Y., Du, Y., Luna, L., Rowe, S., & Frey, E. (2021). Semi-supervised SPECT segmentation using convolutional neural networks. Journal of Nuclear Medicine 62 (supplement 1), 1423-1423.
+2.	<strong>Chen, J.</strong>, Li, Y., & Frey, E. (2020). A fully unsupervised approach to create patient-like phantoms via convolutional neural networks. Journal of Nuclear Medicine, 61(supplement 1), 522-522. (Oral presentation)
+3.	Li, Y., <strong>Chen, J.</strong>, Brown, J., Treves, S. T., Cao, X., Fahey, F., ... & Frey, E. (2020). DeepAMO: An Anthropomorphic Model Observer for Visual Detection Tasks in Volume Images. Journal of Nuclear Medicine, 61(supplement 1), 1427-1427.
+4.	<strong>Chen, J.</strong>, Frey, E. C., & Lodge, M. A. (2019). Accuracy of PET/CT quantification in bone. Journal of Nuclear Medicine 60 (supplement 1), 1201-1201.
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
