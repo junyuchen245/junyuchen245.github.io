@@ -65,17 +65,18 @@ PUBLICATIONS
 3.	<strong>Chen, J.</strong>, Li, Y., Du, Y., & Frey, E. C. (2020). Generating Anthropomorphic Phantoms Using Fully Unsupervised Deformable Image Registration with Convolutional Neural Networks. Medical Physics, 47: 6366-6380. (***<a href="https://aapm.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2473-4209.EDITORS_CHOICE">Editor's Choice</a>***)
 
 ***Conference & Abstract Publications:***
-1. <strong>Chen, J.</strong>, Asma, E., & Chan, C. (2021). Targeted Gradient Descent: A Novel Method for Convolutional Neural Networks Fine-tuning and Online-learning. In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). (*provisionally accepted, top 13% of 1630 papers*)
-2. <strong>Chen, J.</strong>, He, Y., Frey, E. C., Li, Y., & Du, Y. (2021). ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration. In Medical Imaging with Deep Learning (MIDL).
-3. <strong>Chen, J.</strong>, Li, Y., Du, Y., & Frey, E. (2021). Creating Anthropomorphic Phantoms via Unsupervised Convolutional Neural Networks. In Medical Imaging with Deep Learning (MIDL).
-4.	<strong>Chen, J.</strong>, & Frey, E. C. (2020, January). Medical Image Segmentation via Unsupervised Convolutional Neural Network. In Medical Imaging with Deep Learning (MIDL).
-5.	<strong>Chen, J.</strong>, Li, Y., & Frey, E. (2020). A fully unsupervised approach to create patient-like phantoms via convolutional neural networks. Journal of Nuclear Medicine, 61(supplement 1), 522-522. (Oral presentation)
-6.	Li, Y., <strong>Chen, J.</strong>, Brown, J., Treves, S. T., Cao, X., Fahey, F., ... & Frey, E. (2020). DeepAMO: An Anthropomorphic Model Observer for Visual Detection Tasks in Volume Images. Journal of Nuclear Medicine, 61(supplement 1), 1427-1427.
-7.	<strong>Chen, J.</strong>, Frey, E. C., & Lodge, M. A. (2019). Accuracy of PET/CT quantification in bone. Journal of Nuclear Medicine 60 (supplement 1), 1201-1201.
-8.	<strong>Chen, J.</strong>, Jha, A. L., & Frey, E. C. (2019). Incorporating CT prior information in the robust fuzzy C-means algorithm for QSPECT image segmentation. Proc. SPIE 10949, Medical Imaging 2019: Image Processing.
-9.	Li, X., Yang, F., Cheng, H., <strong>Chen, J.</strong>, Guo, Y., & Chen, L. (2017, October). Multi-scale cascade network for salient object detection. In Proceedings of the 25th ACM international conference on Multimedia (pp. 439-447).
-10.	Li, X., Chen, L., & <strong>Chen, J.</strong> (2017, December). A visual saliency-based method for automatic lung regions extraction in chest radiographs. In 2017 14th International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP) (pp. 162-165). IEEE.
-11.	Zhong, B., Qin, Z., Yang, S., <strong>Chen, J.</strong>, Mudrick, N., Taub, M., ... & Lobaton, E. (2017, December). Emotion recognition with facial expressions and physiological signals. In 2017 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 1-8). IEEE.
+1. <strong>Chen, J.</strong>, Li, Y., Du, Y., Luna, L., Rowe, S., & Frey, E. (2021). Semi-supervised SPECT segmentation using convolutional neural networks. Journal of Nuclear Medicine 62 (supplement 1), 1423-1423.
+2. <strong>Chen, J.</strong>, Asma, E., & Chan, C. (2021). Targeted Gradient Descent: A Novel Method for Convolutional Neural Networks Fine-tuning and Online-learning. In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). (*provisionally accepted, top 13% of 1630 papers*)
+3. <strong>Chen, J.</strong>, He, Y., Frey, E. C., Li, Y., & Du, Y. (2021). ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration. In Medical Imaging with Deep Learning (MIDL).
+4. <strong>Chen, J.</strong>, Li, Y., Du, Y., & Frey, E. (2021). Creating Anthropomorphic Phantoms via Unsupervised Convolutional Neural Networks. In Medical Imaging with Deep Learning (MIDL).
+5.	<strong>Chen, J.</strong>, & Frey, E. C. (2020, January). Medical Image Segmentation via Unsupervised Convolutional Neural Network. In Medical Imaging with Deep Learning (MIDL).
+6.	<strong>Chen, J.</strong>, Li, Y., & Frey, E. (2020). A fully unsupervised approach to create patient-like phantoms via convolutional neural networks. Journal of Nuclear Medicine, 61(supplement 1), 522-522. (Oral presentation)
+7.	Li, Y., <strong>Chen, J.</strong>, Brown, J., Treves, S. T., Cao, X., Fahey, F., ... & Frey, E. (2020). DeepAMO: An Anthropomorphic Model Observer for Visual Detection Tasks in Volume Images. Journal of Nuclear Medicine, 61(supplement 1), 1427-1427.
+8.	<strong>Chen, J.</strong>, Frey, E. C., & Lodge, M. A. (2019). Accuracy of PET/CT quantification in bone. Journal of Nuclear Medicine 60 (supplement 1), 1201-1201.
+9.	<strong>Chen, J.</strong>, Jha, A. L., & Frey, E. C. (2019). Incorporating CT prior information in the robust fuzzy C-means algorithm for QSPECT image segmentation. Proc. SPIE 10949, Medical Imaging 2019: Image Processing.
+10.	Li, X., Yang, F., Cheng, H., <strong>Chen, J.</strong>, Guo, Y., & Chen, L. (2017, October). Multi-scale cascade network for salient object detection. In Proceedings of the 25th ACM international conference on Multimedia (pp. 439-447).
+11.	Li, X., Chen, L., & <strong>Chen, J.</strong> (2017, December). A visual saliency-based method for automatic lung regions extraction in chest radiographs. In 2017 14th International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP) (pp. 162-165). IEEE.
+12.	Zhong, B., Qin, Z., Yang, S., <strong>Chen, J.</strong>, Mudrick, N., Taub, M., ... & Lobaton, E. (2017, December). Emotion recognition with facial expressions and physiological signals. In 2017 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 1-8). IEEE.
 
 PEER REVIEW ACTIVITIES
 ----
