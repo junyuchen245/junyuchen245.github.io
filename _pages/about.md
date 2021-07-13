@@ -41,10 +41,10 @@ PRESENTATIONS
 Upcoming... at MICCAI 2021
 
 #### *ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration*
-*Short Oral Presentation* at MIDL 2021 [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/zkPpARF5lco)
+*Short Oral Presentation* at MIDL 2021 [<img src="/images/youtube-logo-png.png" width="25"/>](https://2021.midl.io/papers/e6)
 
 #### *Creating Anthropomorphic Phantoms via Unsupervised Convolutional Neural Networks* 
-*Short Oral Presentation* at MIDL 2021 [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/ad2_Q-UegSI)
+*Short Oral Presentation* at MIDL 2021 [<img src="/images/youtube-logo-png.png" width="25"/>](https://2021.midl.io/papers/h5)
 
 #### *Semi-supervised SPECT segmentation using convolutional neural networks*
 *Poster Presentation* at SNMMI 2021 Annual Meeting [<img src="/images/pdf_icon.png" width="30"/>](http://junyuchen245.github.io/files/SNMMI2021.pdf)
