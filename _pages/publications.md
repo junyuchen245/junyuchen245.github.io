@@ -6,14 +6,25 @@ author_profile: true
 ---
 1.  ***Targeted Gradient Descent: A Novel Method for Convolutional Neural Networks Fine-tuning and Online-learning***
     * *Authors:* **Junyu Chen**, Evren Asma, and Chung Chan
-    * *Published in:* MICCAI, 2021 (*provisionally accepted, top 13% of 1630 papers*)
-    * *Paper link:* Coming soon...
+    * *Published in:* MICCAI, 2021 (*Oral presentation*)(*provisionally accepted, top 13% of 1630 papers*)
+    * *Paper link:* https://link.springer.com/chapter/10.1007/978-3-030-87199-4_3
     * *PDF:* [<img src="/images/pdf_icon.png" width="25"/>](http://junyuchen245.github.io/files/paper1012.pdf)
     * *Supplementary file:* [<img src="/images/pdf_icon.png" width="25"/>](http://junyuchen245.github.io/files/paper1012_suppl_file.pdf)
     * *Code:* *Patent processing.* Not available. 
     * *Description:* A ConvNet is usually trained and then tested using images drawn from the same distribution. To generalize a ConvNet to various tasks often requires a complete training dataset that consists of images drawn from different tasks. In most scenarios, it is nearly impossible to collect every possible representative dataset as a priori. The new data may only become available after the ConvNet is deployed in clinical practice. ConvNet, however, may generate artifacts on out-of-distribution testing samples. In this study, we present Targeted Gradient Descent, a novel fine-tuning method that can extend a pre-trained network to a new task without revisiting data from the previous task while preserving the knowledge acquired from previous training. To a further extent, the proposed method also enables online learning of patient-specific data to enhance the network’s generalization capability in real-world applications.
     * <img src="/images/TGD.jpg" width="700"/>
-    * *Citation:* Coming soon... 
+    * *Citation:*
+         * *APA:* Chen, J., Asma, E., Chan, C. (2021), Targeted Gradient Descent: A Novel Method for Convolutional Neural Networks Fine-Tuning and Online-Learning.  In: <i>Medical Image Computing and Computer Assisted Intervention – MICCAI 2021</i>. Springer. pp. 25–35. https://doi.org/10.1007/978-3-030-87199-4_3
+         * *BibTex:@InProceedings{10.1007/978-3-030-87199-4_3,
+            author="Chen, Junyu and Asma, Evren and Chan, Chung",
+            title="Targeted Gradient Descent: A Novel Method for Convolutional Neural Networks Fine-Tuning and Online-Learning",
+            booktitle="Medical Image Computing and Computer Assisted Intervention -- MICCAI 2021",
+            year="2021",
+            publisher="Springer International Publishing",
+            address="Cham",
+            pages="25--35",
+            isbn="978-3-030-87199-4"
+            }
 
 2.  ***Learning Fuzzy Clustering for SPECT/CT Segmentation via Convolutional Neural Networks***
     * *Authors:* **Junyu Chen**, Ye Li, Licia P. Luna, Hyun Woo Chung, Steven P. Rowe, Yong Du, Lilja B. Solnes, and Eric C. Frey
