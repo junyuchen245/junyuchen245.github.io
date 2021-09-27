@@ -5,11 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
-1. #### *Targeted Gradient Descent: A Novel Method for Convolutional Neural Networks Fine-tuning and Online-learning*
-    ##### *Oral Presentation* @ *MICCAI 2021*
-    ##### **Junyu Chen**, Evren Asma, and Chung Chan
-    ###### Video: [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/yEZHsPo2mJY)    Slides/Poster: [<img src="/images/pdf_icon.png" width="30"/>](http://junyuchen245.github.io/files/MICCAI_2021_Junyu_slides.pdf)[<img src="/images/pdf_icon.png" width="30"/>](http://junyuchen245.github.io/files/MICCAI_21_poster_Junyu.pdf)
-    ###### Paper: https://link.springer.com/chapter/10.1007/978-3-030-87199-4_3
+1. ### *Targeted Gradient Descent: A Novel Method for Convolutional Neural Networks Fine-tuning and Online-learning*
+    #### *Oral Presentation* @ *MICCAI 2021*
+    #### **Junyu Chen**, Evren Asma, and Chung Chan
+    ##### Video: [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/yEZHsPo2mJY)    Slides/Poster: [<img src="/images/pdf_icon.png" width="30"/>](http://junyuchen245.github.io/files/MICCAI_2021_Junyu_slides.pdf)[<img src="/images/pdf_icon.png" width="30"/>](http://junyuchen245.github.io/files/MICCAI_21_poster_Junyu.pdf)
+    ##### Paper: https://link.springer.com/chapter/10.1007/978-3-030-87199-4_3
 
 2. #### *ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration*
     ##### *Short Oral Presentation* @ *MIDL 2021*
