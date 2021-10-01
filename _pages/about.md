@@ -17,6 +17,7 @@ I passed the Graduate Board Oral (GBO) examinization in July, 2021. The exam com
 I received my dual B.Sc. degrees with <a href="http://catalog.ncsu.edu/undergraduate/academic-policies-procedures/student-status-honors/academic-honors/">Summa Cum Laude</a> honors in Computer Engineering and Electrical Engineering from <a href="https://www.ece.ncsu.edu/">North Carolina State University</a> in 2017, and my M.S.E. degree in Electrical & Computer Engineering from <a href="https://engineering.jhu.edu/ece/">Johns Hopkins University</a> in 2019, I then became a Ph.D. student there.
 
 I was featured in the <a href="https://www.rsipvision.com/MICCAI2021-Wednesday/">MICCAI daily</a> 2021!
+
 RESEARCH INTERESTS <img src="/images/radiology_icon.png" width="48"/> <img src="/images/ai_icon.png" width="48"/>
 ----
 #### Nuclear Medicine Imaging (SPECT, PET)
