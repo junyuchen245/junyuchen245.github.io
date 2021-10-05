@@ -71,6 +71,7 @@ PEER REVIEW ACTIVITIES
 2. <a href="https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine">Computer Methods and Programs in Biomedicine</a> (IF: 5.428)
 3. <a href="https://ieeeaccess.ieee.org/">IEEE Access</a> (IF: 3.367)
 4. <a href="https://qims.amegroups.com/">Quantitative Imaging in Medicine and Surgery</a> (IF: 3.837)
+5. <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42">IEEE Transactions on Medical Imaging</a> (IF: 10.048)
 
 TEACHING
 ----
