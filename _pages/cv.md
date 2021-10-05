@@ -18,13 +18,6 @@ Education
 
 Professional experience
 ------
-* Jun 2020 - Present: **PET Image Reconstruction and Quality Scientist Intern**
-  * ***Canon Medical Research USA, Inc.***, *Vernon Hills, IL*
-  * Duties included: 
-    * PET image denoising 
-    * Transfer learning
-    * Domain adaptation for deep neural networks
-  * Mentor & Supervisor: Dr. Chung (Jan) Chan & Dr. Evren Asma
 * Sep 2017 - Present: **Graduate Research Assistant**
   * ***Department of Radiology and Radiological Science, Johns Hopkins Medical Institutions***, *Baltimore, MD*
   * Duties included: 
@@ -33,6 +26,14 @@ Professional experience
     * NM image denoising 
     * Quantitative accuracy
   * Supervisor: Dr. Eric C. Frey
+
+* Jun 2020 - Oct 2021: **PET Image Reconstruction and Quality Scientist Intern**
+  * ***Canon Medical Research USA, Inc.***, *Vernon Hills, IL*
+  * Duties included: 
+    * PET image denoising 
+    * Transfer learning
+    * Domain adaptation for deep neural networks
+  * Mentor & Supervisor: Dr. Chung (Jan) Chan & Dr. Evren Asma
 
 * May 2016 – Jul 2017: **Unergraduate Research Assistant**
   * ***North Carolina State University***, *Raleigh, NC*
