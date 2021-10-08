@@ -7,7 +7,7 @@ author_profile: true
 1.  ***Targeted Gradient Descent: A Novel Method for Convolutional Neural Networks Fine-tuning and Online-learning***
     * *Authors:* **Junyu Chen**, Evren Asma, and Chung Chan
     * *Published in:* MICCAI, 2021 (*Oral presentation*)(*provisionally accepted, top 13% of 1630 papers*)
-    * *Paper link:* https://link.springer.com/chapter/10.1007/978-3-030-87199-4_3
+    * *Paper link:* [https://link.springer.com/chapter/10.1007/978-3-030-87199-4_3](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_3)
     * *PDF:* [<img src="/images/pdf_icon.png" width="25"/>](http://junyuchen245.github.io/files/paper1012.pdf)
     * *Supplementary file:* [<img src="/images/pdf_icon.png" width="25"/>](http://junyuchen245.github.io/files/paper1012_suppl_file.pdf)
     * *Code:* *Patent processing.* Not available. 
