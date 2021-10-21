@@ -93,5 +93,6 @@ NOTES
 Recommended Readings
 ----
 1. [Seaborn violin plot in Python](https://seaborn.pydata.org/generated/seaborn.violinplot.html)
+2. [Circular bar plot in Python](https://www.python-graph-gallery.com/circular-barplot/)
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
