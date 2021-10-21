@@ -90,7 +90,7 @@ NOTES
 5. Basics of ultrasound and photoacoustic imaging [<img src="/images/pdf_icon.png" width="30"/>](http://junyuchen245.github.io/files/Ultrasound_and_Photoacoustic_Imaging_v2.pdf)
 6. A collection of papers about transformers for medical image analysis [<img src="/images/GitHub_Logo.png" width="55"/>](https://github.com/junyuchen245/Transformers_for_medical_image_analysis)s
 
-Recommended Readings
+RECOMMENDED READINGS by JUNYU
 ----
 1. [Seaborn violin plot in Python](https://seaborn.pydata.org/generated/seaborn.violinplot.html)
 2. [Circular bar plot in Python](https://www.python-graph-gallery.com/circular-barplot/)
