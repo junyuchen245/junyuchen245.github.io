@@ -6,7 +6,7 @@ author_profile: true
 ---
 1.  ***TransMorph: Transformer for Medical Image Registration***
     * *Authors:* **Junyu Chen**, Yong Du, Yufan He, William P. Segars, Ye Li, and Eirc C. Frey
-    * *Published in:* **to be submitted**
+    * *Published in:* **To be submitted**
     * *Paper link:* N/A
     * *PDF:* N/A
     * *Code:* [TransMorph](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration) 
