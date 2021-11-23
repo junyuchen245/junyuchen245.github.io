@@ -15,7 +15,7 @@ the spatial correspondence between moving and fixed images. In this paper, we pr
 We also introduce three variants of TransMorph, with two diffeomorphic variants ensuring the topology-preserving deformations and a Bayesian variant producing a well-calibrated registration uncertainty estimate.
     * <img src="/images/TransMorph.jpg" width="700"/>
     * *Citation:*
-         * *APA:* Chen, J., Du, Y., He, Y., Segars, P. W., Li, Y., & Frey, E. C. (2021). TransMorph: Transformer for Medical Image Registration <i>arXiv preprint</i>
+         * *APA:* Chen, J., Du, Y., He, Y., Segars, P. W., Li, Y., & Frey, E. C. (2021). TransMorph: Transformer for Medical Image Registration. <i>arXiv preprint</i>.
          * *BibTex:*@misc{chen2021transmorph,
                      title={TransMorph: Transformer for unsupervised medical image registration}, 
                      author={Junyu Chen and Yong Du and Yufan He and William P. Segars and Ye Li and Eric C. Frey},
