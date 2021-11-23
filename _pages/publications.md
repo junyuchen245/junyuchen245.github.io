@@ -7,8 +7,8 @@ author_profile: true
 1.  ***TransMorph: Transformer for Medical Image Registration***
     * *Authors:* **Junyu Chen**, Yong Du, Yufan He, William P. Segars, Ye Li, and Eirc C. Frey
     * *Published in:* **To be submitted**
-    * *Paper link:* N/A
-    * *PDF:* N/A
+    * *Paper link:* [https://arxiv.org/abs/2111.10480](https://arxiv.org/abs/2111.10480)
+    * *PDF:* [<img src="/images/pdf_icon.png" width="25"/>](https://arxiv.org/pdf/2111.10480.pdf)
     * *Code:* [TransMorph](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration) 
     * *Description:* Transformers may be a strong candidate for image registration because their self-attention mechanism enables a more precise comprehension of
 the spatial correspondence between moving and fixed images. In this paper, we present TransMorph, a hybrid Transformer-ConvNet model for volumetric medical image registration.
@@ -17,10 +17,10 @@ We also introduce three variants of TransMorph, with two diffeomorphic variants 
     * *Citation:*
          * *APA:* Chen, J., Du, Y., He, Y., Segars, P. W., Li, Y., & Frey, E. C. (2021). TransMorph: Transformer for Medical Image Registration <i>arXiv preprint</i>
          * *BibTex:*@misc{chen2021vitvnet,
-                     title={ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration}, 
+                     title={TransMorph: Transformer for unsupervised medical image registration}, 
                      author={Junyu Chen and Yong Du and Yufan He and William P. Segars and Ye Li and Eric C. Frey},
                      year={2021},
-                     eprint={2104.06468},
+                     eprint={2111.10480},
                      archivePrefix={arXiv},
                      primaryClass={eess.IV}
                      }
