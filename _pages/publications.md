@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 1.  ***TransMorph: Transformer for Unsupervised Medical Image Registration***
-    * *Authors:* **Junyu Chen**, Yong Du, Yufan He, William P. Segars, Ye Li, and Eirc C. Frey
+    * *Authors:* **Junyu Chen**, Yong Du, Yufan He, William P. Segars, Ye Li, and Eric C. Frey
     * *Published in:* **To be submitted**
     * *Paper link:* [https://arxiv.org/abs/2111.10480](https://arxiv.org/abs/2111.10480)
     * *PDF:* [<img src="/images/pdf_icon.png" width="25"/>](https://arxiv.org/pdf/2111.10480.pdf)
