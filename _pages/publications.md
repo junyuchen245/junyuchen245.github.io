@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-1.  ***TransMorph: Transformer for Medical Image Registration***
+1.  ***TransMorph: Transformer for Unsupervised Medical Image Registration***
     * *Authors:* **Junyu Chen**, Yong Du, Yufan He, William P. Segars, Ye Li, and Eirc C. Frey
     * *Published in:* **To be submitted**
     * *Paper link:* [https://arxiv.org/abs/2111.10480](https://arxiv.org/abs/2111.10480)
