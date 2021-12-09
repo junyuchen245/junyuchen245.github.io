@@ -70,12 +70,16 @@ PUBLICATIONS
 
 PEER REVIEW ACTIVITIES
 ----
+***Journals:*** 
 <a href="https://publons.com/researcher/4216894/junyu-chen/">Junyu Chen on Publons</a>
 1. <a href="https://aapm.onlinelibrary.wiley.com/journal/24734209">Medical Physics</a> (IF: 4.071)
 2. <a href="https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine">Computer Methods and Programs in Biomedicine</a> (IF: 5.428)
 3. <a href="https://ieeeaccess.ieee.org/">IEEE Access</a> (IF: 3.367)
 4. <a href="https://qims.amegroups.com/">Quantitative Imaging in Medicine and Surgery</a> (IF: 3.837)
 5. <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42">IEEE Transactions on Medical Imaging</a> (IF: 10.048)
+
+***Conferences:***
+1. <a href="https://2022.midl.io/">Medical Imaging with Deep Learning 2022</a>
 
 TEACHING
 ----
