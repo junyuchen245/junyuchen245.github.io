@@ -70,8 +70,8 @@ PUBLICATIONS
 
 PEER REVIEW ACTIVITIES
 ----
+<a href="https://publons.com/researcher/4216894/junyu-chen/">Junyu Chen on Publons</a>\
 ***Journals:*** 
-<a href="https://publons.com/researcher/4216894/junyu-chen/">Junyu Chen on Publons</a>
 1. <a href="https://aapm.onlinelibrary.wiley.com/journal/24734209">Medical Physics</a> (IF: 4.071)
 2. <a href="https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine">Computer Methods and Programs in Biomedicine</a> (IF: 5.428)
 3. <a href="https://ieeeaccess.ieee.org/">IEEE Access</a> (IF: 3.367)
