@@ -18,6 +18,7 @@ I received my dual B.Sc. degrees with <a href="http://catalog.ncsu.edu/undergrad
 
 NEWS
 ----
+*02/10/2022* - I successfully presented my Ph.D. thesis proposal!
 *09/29/2021* - I was featured in the <a href="https://www.rsipvision.com/MICCAI2021-Wednesday/">MICCAI daily 2021</a>!\
 *07/28/2021* - I passed GBO exam! I'm now officially a Ph.D. candidate.
 
