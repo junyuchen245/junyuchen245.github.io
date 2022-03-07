@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+**[My latest CV](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/Junyu_CV_02022022.pdf)**
+
 Education
 ------
 * **B.Sc. in Computer Engineering, *Summa Cum Laude***, North Carolina State University, 2017
