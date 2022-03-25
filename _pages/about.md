@@ -78,6 +78,7 @@ PEER REVIEW ACTIVITIES
 3. <a href="https://ieeeaccess.ieee.org/">IEEE Access</a> (IF: 3.367)
 4. <a href="https://qims.amegroups.com/">Quantitative Imaging in Medicine and Surgery</a> (IF: 3.837)
 5. <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42">IEEE Transactions on Medical Imaging</a> (IF: 10.048)
+6. <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=58">IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control</a> (IF: 2.725)
 
 ***Conferences:***
 1. <a href="https://2022.midl.io/">Medical Imaging with Deep Learning (MIDL) 2022</a>
