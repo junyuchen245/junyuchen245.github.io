@@ -18,6 +18,7 @@ I received my dual B.Sc. degrees with <a href="http://catalog.ncsu.edu/undergrad
 
 NEWS
 ----
+*04/22/2022* - I won 2022 SNMMI Student Research Grant award!\
 *02/10/2022* - My Ph.D. thesis proposal was accepted!\
 *09/29/2021* - I was featured in the <a href="https://www.rsipvision.com/MICCAI2021-Wednesday/">MICCAI daily 2021</a>!\
 *07/28/2021* - I passed GBO exam! I'm now officially a Ph.D. candidate.
@@ -84,12 +85,16 @@ PEER REVIEW ACTIVITIES
 1. <a href="https://2022.midl.io/">Medical Imaging with Deep Learning (MIDL) 2022</a>
 2. <a href="https://conferences.miccai.org/2022/en/">International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2022</a>
 
+AWARDS & HONORS
+----
+Fully Funded Graduate Assistantship, Radiological Physics Division, Johns Hopkins Medical Institute (2019 – Present)
+SNMMI Student Research Grant Award: Discovering Molecular Imaging (2022)
+
 TEACHING
 ----
 I gave several guest lectures when I was a TA for Medical Imaging Systems course, some lecture recordings can be found here:
 
 1. Physics of Nuclear Medicine [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/Sk-IjeNy1aU)
-
 
 NOTES
 ----
