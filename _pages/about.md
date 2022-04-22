@@ -87,8 +87,8 @@ PEER REVIEW ACTIVITIES
 
 AWARDS & HONORS
 ----
-Fully Funded Graduate Assistantship, Radiological Physics Division, Johns Hopkins Medical Institute (2019 – Present)
-SNMMI Student Research Grant Award: Discovering Molecular Imaging (2022)
+1. Fully Funded Graduate Assistantship, Radiological Physics Division, Johns Hopkins Medical Institute (2019 – Present)
+2. SNMMI Student Research Grant Award: Discovering Molecular Imaging (2022)
 
 TEACHING
 ----
