@@ -18,7 +18,7 @@ I received my dual B.Sc. degrees with <a href="http://catalog.ncsu.edu/undergrad
 
 NEWS
 ----
-*05/17/2022* - One short paper accepted to [WBIR 2022](https://www.wbir.info/themenmenue/information/info/index.html)!\
+*05/17/2022* - One short paper was accepted to [WBIR 2022](https://www.wbir.info/themenmenue/information/info/index.html)!\
 *04/22/2022* - I won 2022 SNMMI Student Research Grant award!\
 *02/10/2022* - My Ph.D. thesis proposal was accepted!\
 *09/29/2021* - I was featured in the <a href="https://www.rsipvision.com/MICCAI2021-Wednesday/">MICCAI daily 2021</a>!\
