@@ -11,7 +11,7 @@ author_profile: true
     * *PDF:* [<img src="/images/pdf_icon.png" width="25"/>](https://openreview.net/pdf?id=uwIo__2xnTO)
     * *Code:* [TransMorph-TVF](https://github.com/junyuchen245/TransMorph_TVF) 
     * *Description:*  In this work, we propose a learning-based framework for unsupervised and end-to-end learning of diffeomorphic image registration. Specifically, the proposed network learns to produce and integrate timedependent velocity fields in an LDDMM setting. The proposed method guarantees a diffeomorphic transformation and allows the transformation to be easily and accurately inverted. We also showed that, without explicitly imposing a diffeomorphism, the proposed network can provide a significant performance gain while preserving the spatial smoothness in the deformation. The proposed method outperforms the state-of-theart registration methods on two widely used publicly available datasets, indicating its effectiveness for image registration. 
-    * <img src="/images/forward_inverse.jpg" width="600"/>
+    * <img src="/images/forward_inverse.jpg" width="700"/>
     * *Citation:*
          * *APA:* Chen, J., Frey, E. C., & Du, Y. (2022). Unsupervised Learning of Diffeomorphic Image Registration via TransMorph. In: <i>International Workshop on Biomedical Image Registration</i>. Springer, Cham.
          * *BibTex:*@inproceedings{chen2022diffeomorphic,
