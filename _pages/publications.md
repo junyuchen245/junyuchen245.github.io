@@ -6,7 +6,7 @@ author_profile: true
 ---
 1.  ***Unsupervised Learning of Diffeomorphic Image Registration via TransMorph***
     * *Authors:* **Junyu Chen**, Eric C. Frey, and Yong Du
-    * *Published in:* WBIR 2022 (*Oral presentation*)
+    * *Published in:* International Workshop on Biomedical Image Registration (WBIR), 2022
     * *Paper link:* [https://openreview.net/forum?id=uwIo__2xnTO](https://openreview.net/forum?id=uwIo__2xnTO)
     * *PDF:* [<img src="/images/pdf_icon.png" width="25"/>](https://openreview.net/pdf?id=uwIo__2xnTO)
     * *Code:* [TransMorph-TVF](https://github.com/junyuchen245/TransMorph_TVF) 
