@@ -4,7 +4,24 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-1.  ***TransMorph: Transformer for Unsupervised Medical Image Registration***
+1.  ***Unsupervised Learning of Diffeomorphic Image Registration via TransMorph***
+    * *Authors:* **Junyu Chen**, Eric C. Frey, and Yong Du
+    * *Published in:* WBIR 2022 (*Oral presentation*)
+    * *Paper link:* [https://openreview.net/forum?id=uwIo__2xnTO](https://openreview.net/forum?id=uwIo__2xnTO)
+    * *PDF:* [<img src="/images/pdf_icon.png" width="25"/>](https://openreview.net/pdf?id=uwIo__2xnTO)
+    * *Code:* [TransMorph-TVF](https://github.com/junyuchen245/TransMorph_TVF) 
+    * *Description:*  In this work, we propose a learning-based framework for unsupervised and end-to-end learning of diffeomorphic image registration. Specifically, the proposed network learns to produce and integrate timedependent velocity fields in an LDDMM setting. The proposed method guarantees a diffeomorphic transformation and allows the transformation to be easily and accurately inverted. We also showed that, without explicitly imposing a diffeomorphism, the proposed network can provide a significant performance gain while preserving the spatial smoothness in the deformation. The proposed method outperforms the state-of-theart registration methods on two widely used publicly available datasets, indicating its effectiveness for image registration. 
+    * <img src="/images/forward_inverse.jpg" width="600"/>
+    * *Citation:*
+         * *APA:* Chen, J., Frey, E. C., & Du, Y. (2022). Unsupervised Learning of Diffeomorphic Image Registration via TransMorph. In: <i>International Workshop on Biomedical Image Registration</i>. Springer, Cham.
+         * *BibTex:*@inproceedings{chen2022diffeomorphic,
+                     title={Unsupervised Learning of Diffeomorphic Image Registration via TransMorph},
+                     author={Junyu Chen and Eric C. Frey and Yong Du},
+                     booktitle={International Workshop on Biomedical Image Registration},
+                     year={2022},
+                     organization={Springer}
+                     }
+2.  ***TransMorph: Transformer for Unsupervised Medical Image Registration***
     * *Authors:* **Junyu Chen**, Yong Du, Yufan He, William P. Segars, Ye Li, and Eric C. Frey
     * *Published in:* **To be submitted**
     * *Paper link:* [https://arxiv.org/abs/2111.10480](https://arxiv.org/abs/2111.10480)
@@ -25,7 +42,7 @@ We also introduce three variants of TransMorph, with two diffeomorphic variants 
                      primaryClass={eess.IV}
                      }
                 
-2.  ***Targeted Gradient Descent: A Novel Method for Convolutional Neural Networks Fine-tuning and Online-learning***
+3.  ***Targeted Gradient Descent: A Novel Method for Convolutional Neural Networks Fine-tuning and Online-learning***
     * *Authors:* **Junyu Chen**, Evren Asma, and Chung Chan
     * *Published in:* MICCAI, 2021 (*Oral presentation*)(*provisionally accepted, top 13% of 1630 papers*)
     * *Paper link:* [https://link.springer.com/chapter/10.1007/978-3-030-87199-4_3](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_3)
@@ -47,7 +64,7 @@ We also introduce three variants of TransMorph, with two diffeomorphic variants 
             isbn="978-3-030-87199-4"
             }
 
-3.  ***Learning Fuzzy Clustering for SPECT/CT Segmentation via Convolutional Neural Networks***
+4.  ***Learning Fuzzy Clustering for SPECT/CT Segmentation via Convolutional Neural Networks***
     * *Authors:* **Junyu Chen**, Ye Li, Licia P. Luna, Hyun Woo Chung, Steven P. Rowe, Yong Du, Lilja B. Solnes, and Eric C. Frey
     * *Published in:* Medical Physics
     * *Paper link:* [https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.14903](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.14903)
@@ -69,7 +86,7 @@ We also introduce three variants of TransMorph, with two diffeomorphic variants 
             eprint = {https://aapm.onlinelibrary.wiley.com/doi/pdf/10.1002/mp.14903}
             }
     
-4. ***ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration***
+5. ***ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration***
     * *Authors:* **Junyu Chen**, Yufan He, Eric C. Frey, Ye Li, Yong Du
     * *Published in:* Medical Imaging with Deep Learning, 2021
     * *Paper link:* [https://arxiv.org/abs/2104.06468](https://arxiv.org/abs/2104.06468)
@@ -87,7 +104,7 @@ We also introduce three variants of TransMorph, with two diffeomorphic variants 
                      archivePrefix={arXiv},
                      primaryClass={eess.IV}
                      }
-5.  ***Generating anthropomorphic phantoms using fully unsupervised deformable image registration with convolutional neural networks***
+6.  ***Generating anthropomorphic phantoms using fully unsupervised deformable image registration with convolutional neural networks***
     * *Authors:* **Junyu Chen**, Ye Li, Yong Du, Eric C. Frey
     * *Published in:* Medical Physics, Dec. 2020 (***Editor's Choice***)
     * *Paper link:* [https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.14545](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.14545)
@@ -106,7 +123,7 @@ We also introduce three variants of TransMorph, with two diffeomorphic variants 
                     pages = {6366-6380},
                     doi = {10.1002/mp.14545},
                     url = {https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.14545}}
-6. ***DeepAMO: A Multi-Slice, Multi-View Anthropomorphic Model Observer for Visual Detection Tasks Performed on Volume Images***
+7. ***DeepAMO: A Multi-Slice, Multi-View Anthropomorphic Model Observer for Visual Detection Tasks Performed on Volume Images***
     * *Authors:* Ye Li, **Junyu Chen**, Justin L. Brown, S. Ted Treves, Xinhua Cao, Frederic H. Fahey, George Sgouros, Wesley E. Bolch, Eric C. Frey
     * *Published in:*  Journal of Medical Imaging’s special section: Perspectives in Human and Model Observer Performance, 2020
     * *Paper link:* [SPIE. Digital Library](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-8/issue-4/041204/DeepAMO--a-multi-slice-multi-view-anthropomorphic-model-observer/10.1117/1.JMI.8.4.041204.short?SSO=1)
@@ -132,7 +149,7 @@ inter- or intra- observer variability) using a Mixture Density Network.
                      doi = {10.1117/1.JMI.8.4.041204},
                      URL = {https://doi.org/10.1117/1.JMI.8.4.041204}}
    
-7. ***Medical Image Segmentation via Unsupervised Convolutional Neural Network***     
+8. ***Medical Image Segmentation via Unsupervised Convolutional Neural Network***     
     * *Authors:* **Junyu Chen**, Eric C. Frey
     * *Published in:* Medical Imaging with Deep Learning, 2020
     * *Paper link:* [https://openreview.net/forum?id=XrbnSCv4LU](https://openreview.net/forum?id=XrbnSCv4LU)
@@ -148,7 +165,7 @@ inter- or intra- observer variability) using a Mixture Density Network.
                     booktitle={Medical Imaging with Deep Learning},
                     year={2020}}
 
-8. ***Incorporating CT prior information in the robust fuzzy C-means algorithm for QSPECT image segmentation***
+9. ***Incorporating CT prior information in the robust fuzzy C-means algorithm for QSPECT image segmentation***
     * *Authors:* **Junyu Chen**, Abhinav K Jha, Eric C. Frey
     * *Published in:* Medical Imaging 2019: Image Processing
     * *Paper link:* [SPIE Digital Library](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10949/109491W/Incorporating-CT-prior-information-in-the-robust-fuzzy-C-means/10.1117/12.2506805.short)
