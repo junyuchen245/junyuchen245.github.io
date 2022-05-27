@@ -93,7 +93,7 @@ Peer-reviewed publications
 
 ***Conference Publications:***
 1. <strong>Chen, J.</strong>, Frey, E. C., & Du, Y. (2022). Unsupervised Learning of Diffeomorphic Image Registration via TransMorph. In International Workshop on Biomedical Image Registration (WBIR). (***Long oral presentation***)
-2. <strong>Chen, J.</strong>, Asma, E., & Chan, C. (2021). Targeted Gradient Descent: A Novel Method for Convolutional Neural Networks Fine-tuning and Online-learning. In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). (*oral presentation, provisionally accepted, top 13% of 1630 papers*)
+2. <strong>Chen, J.</strong>, Asma, E., & Chan, C. (2021). Targeted Gradient Descent: A Novel Method for Convolutional Neural Networks Fine-tuning and Online-learning. In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). (***Oral presentation, provisionally accepted, top 13% of 1630 papers***)
 3. <strong>Chen, J.</strong>, He, Y., Frey, E. C., Li, Y., & Du, Y. (2021). ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration. In Medical Imaging with Deep Learning (MIDL).
 4. <strong>Chen, J.</strong>, Li, Y., Du, Y., & Frey, E. (2021). Creating Anthropomorphic Phantoms via Unsupervised Convolutional Neural Networks. In Medical Imaging with Deep Learning (MIDL).
 5.	<strong>Chen, J.</strong>, & Frey, E. C. (2020, January). Medical Image Segmentation via Unsupervised Convolutional Neural Network. In Medical Imaging with Deep Learning (MIDL).
@@ -104,7 +104,7 @@ Peer-reviewed publications
 
 ***Conference Abstract Publications:***
 1.  <strong>Chen, J.</strong>, Li, Y., Du, Y., Luna, L., Rowe, S., & Frey, E. (2021). Semi-supervised SPECT segmentation using convolutional neural networks. Journal of Nuclear Medicine 62 (supplement 1), 1423-1423.
-2.	<strong>Chen, J.</strong>, Li, Y., & Frey, E. (2020). A fully unsupervised approach to create patient-like phantoms via convolutional neural networks. Journal of Nuclear Medicine, 61(supplement 1), 522-522. (Oral presentation)
+2.	<strong>Chen, J.</strong>, Li, Y., & Frey, E. (2020). A fully unsupervised approach to create patient-like phantoms via convolutional neural networks. Journal of Nuclear Medicine, 61(supplement 1), 522-522. (***Oral presentation***)
 3.	Li, Y., <strong>Chen, J.</strong>, Brown, J., Treves, S. T., Cao, X., Fahey, F., ... & Frey, E. (2020). DeepAMO: An Anthropomorphic Model Observer for Visual Detection Tasks in Volume Images. Journal of Nuclear Medicine, 61(supplement 1), 1427-1427.
 4.	<strong>Chen, J.</strong>, Frey, E. C., & Lodge, M. A. (2019). Accuracy of PET/CT quantification in bone. Journal of Nuclear Medicine 60 (supplement 1), 1201-1201.
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
