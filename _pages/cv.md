@@ -88,18 +88,19 @@ Peer-reviewed publications
 ------
 ***Journal Publications:***
 1.	<strong>Chen, J.</strong>, Li, Y., Luna, L. P., Chung, H. W., Rowe, S. P., Du, Y., Solnes, L. B., & Frey, E. C. (2021). Learning Fuzzy Clustering for SPECT/CT Segmentation via Convolutional Neural Networks. Medical Physics.
-1.	Li, Y., <strong>Chen, J.</strong>, Brown, J. L., Treves, S. T., Cao, X., Fahey, F. H., ... & Frey, E. C. (2021). DeepAMO: a multi-slice, multi-view anthropomorphic model observer for visual detection tasks performed on volume images. Journal of Medical Imaging, 8(4), 041204.
+2.	Li, Y., <strong>Chen, J.</strong>, Brown, J. L., Treves, S. T., Cao, X., Fahey, F. H., ... & Frey, E. C. (2021). DeepAMO: a multi-slice, multi-view anthropomorphic model observer for visual detection tasks performed on volume images. Journal of Medical Imaging, 8(4), 041204.
 3.	<strong>Chen, J.</strong>, Li, Y., Du, Y., & Frey, E. C. (2020). Generating Anthropomorphic Phantoms Using Fully Unsupervised Deformable Image Registration with Convolutional Neural Networks. Medical Physics, 47: 6366-6380. (***<a href="https://aapm.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2473-4209.EDITORS_CHOICE">Editor's Choice</a>***)
 
 ***Conference Publications:***
-1. <strong>Chen, J.</strong>, Asma, E., & Chan, C. (2021). Targeted Gradient Descent: A Novel Method for Convolutional Neural Networks Fine-tuning and Online-learning. In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). (*oral presentation, provisionally accepted, top 13% of 1630 papers*)
-2. <strong>Chen, J.</strong>, He, Y., Frey, E. C., Li, Y., & Du, Y. (2021). ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration. In Medical Imaging with Deep Learning (MIDL).
-3. <strong>Chen, J.</strong>, Li, Y., Du, Y., & Frey, E. (2021). Creating Anthropomorphic Phantoms via Unsupervised Convolutional Neural Networks. In Medical Imaging with Deep Learning (MIDL).
-4.	<strong>Chen, J.</strong>, & Frey, E. C. (2020, January). Medical Image Segmentation via Unsupervised Convolutional Neural Network. In Medical Imaging with Deep Learning (MIDL).
-8.	<strong>Chen, J.</strong>, Jha, A. L., & Frey, E. C. (2019). Incorporating CT prior information in the robust fuzzy C-means algorithm for QSPECT image segmentation. Proc. SPIE 10949, Medical Imaging 2019: Image Processing.
-9.	Li, X., Yang, F., Cheng, H., <strong>Chen, J.</strong>, Guo, Y., & Chen, L. (2017, October). Multi-scale cascade network for salient object detection. In Proceedings of the 25th ACM international conference on Multimedia (pp. 439-447).
-10.	Li, X., Chen, L., & <strong>Chen, J.</strong> (2017, December). A visual saliency-based method for automatic lung regions extraction in chest radiographs. In 2017 14th International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP) (pp. 162-165). IEEE.
-11.	Zhong, B., Qin, Z., Yang, S., <strong>Chen, J.</strong>, Mudrick, N., Taub, M., ... & Lobaton, E. (2017, December). Emotion recognition with facial expressions and physiological signals. In 2017 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 1-8). IEEE.
+1. <strong>Chen, J.</strong>, Frey, E. C., & Du, Y. (2022). Unsupervised Learning of Diffeomorphic Image Registration via TransMorph. In International Workshop on Biomedical Image Registration (WBIR). (***Long oral presentation***)
+2. <strong>Chen, J.</strong>, Asma, E., & Chan, C. (2021). Targeted Gradient Descent: A Novel Method for Convolutional Neural Networks Fine-tuning and Online-learning. In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). (*oral presentation, provisionally accepted, top 13% of 1630 papers*)
+3. <strong>Chen, J.</strong>, He, Y., Frey, E. C., Li, Y., & Du, Y. (2021). ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration. In Medical Imaging with Deep Learning (MIDL).
+4. <strong>Chen, J.</strong>, Li, Y., Du, Y., & Frey, E. (2021). Creating Anthropomorphic Phantoms via Unsupervised Convolutional Neural Networks. In Medical Imaging with Deep Learning (MIDL).
+5.	<strong>Chen, J.</strong>, & Frey, E. C. (2020, January). Medical Image Segmentation via Unsupervised Convolutional Neural Network. In Medical Imaging with Deep Learning (MIDL).
+6.	<strong>Chen, J.</strong>, Jha, A. L., & Frey, E. C. (2019). Incorporating CT prior information in the robust fuzzy C-means algorithm for QSPECT image segmentation. Proc. SPIE 10949, Medical Imaging 2019: Image Processing.
+7.	Li, X., Yang, F., Cheng, H., <strong>Chen, J.</strong>, Guo, Y., & Chen, L. (2017, October). Multi-scale cascade network for salient object detection. In Proceedings of the 25th ACM international conference on Multimedia (pp. 439-447).
+8.	Li, X., Chen, L., & <strong>Chen, J.</strong> (2017, December). A visual saliency-based method for automatic lung regions extraction in chest radiographs. In 2017 14th International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP) (pp. 162-165). IEEE.
+9.	Zhong, B., Qin, Z., Yang, S., <strong>Chen, J.</strong>, Mudrick, N., Taub, M., ... & Lobaton, E. (2017, December). Emotion recognition with facial expressions and physiological signals. In 2017 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 1-8). IEEE.
 
 ***Conference Abstract Publications:***
 1.  <strong>Chen, J.</strong>, Li, Y., Du, Y., Luna, L., Rowe, S., & Frey, E. (2021). Semi-supervised SPECT segmentation using convolutional neural networks. Journal of Nuclear Medicine 62 (supplement 1), 1423-1423.
