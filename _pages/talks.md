@@ -7,11 +7,13 @@ author_profile: true
 
 1. ### *Deep Learning for Medical Image Analysis*
     * *Invited Talk* @ **[CAMCA at Massachusetts General Hospital/Harvard Medical School](https://projects.iq.harvard.edu/camca/)**
+    * *06/03/2022*
     *  **Junyu Chen**
     *  Slides: [<img src="/images/pdf_icon.png" width="30"/>](https://drive.google.com/file/d/103_BiDqfX5Gosw3D9H_R-lYnOKfzDVsm/view?usp=sharing)
 
 2. ### *Medical Image Analysis in the Era of Deep Learning*
     * *Invited Talk* @ **[RPD at Johns Hopkins Medical Institute](https://www.hopkinsmedicine.org/radiology/research/divisions/radiological-physics/)**
+    * *06/02/2022*
     *  **Junyu Chen**
     *  Vedio: [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/hLvNNDwltdE)
 
