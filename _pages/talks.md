@@ -10,7 +10,7 @@ author_profile: true
     *  **Junyu Chen**
     *  Slides: [<img src="/images/pdf_icon.png" width="30"/>](https://drive.google.com/file/d/103_BiDqfX5Gosw3D9H_R-lYnOKfzDVsm/view?usp=sharing)
 
-2. ### *Deep Learning Methods for Medical Image Analysis*
+2. ### *Medical Image Analysis in the Era of Deep Learning*
     * *Invited Talk* @ **[RPD at Johns Hopkins Medical Institute](https://www.hopkinsmedicine.org/radiology/research/divisions/radiological-physics/)**
     *  **Junyu Chen**
     *  Vedio: [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/hLvNNDwltdE)
