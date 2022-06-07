@@ -50,7 +50,7 @@ PUBLICATIONS
 <a href="https://scholar.google.com/citations?user=9jIpgScAAAAJ&hl=en">Junyu Chen on Google Scholar</a>
 
 ***Journal Publications:***
-1. Li, J.\*, <strong>Chen, J.\*</strong>, Tang, Y.\*, Landman, B. A., & Zhou, S. K. (2022). Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives. arXiv preprint [arXiv:2206.01136](https://arxiv.org/abs/2206.01136). (***\*: Equal contributions***, submitted to Medical Image Analysis)
+1. Li, J.\*, <strong>Chen, J.\*</strong>, Tang, Y.\*, Wang, C., Landman, B. A., & Zhou, S. K. (2022). Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives. arXiv preprint [arXiv:2206.01136](https://arxiv.org/abs/2206.01136). (***\*: Equal contributions***, submitted to Medical Image Analysis)
 1.  <strong>Chen, J.</strong>, Du, Y., He, Y., Segars, P. W., Li, Y., & Frey, E. C. (2021). TransMorph: Transformer for Unsupervised Medical Image Registration. [arXiv preprint](https://arxiv.org/abs/2111.10480). (*To be submitted*). 
 2.	<strong>Chen, J.</strong>, Li, Y., Luna, L. P., Chung, H. W., Rowe, S. P., Du, Y., Solnes, L. B., & Frey, E. C. (2021). Learning Fuzzy Clustering for SPECT/CT Segmentation via Convolutional Neural Networks. Medical Physics.
 3.	Li, Y., <strong>Chen, J.</strong>, Brown, J. L., Treves, S. T., Cao, X., Fahey, F. H., ... & Frey, E. C. (2021). DeepAMO: a multi-slice, multi-view anthropomorphic model observer for visual detection tasks performed on volume images. Journal of Medical Imaging, 8(4), 041204.
