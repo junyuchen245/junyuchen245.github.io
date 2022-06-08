@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 1.  ***Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives.***
-    * *Authors:* Jun Li\*, Junyu Chen\*, Yucheng Tange\*, Ce Wang, Bennett A. Landman, and S. Kevin Zhou (***\*: Equal Contribution***)
+    * *Authors:* Jun Li\*, **Junyu Chen**\*, Yucheng Tange\*, Ce Wang, Bennett A. Landman, and S. Kevin Zhou (***\*: Equal Contribution***)
     * *Submitted to:* Medical Image Analysis
     * *Paper link:* [https://arxiv.org/abs/2206.01136](https://arxiv.org/abs/2206.01136)
     * *PDF:* [<img src="/images/pdf_icon.png" width="25"/>](https://arxiv.org/pdf/2206.01136.pdf)
