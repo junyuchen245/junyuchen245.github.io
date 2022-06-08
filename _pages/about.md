@@ -58,14 +58,15 @@ PUBLICATIONS
 
 ***Conference Publications:*** 
 1. <strong>Chen, J.</strong>, Frey, E. C., & Du, Y. (2022). Unsupervised Learning of Diffeomorphic Image Registration via TransMorph. In International Workshop on Biomedical Image Registration (WBIR). (***Long oral presentation***)
-2. <strong>Chen, J.</strong>, Asma, E., & Chan, C. (2021). Targeted Gradient Descent: A Novel Method for Convolutional Neural Networks Fine-tuning and Online-learning. In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). (***Oral presentation, provisionally accepted, top 13% of 1630 papers***)
-3. <strong>Chen, J.</strong>, He, Y., Frey, E. C., Li, Y., & Du, Y. (2021). ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration. In Medical Imaging with Deep Learning (MIDL).
-4. <strong>Chen, J.</strong>, Li, Y., Du, Y., & Frey, E. (2021). Creating Anthropomorphic Phantoms via Unsupervised Convolutional Neural Networks. In Medical Imaging with Deep Learning (MIDL).
-5.	<strong>Chen, J.</strong>, & Frey, E. C. (2020, January). Medical Image Segmentation via Unsupervised Convolutional Neural Network. In Medical Imaging with Deep Learning (MIDL).
-6.	<strong>Chen, J.</strong>, Jha, A. L., & Frey, E. C. (2019). Incorporating CT prior information in the robust fuzzy C-means algorithm for QSPECT image segmentation. Proc. SPIE 10949, Medical Imaging 2019: Image Processing.
-7.	Li, X., Yang, F., Cheng, H., <strong>Chen, J.</strong>, Guo, Y., & Chen, L. (2017, October). Multi-scale cascade network for salient object detection. In Proceedings of the 25th ACM international conference on Multimedia (pp. 439-447).
-8.	Li, X., Chen, L., & <strong>Chen, J.</strong> (2017, December). A visual saliency-based method for automatic lung regions extraction in chest radiographs. In 2017 14th International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP) (pp. 162-165). IEEE.
-9.	Zhong, B., Qin, Z., Yang, S., <strong>Chen, J.</strong>, Mudrick, N., Taub, M., ... & Lobaton, E. (2017, December). Emotion recognition with facial expressions and physiological signals. In 2017 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 1-8). IEEE.
+2. Li, Y., Cui, J., <strong>Chen, J.</strong>, Zeng, G., Wollenweber, S., Jansen, F., ... & Li, Q. (2022). A Noise-level-aware Framework for PET Image Denoising. arXiv preprint arXiv:2203.08034.
+3. <strong>Chen, J.</strong>, Asma, E., & Chan, C. (2021). Targeted Gradient Descent: A Novel Method for Convolutional Neural Networks Fine-tuning and Online-learning. In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). (***Oral presentation, provisionally accepted, top 13% of 1630 papers***)
+4. <strong>Chen, J.</strong>, He, Y., Frey, E. C., Li, Y., & Du, Y. (2021). ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration. In Medical Imaging with Deep Learning (MIDL).
+5. <strong>Chen, J.</strong>, Li, Y., Du, Y., & Frey, E. (2021). Creating Anthropomorphic Phantoms via Unsupervised Convolutional Neural Networks. In Medical Imaging with Deep Learning (MIDL).
+6.	<strong>Chen, J.</strong>, & Frey, E. C. (2020, January). Medical Image Segmentation via Unsupervised Convolutional Neural Network. In Medical Imaging with Deep Learning (MIDL).
+7.	<strong>Chen, J.</strong>, Jha, A. L., & Frey, E. C. (2019). Incorporating CT prior information in the robust fuzzy C-means algorithm for QSPECT image segmentation. Proc. SPIE 10949, Medical Imaging 2019: Image Processing.
+8.	Li, X., Yang, F., Cheng, H., <strong>Chen, J.</strong>, Guo, Y., & Chen, L. (2017, October). Multi-scale cascade network for salient object detection. In Proceedings of the 25th ACM international conference on Multimedia (pp. 439-447).
+9.	Li, X., Chen, L., & <strong>Chen, J.</strong> (2017, December). A visual saliency-based method for automatic lung regions extraction in chest radiographs. In 2017 14th International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP) (pp. 162-165). IEEE.
+10.	Zhong, B., Qin, Z., Yang, S., <strong>Chen, J.</strong>, Mudrick, N., Taub, M., ... & Lobaton, E. (2017, December). Emotion recognition with facial expressions and physiological signals. In 2017 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 1-8). IEEE.
 
 ***Abstract Publications***
 1. <strong>Chen, J.</strong>, Li, Y., Du, Y., Luna, L., Rowe, S., & Frey, E. (2021). Semi-supervised SPECT segmentation using convolutional neural networks. Journal of Nuclear Medicine 62 (supplement 1), 1423-1423.
