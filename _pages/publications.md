@@ -56,8 +56,21 @@ We also introduce three variants of TransMorph, with two diffeomorphic variants 
                      archivePrefix={arXiv},
                      primaryClass={eess.IV}
                      }
-                
-4.  ***Targeted Gradient Descent: A Novel Method for Convolutional Neural Networks Fine-tuning and Online-learning***
+4.  ***A Noise-level-aware Framework for PET Image Denoising***
+    * *Authors:* Ye Li, Jianan Cui, **Junyu Chen**, Guodong Zeng, Scott Wollenweber, Floris Jansen, Se-In Jang, Kyungsang Kim, Kuang Gong, Quanzheng Li
+    * *Paper link:* [https://arxiv.org/abs/2203.08034](https://arxiv.org/abs/2203.08034)
+    * *PDF:* [<img src="/images/pdf_icon.png" width="25"/>](https://arxiv.org/ftp/arxiv/papers/2203/2203.08034.pdf)
+    * *Description:* In PET, the amount of relative (signal-dependent) noise present in different body regions can be significantly different and is inherently related to the number of counts present in that region. The number of counts in a region depends, in principle and among other factors, on the total administered activity, scanner sensitivity, image acquisition duration, radiopharmaceutical tracer uptake in the region, and patient local body morphometry surrounding the region. In theory, less amount of denoising operations is needed to denoise a high-count (low relative noise) image than images a low-count (high relative noise) image, and vice versa. The current deep-learning-based methods for PET image denoising are predominantly trained on image appearance only and have no special treatment for images of different noise levels. Our hypothesis is that by explicitly providing the local relative noise level of the input image to a deep convolutional neural network (DCNN), the DCNN can outperform itself trained on image appearance only. To this end, we propose a noise-level-aware framework denoising framework that allows embedding of local noise level into a DCNN.
+    * <img src="/images/NoiseLVLAware.jpg" width="700"/>
+    * *Citation:*
+         * *APA:* Li, Y., Cui, J., Chen, J., Zeng, G., Wollenweber, S., Jansen, F., ... & Li, Q. (2022). A Noise-level-aware Framework for PET Image Denoising. arXiv preprint arXiv:2203.08034.
+         * *BibTex:@article{li2022noise,
+            title={A Noise-level-aware Framework for PET Image Denoising},
+            author={Li, Ye and Cui, Jianan and Chen, Junyu and Zeng, Guodong and Wollenweber, Scott and Jansen, Floris and Jang, Se-In and Kim, Kyungsang and Gong, Kuang and Li, Quanzheng},
+            journal={arXiv preprint arXiv:2203.08034},
+            year={2022}
+            }
+5.  ***Targeted Gradient Descent: A Novel Method for Convolutional Neural Networks Fine-tuning and Online-learning***
     * *Authors:* **Junyu Chen**, Evren Asma, and Chung Chan
     * *Published in:* MICCAI, 2021 (*Oral presentation*)(*provisionally accepted, top 13% of 1630 papers*)
     * *Paper link:* [https://link.springer.com/chapter/10.1007/978-3-030-87199-4_3](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_3)
@@ -79,7 +92,7 @@ We also introduce three variants of TransMorph, with two diffeomorphic variants 
             isbn="978-3-030-87199-4"
             }
 
-5.  ***Learning Fuzzy Clustering for SPECT/CT Segmentation via Convolutional Neural Networks***
+6.  ***Learning Fuzzy Clustering for SPECT/CT Segmentation via Convolutional Neural Networks***
     * *Authors:* **Junyu Chen**, Ye Li, Licia P. Luna, Hyun Woo Chung, Steven P. Rowe, Yong Du, Lilja B. Solnes, and Eric C. Frey
     * *Published in:* Medical Physics
     * *Paper link:* [https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.14903](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.14903)
@@ -101,7 +114,7 @@ We also introduce three variants of TransMorph, with two diffeomorphic variants 
             eprint = {https://aapm.onlinelibrary.wiley.com/doi/pdf/10.1002/mp.14903}
             }
     
-6. ***ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration***
+7. ***ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration***
     * *Authors:* **Junyu Chen**, Yufan He, Eric C. Frey, Ye Li, Yong Du
     * *Published in:* Medical Imaging with Deep Learning, 2021
     * *Paper link:* [https://arxiv.org/abs/2104.06468](https://arxiv.org/abs/2104.06468)
@@ -119,7 +132,7 @@ We also introduce three variants of TransMorph, with two diffeomorphic variants 
                      archivePrefix={arXiv},
                      primaryClass={eess.IV}
                      }
-7.  ***Generating anthropomorphic phantoms using fully unsupervised deformable image registration with convolutional neural networks***
+8.  ***Generating anthropomorphic phantoms using fully unsupervised deformable image registration with convolutional neural networks***
     * *Authors:* **Junyu Chen**, Ye Li, Yong Du, Eric C. Frey
     * *Published in:* Medical Physics, Dec. 2020 (***Editor's Choice***)
     * *Paper link:* [https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.14545](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.14545)
@@ -138,7 +151,7 @@ We also introduce three variants of TransMorph, with two diffeomorphic variants 
                     pages = {6366-6380},
                     doi = {10.1002/mp.14545},
                     url = {https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.14545}}
-8. ***DeepAMO: A Multi-Slice, Multi-View Anthropomorphic Model Observer for Visual Detection Tasks Performed on Volume Images***
+9. ***DeepAMO: A Multi-Slice, Multi-View Anthropomorphic Model Observer for Visual Detection Tasks Performed on Volume Images***
     * *Authors:* Ye Li, **Junyu Chen**, Justin L. Brown, S. Ted Treves, Xinhua Cao, Frederic H. Fahey, George Sgouros, Wesley E. Bolch, Eric C. Frey
     * *Published in:*  Journal of Medical Imaging’s special section: Perspectives in Human and Model Observer Performance, 2020
     * *Paper link:* [SPIE. Digital Library](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-8/issue-4/041204/DeepAMO--a-multi-slice-multi-view-anthropomorphic-model-observer/10.1117/1.JMI.8.4.041204.short?SSO=1)
@@ -164,7 +177,7 @@ inter- or intra- observer variability) using a Mixture Density Network.
                      doi = {10.1117/1.JMI.8.4.041204},
                      URL = {https://doi.org/10.1117/1.JMI.8.4.041204}}
    
-9. ***Medical Image Segmentation via Unsupervised Convolutional Neural Network***     
+10. ***Medical Image Segmentation via Unsupervised Convolutional Neural Network***     
     * *Authors:* **Junyu Chen**, Eric C. Frey
     * *Published in:* Medical Imaging with Deep Learning, 2020
     * *Paper link:* [https://openreview.net/forum?id=XrbnSCv4LU](https://openreview.net/forum?id=XrbnSCv4LU)
@@ -180,7 +193,7 @@ inter- or intra- observer variability) using a Mixture Density Network.
                     booktitle={Medical Imaging with Deep Learning},
                     year={2020}}
 
-10. ***Incorporating CT prior information in the robust fuzzy C-means algorithm for QSPECT image segmentation***
+11. ***Incorporating CT prior information in the robust fuzzy C-means algorithm for QSPECT image segmentation***
     * *Authors:* **Junyu Chen**, Abhinav K Jha, Eric C. Frey
     * *Published in:* Medical Imaging 2019: Image Processing
     * *Paper link:* [SPIE Digital Library](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10949/109491W/Incorporating-CT-prior-information-in-the-robust-fuzzy-C-means/10.1117/12.2506805.short)
