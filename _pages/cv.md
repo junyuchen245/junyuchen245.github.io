@@ -66,6 +66,9 @@ Jounral peer review activies
 * IEEE Access
 * Quantitative Imaging in Medicine and Surgery
 * IEEE Transactions on Medical Imaging
+* IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control
+* IEEE Transactions on Radiation and Plasma Medical Sciences
+
  
 Teaching experience
 ------
