@@ -4,6 +4,11 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
+1. ### *Class-incremental Learning for Multi-organ Segmentation*
+    * *Oral Presentation* @ **[SNMMI Annual Meeting 2022](https://www.snmmi.org/MeetingsEvents/index.aspx?ItemNumber=798)**
+    * *06/14/2022*
+    *  **Junyu Chen**
+    *  Vedio: [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/Mnzz0ZVDwIw)
 
 1. ### *Deep Learning for Medical Image Analysis*
     * *Invited Talk* @ **[CAMCA at Massachusetts General Hospital/Harvard Medical School](https://projects.iq.harvard.edu/camca/)**
