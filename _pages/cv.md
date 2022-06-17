@@ -87,9 +87,11 @@ Teaching experience
 Peer-reviewed publications
 ------
 ***Journal Publications:***
-1.	<strong>Chen, J.</strong>, Li, Y., Luna, L. P., Chung, H. W., Rowe, S. P., Du, Y., Solnes, L. B., & Frey, E. C. (2021). Learning Fuzzy Clustering for SPECT/CT Segmentation via Convolutional Neural Networks. Medical Physics.
-2.	Li, Y., <strong>Chen, J.</strong>, Brown, J. L., Treves, S. T., Cao, X., Fahey, F. H., ... & Frey, E. C. (2021). DeepAMO: a multi-slice, multi-view anthropomorphic model observer for visual detection tasks performed on volume images. Journal of Medical Imaging, 8(4), 041204.
-3.	<strong>Chen, J.</strong>, Li, Y., Du, Y., & Frey, E. C. (2020). Generating Anthropomorphic Phantoms Using Fully Unsupervised Deformable Image Registration with Convolutional Neural Networks. Medical Physics, 47: 6366-6380. (***<a href="https://aapm.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2473-4209.EDITORS_CHOICE">Editor's Choice</a>***)
+1.	Li, J.\*, <strong>Chen, J.</strong>\*, Tang, Y.\*, Wang, C., Landman, B. A., & Zhou, S. K. (2022). Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives. arXiv preprint arXiv:2206.01136. https://arxiv.org/abs/2206.01136. [\*: Equal contributions, submitted to Medical Image Analysis]
+2.	<strong>Chen, J.</strong>, Frey, E. C., He, Y., Segars, W. P., & Du, Y. (2021). TransMorph: Transformer for unsupervised medical image registration. arXiv preprint. https://arxiv.org/abs/2111.10480. [Submitted]
+3.	<strong>Chen, J.</strong>, Li, Y., Luna, L. P., Chung, H. W., Rowe, S. P., Du, Y., Solnes, L. B., & Frey, E. C. (2021). Learning Fuzzy Clustering for SPECT/CT Segmentation via Convolutional Neural Networks. Medical Physics.
+4.	Li, Y., <strong>Chen, J.</strong>, Brown, J. L., Treves, S. T., Cao, X., Fahey, F. H., ... & Frey, E. C. (2021). DeepAMO: a multi-slice, multi-view anthropomorphic model observer for visual detection tasks performed on volume images. Journal of Medical Imaging, 8(4), 041204.
+5.	<strong>Chen, J.</strong>, Li, Y., Du, Y., & Frey, E. C. (2020). Generating Anthropomorphic Phantoms Using Fully Unsupervised Deformable Image Registration with Convolutional Neural Networks. Medical Physics, 47: 6366-6380. (***<a href="https://aapm.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2473-4209.EDITORS_CHOICE">Editor's Choice</a>***)
 
 ***Conference Publications:***
 1. <strong>Chen, J.</strong>, Frey, E. C., & Du, Y. (2022). Unsupervised Learning of Diffeomorphic Image Registration via TransMorph. In International Workshop on Biomedical Image Registration (WBIR). (***Long oral presentation***)
@@ -104,8 +106,11 @@ Peer-reviewed publications
 10.	Zhong, B., Qin, Z., Yang, S., <strong>Chen, J.</strong>, Mudrick, N., Taub, M., ... & Lobaton, E. (2017, December). Emotion recognition with facial expressions and physiological signals. In 2017 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 1-8). IEEE.
 
 ***Conference Abstract Publications:***
-1.  <strong>Chen, J.</strong>, Li, Y., Du, Y., Luna, L., Rowe, S., & Frey, E. (2021). Semi-supervised SPECT segmentation using convolutional neural networks. Journal of Nuclear Medicine 62 (supplement 1), 1423-1423.
-2.	<strong>Chen, J.</strong>, Li, Y., & Frey, E. (2020). A fully unsupervised approach to create patient-like phantoms via convolutional neural networks. Journal of Nuclear Medicine, 61(supplement 1), 522-522. (***Oral presentation***)
-3.	Li, Y., <strong>Chen, J.</strong>, Brown, J., Treves, S. T., Cao, X., Fahey, F., ... & Frey, E. (2020). DeepAMO: An Anthropomorphic Model Observer for Visual Detection Tasks in Volume Images. Journal of Nuclear Medicine, 61(supplement 1), 1427-1427.
-4.	<strong>Chen, J.</strong>, Frey, E. C., & Lodge, M. A. (2019). Accuracy of PET/CT quantification in bone. Journal of Nuclear Medicine 60 (supplement 1), 1201-1201.
+1.	Li, Y., Brown, J., Xu, J., <strong>Chen, J.</strong>, Ghaly, M., Cao, X., Du, Y., Fahey, F., Bolch, W., Sgouros, G., & Frey, E. (2022). Justification for and In Silico Evaluation of a New Local-body-morphometry Based Dosing Method for Pediatric 99mTc-DMSA SPECT. Journal of Nuclear Medicine 63 (supplement 1). [Oral presentation]
+2.	Jang, S., Pan, T., Li, Y., <strong>Chen, J.</strong>, Li, Q., & Gong, K. (2022). PET image denoising based on transformer: evaluations on datasets of multiple tracers. Journal of Nuclear Medicine 63 (supplement 1). [Oral presentation]
+3.	<strong>Chen, J.</strong>, Frey, E., & Du, Y. (2022). Class-incremental learning for multi-organ segmentation. Journal of Nuclear Medicine 63 (supplement 1). [Oral presentation]
+4.  <strong>Chen, J.</strong>, Li, Y., Du, Y., Luna, L., Rowe, S., & Frey, E. (2021). Semi-supervised SPECT segmentation using convolutional neural networks. Journal of Nuclear Medicine 62 (supplement 1), 1423-1423.
+5.	<strong>Chen, J.</strong>, Li, Y., & Frey, E. (2020). A fully unsupervised approach to create patient-like phantoms via convolutional neural networks. Journal of Nuclear Medicine, 61(supplement 1), 522-522. (***Oral presentation***)
+6.	Li, Y., <strong>Chen, J.</strong>, Brown, J., Treves, S. T., Cao, X., Fahey, F., ... & Frey, E. (2020). DeepAMO: An Anthropomorphic Model Observer for Visual Detection Tasks in Volume Images. Journal of Nuclear Medicine, 61(supplement 1), 1427-1427.
+7.	<strong>Chen, J.</strong>, Frey, E. C., & Lodge, M. A. (2019). Accuracy of PET/CT quantification in bone. Journal of Nuclear Medicine 60 (supplement 1), 1201-1201.
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
