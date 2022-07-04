@@ -78,12 +78,12 @@ PEER REVIEW ACTIVITIES
 ----
 <a href="https://publons.com/researcher/4216894/junyu-chen/">Junyu Chen on Publons</a>\
 ***Journals:*** 
-1. <a href="https://aapm.onlinelibrary.wiley.com/journal/24734209">Medical Physics</a> (IF: 4.071) - [Reviewer Certificate (2021)](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/MP_Reviewer_Certificate_2021.pdf)
+1. <a href="https://aapm.onlinelibrary.wiley.com/journal/24734209">Medical Physics</a> (IF: 4.506) - [Reviewer Certificate (2021)](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/MP_Reviewer_Certificate_2021.pdf)
 2. <a href="https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine">Computer Methods and Programs in Biomedicine</a> (IF: 5.428)
-3. <a href="https://ieeeaccess.ieee.org/">IEEE Access</a> (IF: 3.367)
-4. <a href="https://qims.amegroups.com/">Quantitative Imaging in Medicine and Surgery</a> (IF: 3.837)
-5. <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42">IEEE Transactions on Medical Imaging</a> (IF: 10.048)
-6. <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=58">IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control</a> (IF: 2.725)
+3. <a href="https://ieeeaccess.ieee.org/">IEEE Access</a> (IF: 3.476)
+4. <a href="https://qims.amegroups.com/">Quantitative Imaging in Medicine and Surgery</a> (IF: 4.630)
+5. <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42">IEEE Transactions on Medical Imaging</a> (IF: 11.037)
+6. <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=58">IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control</a> (IF: 3.267)
 7. <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433213">IEEE Transactions on Radiation and Plasma Medical Sciences</a>
 
 ***Conferences:***
