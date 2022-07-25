@@ -58,7 +58,7 @@ PUBLICATIONS
 
 ***Conference Publications:*** 
 1. <strong>Chen, J.</strong>, Frey, E. C., & Du, Y. (2022). Unsupervised Learning of Diffeomorphic Image Registration via TransMorph. In International Workshop on Biomedical Image Registration (WBIR). (***Long oral presentation***)
-2. Li, Y., Cui, J., <strong>Chen, J.</strong>, Zeng, G., Wollenweber, S., Jansen, F., ... & Li, Q. (2022). A Noise-level-aware Framework for PET Image Denoising. arXiv preprint arXiv:2203.08034.
+2. Li, Y., Cui, J., <strong>Chen, J.</strong>, Zeng, G., Wollenweber, S., Jansen, F., ... & Li, Q. (2022). A Noise-level-aware Framework for PET Image Denoising. In International Workshop on Machine Learning for Medical Image Reconstruction. Springer, Cham.
 3. <strong>Chen, J.</strong>, Asma, E., & Chan, C. (2021). Targeted Gradient Descent: A Novel Method for Convolutional Neural Networks Fine-tuning and Online-learning. In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). (***Oral presentation, provisionally accepted, top 13% of 1630 papers***)
 4. <strong>Chen, J.</strong>, He, Y., Frey, E. C., Li, Y., & Du, Y. (2021). ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration. In Medical Imaging with Deep Learning (MIDL).
 5. <strong>Chen, J.</strong>, Li, Y., Du, Y., & Frey, E. (2021). Creating Anthropomorphic Phantoms via Unsupervised Convolutional Neural Networks. In Medical Imaging with Deep Learning (MIDL).
