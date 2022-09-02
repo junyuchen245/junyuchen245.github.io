@@ -18,6 +18,7 @@ I received my dual B.Sc. degrees with <a href="http://catalog.ncsu.edu/undergrad
 
 NEWS
 ----
+*09/02/2022* - One journal paper was accepted by [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis) for publication!\
 *05/17/2022* - One paper was accepted to [WBIR 2022](https://www.wbir.info/themenmenue/information/info/index.html) as long oral!\
 *04/22/2022* - I won 2022 SNMMI Student Research Grant award!\
 *02/10/2022* - My Ph.D. thesis proposal was accepted!\
@@ -51,7 +52,7 @@ PUBLICATIONS
 
 ***Journal Publications:***
 1. Li, J.\*, <strong>Chen, J.\*</strong>, Tang, Y.\*, Wang, C., Landman, B. A., & Zhou, S. K. (2022). Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives. arXiv preprint [arXiv:2206.01136](https://arxiv.org/abs/2206.01136). (***\*: Equal contributions***, submitted to Medical Image Analysis)
-1.  <strong>Chen, J.</strong>, Du, Y., He, Y., Segars, P. W., Li, Y., & Frey, E. C. (2021). TransMorph: Transformer for Unsupervised Medical Image Registration. [arXiv preprint](https://arxiv.org/abs/2111.10480). (*To be submitted*). 
+1.  <strong>Chen, J.</strong>, Du, Y., He, Y., Segars, P. W., Li, Y., & Frey, E. C. (2022). TransMorph: Transformer for Unsupervised Medical Image Registration. Medical Image Analysis. (***Accepted***) 
 2.	<strong>Chen, J.</strong>, Li, Y., Luna, L. P., Chung, H. W., Rowe, S. P., Du, Y., Solnes, L. B., & Frey, E. C. (2021). Learning Fuzzy Clustering for SPECT/CT Segmentation via Convolutional Neural Networks. Medical Physics.
 3.	Li, Y., <strong>Chen, J.</strong>, Brown, J. L., Treves, S. T., Cao, X., Fahey, F. H., ... & Frey, E. C. (2021). DeepAMO: a multi-slice, multi-view anthropomorphic model observer for visual detection tasks performed on volume images. Journal of Medical Imaging, 8(4), 041204.
 4.	<strong>Chen, J.</strong>, Li, Y., Du, Y., & Frey, E. C. (2020). Generating Anthropomorphic Phantoms Using Fully Unsupervised Deformable Image Registration with Convolutional Neural Networks. Medical Physics, 47: 6366-6380. (***<a href="https://aapm.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2473-4209.EDITORS_CHOICE">Editor's Choice</a>***)
