@@ -59,7 +59,7 @@ Professional experience
     * Did several performance measurements for their transceiver products.
   * Supervisor: Kenny Man
  
-Jounral peer review activies
+Jounral peer review activities
 ------
 * Medical Physics
 * Computer Methods and Programs in Biomedicine 
@@ -91,7 +91,7 @@ Peer-reviewed publications
 ------
 ***Journal Publications:***
 1.	Li, J.\*, <strong>Chen, J.</strong>\*, Tang, Y.\*, Wang, C., Landman, B. A., & Zhou, S. K. (2022). Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives. arXiv preprint arXiv:2206.01136. https://arxiv.org/abs/2206.01136. [\*: Equal contributions, submitted to Medical Image Analysis]
-2.	<strong>Chen, J.</strong>, Frey, E. C., He, Y., Segars, W. P., & Du, Y. (2021). TransMorph: Transformer for unsupervised medical image registration. arXiv preprint. Medical Image Analysis. [***Accepted***] 
+2.	<strong>Chen, J.</strong>, Frey, E. C., He, Y., Segars, W. P., & Du, Y. (2021). TransMorph: Transformer for unsupervised medical image registration. Medical Image Analysis. [***Accepted***] 
 3.	<strong>Chen, J.</strong>, Li, Y., Luna, L. P., Chung, H. W., Rowe, S. P., Du, Y., Solnes, L. B., & Frey, E. C. (2021). Learning Fuzzy Clustering for SPECT/CT Segmentation via Convolutional Neural Networks. Medical Physics.
 4.	Li, Y., <strong>Chen, J.</strong>, Brown, J. L., Treves, S. T., Cao, X., Fahey, F. H., ... & Frey, E. C. (2021). DeepAMO: a multi-slice, multi-view anthropomorphic model observer for visual detection tasks performed on volume images. Journal of Medical Imaging, 8(4), 041204.
 5.	<strong>Chen, J.</strong>, Li, Y., Du, Y., & Frey, E. C. (2020). Generating Anthropomorphic Phantoms Using Fully Unsupervised Deformable Image Registration with Convolutional Neural Networks. Medical Physics, 47: 6366-6380. (***<a href="https://aapm.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2473-4209.EDITORS_CHOICE">Editor's Choice</a>***)
