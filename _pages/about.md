@@ -45,6 +45,7 @@ MEMBERSHIPS
 #### Institute of Electrical and Electronics Engineers (IEEE), *Student Member*
 #### The International Society for Optics and Photonics (SPIE), *Student Member*
 #### Association for Computing Machinery (ACM), *Student Member*
+#### The Medical Image Computing and Computer Assisted Intervention Society, *Student Member*
 
 PUBLICATIONS
 ------
