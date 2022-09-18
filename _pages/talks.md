@@ -4,7 +4,12 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
-1. ### *Unsupervised Learning of Diffeomorphic Image Registration via TransMorph*
+1. ### *A Novel Decoder for Learning-based Diffeomorphic Image Registration*
+    * *Invited Presentation* @ **[MICCAI Learn2Reg 2022 Challenge](https://learn2reg.grand-challenge.org/)**
+    * **Junyu Chen**
+    *  Vedio: [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/lH-esWNVTHQ)
+
+3. ### *Unsupervised Learning of Diffeomorphic Image Registration via TransMorph*
     * *Oral Presentation* @ **[International Workshop on Biomedical Image Registration 2022](https://link.springer.com/book/10.1007/978-3-031-11203-4)**
     *  **Junyu Chen**, Eric C. Frey, Yong Du
     *  Vedio: [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/iUO5gN_CTX8) Slides/Poster: [<img src="/images/pdf_icon.png" width="30"/>](https://drive.google.com/file/d/1QYlpzc-zxx8w3V_TLj_9NImqMJAYZNjq/view?usp=sharing)
