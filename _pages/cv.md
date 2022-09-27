@@ -113,9 +113,9 @@ Peer-reviewed publications
 10.	Zhong, B., Qin, Z., Yang, S., <strong>Chen, J.</strong>, Mudrick, N., Taub, M., ... & Lobaton, E. (2017, December). Emotion recognition with facial expressions and physiological signals. In 2017 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 1-8). IEEE.
 
 ***Conference Abstract Publications:***
-1.	Li, Y., Brown, J., Xu, J., <strong>Chen, J.</strong>, Ghaly, M., Cao, X., Du, Y., Fahey, F., Bolch, W., Sgouros, G., & Frey, E. (2022). Justification for and In Silico Evaluation of a New Local-body-morphometry Based Dosing Method for Pediatric 99mTc-DMSA SPECT. Journal of Nuclear Medicine 63 (supplement 1). [Oral presentation]
-2.	Jang, S., Pan, T., Li, Y., <strong>Chen, J.</strong>, Li, Q., & Gong, K. (2022). PET image denoising based on transformer: evaluations on datasets of multiple tracers. Journal of Nuclear Medicine 63 (supplement 1). [Oral presentation]
-3.	<strong>Chen, J.</strong>, Frey, E., & Du, Y. (2022). Class-incremental learning for multi-organ segmentation. Journal of Nuclear Medicine 63 (supplement 1). [Oral presentation]
+1.	Li, Y., Brown, J., Xu, J., <strong>Chen, J.</strong>, Ghaly, M., Cao, X., Du, Y., Fahey, F., Bolch, W., Sgouros, G., & Frey, E. (2022). Justification for and In Silico Evaluation of a New Local-body-morphometry Based Dosing Method for Pediatric 99mTc-DMSA SPECT. Journal of Nuclear Medicine 63 (supplement 1).
+2.	Jang, S., Pan, T., Li, Y., <strong>Chen, J.</strong>, Li, Q., & Gong, K. (2022). PET image denoising based on transformer: evaluations on datasets of multiple tracers. Journal of Nuclear Medicine 63 (supplement 1).
+3.	<strong>Chen, J.</strong>, Frey, E., & Du, Y. (2022). Class-incremental learning for multi-organ segmentation. Journal of Nuclear Medicine 63 (supplement 1). (***Oral presentation***)
 4.  <strong>Chen, J.</strong>, Li, Y., Du, Y., Luna, L., Rowe, S., & Frey, E. (2021). Semi-supervised SPECT segmentation using convolutional neural networks. Journal of Nuclear Medicine 62 (supplement 1), 1423-1423.
 5.	<strong>Chen, J.</strong>, Li, Y., & Frey, E. (2020). A fully unsupervised approach to create patient-like phantoms via convolutional neural networks. Journal of Nuclear Medicine, 61(supplement 1), 522-522. (***Oral presentation***)
 6.	Li, Y., <strong>Chen, J.</strong>, Brown, J., Treves, S. T., Cao, X., Fahey, F., ... & Frey, E. (2020). DeepAMO: An Anthropomorphic Model Observer for Visual Detection Tasks in Volume Images. Journal of Nuclear Medicine, 61(supplement 1), 1427-1427.
