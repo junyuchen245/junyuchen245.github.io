@@ -53,7 +53,7 @@ PUBLICATIONS
 
 ***Journal Publications:***
 1. Li, J.\*, <strong>Chen, J. \*(Co-first author)</strong>, Tang, Y.\*, Wang, C., Landman, B. A., & Zhou, S. K. (2022). Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives. arXiv preprint [arXiv:2206.01136](https://arxiv.org/abs/2206.01136). (***\*: Equal contributions***, submitted to Medical Image Analysis)
-2. <strong>Chen, J.</strong>, Du, Y., He, Y., Segars, P. W., Li, Y., & Frey, E. C. (2022). TransMorph: Transformer for Unsupervised Medical Image Registration. Medical Image Analysis. (***Accepted***) 
+2. <strong>Chen, J.</strong>, Frey, E. C., He, Y., Segars, W. P., Li, Y., & Du, Y. (2022). Transmorph: Transformer for unsupervised medical image registration. *Medical Image Analysis*, 102615.
 3. Jang, S. I., Pan, T., Li, Y., Heidari, P., <strong>Chen, J.</strong>, Li, Q., & Gong, K. (2022). Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising. arXiv preprint arXiv:2209.03300. (Submitted to IEEE Transactions on Medical Imaging)
 4. <strong>Chen, J.</strong>, Li, Y., Luna, L. P., Chung, H. W., Rowe, S. P., Du, Y., Solnes, L. B., & Frey, E. C. (2021). Learning fuzzy clustering for SPECT/CT segmentation via convolutional neural networks. Medical physics, 48(7), 3860-3877.
 5. Li, Y., <strong>Chen, J.</strong>, Brown, J. L., Treves, S. T., Cao, X., Fahey, F. H., ... & Frey, E. C. (2021). DeepAMO: a multi-slice, multi-view anthropomorphic model observer for visual detection tasks performed on volume images. Journal of Medical Imaging, 8(4), 041204.
