@@ -47,14 +47,15 @@ the spatial correspondence between moving and fixed images. In this paper, we pr
 We also introduce three variants of TransMorph, with two diffeomorphic variants ensuring the topology-preserving deformations and a Bayesian variant producing a well-calibrated registration uncertainty estimate.
     * <img src="/images/TransMorph.jpg" width="700"/>
     * *Citation:*
-         * *APA:* Chen, J., Du, Y., He, Y., Segars, P. W., Li, Y., & Frey, E. C. (2021). TransMorph: Transformer for Unsupervised Medical Image Registration. <i>arXiv preprint</i>.
-         * *BibTex:*@misc{chen2021transmorph,
-                     title={TransMorph: Transformer for unsupervised medical image registration}, 
-                     author={Junyu Chen and Yong Du and Yufan He and William P. Segars and Ye Li and Eric C. Frey},
-                     year={2021},
-                     eprint={2111.10480},
-                     archivePrefix={arXiv},
-                     primaryClass={eess.IV}
+         * *APA:* Chen, J., Frey, E. C., He, Y., Segars, W. P., Li, Y., & Du, Y. (2022). Transmorph: Transformer for unsupervised medical image registration. *Medical Image Analysis*, 102615.
+         * *BibTex:*@article{CHEN2022102615,
+                     title = {TransMorph: Transformer for unsupervised medical image registration},
+                     journal = {Medical Image Analysis},
+                     volume = {82},
+                     pages = {102615},
+                     year = {2022},
+                     issn = {1361-8415},
+                     doi = {https://doi.org/10.1016/j.media.2022.102615},
                      }
 4.  ***A Noise-level-aware Framework for PET Image Denoising***
     * *Authors:* Ye Li, Jianan Cui, **Junyu Chen**, Guodong Zeng, Scott Wollenweber, Floris Jansen, Se-In Jang, Kyungsang Kim, Kuang Gong, Quanzheng Li
