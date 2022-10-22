@@ -16,7 +16,7 @@ Education
 * **B.Sc. in Computer Engineering, *Summa Cum Laude***, North Carolina State University, 2017
 * **B.Sc. in Electrical Engineering, *Summa Cum Laude***, North Carolina State University, 2017
 * **M.S.E. in Electrical & Computer Engineering**, Johns Hopkins University, 2019
-* **Ph.D. in Electrical & Computer Engineering**, Johns Hopkins University, 2023 (expected)
+* **Ph.D. in Electrical & Computer Engineering**, Johns Hopkins University, 2022
 
 Professional experience
 ------
