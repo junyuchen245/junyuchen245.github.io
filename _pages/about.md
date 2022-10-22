@@ -39,7 +39,7 @@ RESEARCH INTERESTS <img src="/images/radiology_icon.png" width="48"/> <img src="
 
 EDUCATION <img src="/images/JHU_flat.png" width="140"/> <img src="/images/NC.png" width="180"/>
 ----
-#### Ph.D. in Electrical & Computer Engineering, <a href="https://engineering.jhu.edu/ece/">Johns Hopkins University</a> (Baltimore, MD) (~2023)
+#### Ph.D. in Electrical & Computer Engineering, <a href="https://engineering.jhu.edu/ece/">Johns Hopkins University</a> (Baltimore, MD) (2022)
 #### M.S.E. in Electrical & Computer Engineering, <a href="https://engineering.jhu.edu/ece/">Johns Hopkins University</a> (Baltimore, MD) (2019)   
 #### B.Sc. in Computer Engineering, *Summa Cum Laude*, <a href="https://www.ece.ncsu.edu/">North Carolina State University</a> (Raleigh, NC) (2017)
 #### B.Sc. in Electrical Engineering, *Summa Cum Laude*, <a href="https://www.ece.ncsu.edu/">North Carolina State University</a> (Raleigh, NC) (2017)   
