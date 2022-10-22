@@ -69,9 +69,9 @@ analytics:
 author:
   name             : "Junyu Chen"
   avatar           : "Junyu.gif"#"IMG_5377.jpg"
-  bio              : "Ph.D. candidate at Johns Hopkins University"
+  bio              : "Researcher at Johns Hopkins Medical Institute"
   location         : "Baltimore, MD, USA"
-  employer         : "Johns Hopkins University"
+  employer         : "Johns Hopkins Medical Institute"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=9jIpgScAAAAJ&hl=en"
   email            : "jchen245@jhmi.edu"
