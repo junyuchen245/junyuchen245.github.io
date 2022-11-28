@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**[My latest CV](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/Junyu_CV_09122022.pdf)**
+**[My latest CV](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/Junyu_CV_11282022.pdf)**
 
 Education
 ------
@@ -68,6 +68,13 @@ Jounral peer review activities
 * IEEE Transactions on Medical Imaging
 * IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control
 * IEEE Transactions on Radiation and Plasma Medical Sciences
+* IEEE Journal of Biomedical and Health Informatics
+* Medical & Biological Engineering & Computing
+
+Conference peer review activities
+------
+* International Conference on Medical Imaging with Deep Learning (MIDL)
+* International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
 
  
 Teaching experience
