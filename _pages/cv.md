@@ -108,6 +108,7 @@ Peer-reviewed publications
 6.	<strong>Chen, J.</strong>, Li, Y., Du, Y., & Frey, E. C. (2020). Generating Anthropomorphic Phantoms Using Fully Unsupervised Deformable Image Registration with Convolutional Neural Networks. Medical Physics, 47: 6366-6380. (***<a href="https://aapm.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2473-4209.EDITORS_CHOICE">Editor's Choice</a>***)
 
 ***Conference Publications:***
+1. Liu, Y., <strong>Chen, J.</strong>, Wei, S., Carass, A., & Prince, J.L. (2022). On Finite Difference Jacobian Computation in Deformable Image Registration. arXiv preprint [arXiv:2212.06060](https://arxiv.org/abs/2212.06060). (submitted to IPMI 2023)
 1. <strong>Chen, J.</strong>, Frey, E. C., & Du, Y. (2022). Unsupervised Learning of Diffeomorphic Image Registration via TransMorph. In International Workshop on Biomedical Image Registration (WBIR). (***Long oral presentation***)
 2. Li, Y., Cui, J., <strong>Chen, J.</strong>, Zeng, G., Wollenweber, S., Jansen, F., ... & Li, Q. (2022). A Noise-level-aware Framework for PET Image Denoising. In International Workshop on Machine Learning for Medical Image Reconstruction. Springer, Cham.
 3. <strong>Chen, J.</strong>, Asma, E., & Chan, C. (2021). Targeted Gradient Descent: A Novel Method for Convolutional Neural Networks Fine-tuning and Online-learning. In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). (***Oral presentation, provisionally accepted, top 13% of 1630 papers***)
