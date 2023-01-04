@@ -10,7 +10,7 @@ redirect_from:
 
 ABOUT MYSELF
 ====
-I am a researcher at Johns Hopkins Medical Institute, and I am currently working for <a href="https://www.hopkinsmedicine.org/radiology/research/divisions/radiological-physics/our-team.html">Radiological Physics Division</a> in the <a href="https://www.hopkinsmedicine.org/radiology/index.html">Russell H. Morgan Department of Radiology and Radiological Science</a>.
+I am a research associate faculty at Johns Hopkins Medical Institutes, working in the <a href="https://www.hopkinsmedicine.org/radiology/research/divisions/radiological-physics/our-team.html">Radiological Physics Division</a> of the <a href="https://www.hopkinsmedicine.org/radiology/index.html">Russell H. Morgan Department of Radiology and Radiological Science</a>.
 
 I was a graduate student at Johns Hopkins University from 2017 to 2022, advised by <a href="https://scholar.google.com/citations?user=_-K45vUAAAAJ&hl=en">Dr. Eric C. Frey</a>, and co-advised by <a href="https://scholar.google.com/citations?user=rXoK-TcAAAAJ&hl=en">Dr. Yong Du</a>. I successfully defended my dissertation on Oct. 21, 2022. My sincere appreciation to my committee members, Profs. <a href="https://pulselab.jhu.edu/muyinatu-a-lediju-bell-phd/">Muyinatu Bell</a>, <a href="https://engineering.jhu.edu/ece/faculty/vishal-patel/">Vishal Patel</a>, <a href="https://www.hopkinsmedicine.org/profiles/details/yong-du">Yong Du</a>, and <a href="https://scholar.google.com/citations?user=_-K45vUAAAAJ&hl=en">Eric Frey</a>.
 
@@ -22,6 +22,7 @@ I received my dual B.Sc. degrees with <a href="http://catalog.ncsu.edu/undergrad
 
 NEWS
 ----
+*01/01/2023* - I joined JHMI as a research faculty member!\
 *10/21/2022* - Successfully defended my dissertation. Officially a Ph.D.!\
 *09/02/2022* - One journal paper was accepted by [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis) for publication!\
 *05/17/2022* - One paper was accepted to [WBIR 2022](https://www.wbir.info/themenmenue/information/info/index.html) as long oral!\
