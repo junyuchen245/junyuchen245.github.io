@@ -4,20 +4,37 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-1.  ***Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives.***
+1. ***On Finite Difference Jacobian Computation in Deformable Image Registration***
+   * *Authors:* Yihao Liu, **Junyu Chen**, Shuwen Wei, Aaron Carass, and Jerry Prince
+    * *Submitted to:* IPMI 2023
+    * *Paper link:* [https://arxiv.org/abs/2212.06060](https://arxiv.org/abs/2212.06060)
+    * *PDF:* [<img src="/images/pdf_icon.png" width="25"/>](https://arxiv.org/pdf/2212.06060.pdf)
+    * *Description:* Producing spatial transformations that are diffeomorphic has been a central problem in deformable image registration. As a diffeomorphic transformation should have positive Jacobian determinant |J| everywhere, the number of voxels with |J|<0 has been used to test for diffeomorphism and also to measure the irregularity of the transformation. For digital transformations, |J| is commonly approximated using central difference, but this strategy can yield positive |J|’s for transformations that are clearly not diffeomorphic—even at the voxel resolution level. To show this, we first investigate the geometric meaning of different finite difference approximations of |J|. We show that to determine diffeomorphism for digital images, use of any individual finite difference approximations of |J| is insufficient. We show that for a 2D transformation, four unique finite difference approximations of |J|’s must be positive to ensure the entire domain is invertible and free of folding at the pixel level. We also show that in 3D, ten unique finite differences approximations of |J|’s are required to be positive. Our proposed digital diffeomorphism criteria solves several errors inherent in the central difference approximation of |J| and accurately detects non-diffeomorphic digital transformations.
+    * <img src="/images/digital_diffeomorphism.jpg" width="600"/>
+    * *Citation:*
+         * *APA:* Liu, Y., Chen, J., Wei, S., Carass, A., & Prince, J. (2022). On Finite Difference Jacobian Computation in Deformable Image Registration. arXiv preprint arXiv:2212.06060.     
+         * *BibTex:* @article{liu2022finite,
+            title={On Finite Difference Jacobian Computation in Deformable Image Registration},
+            author={Liu, Yihao and Chen, Junyu and Wei, Shuwen and Carass, Aaron and Prince, Jerry},
+            journal={arXiv preprint arXiv:2212.06060},
+            year={2022}
+            }
+3.  ***Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives.***
     * *Authors:* Jun Li\*, **Junyu Chen**\*, Yucheng Tang\*, Ce Wang, Bennett A. Landman, and S. Kevin Zhou (***\*: Equal Contribution***)
-    * *Submitted to:* Medical Image Analysis
-    * *Paper link:* [https://arxiv.org/abs/2206.01136](https://arxiv.org/abs/2206.01136)
+    * *Published in:* Medical Image Analysis
+    * *Paper link:* [https://www.sciencedirect.com/science/article/abs/pii/S1361841523000233](https://www.sciencedirect.com/science/article/abs/pii/S1361841523000233)
     * *PDF:* [<img src="/images/pdf_icon.png" width="25"/>](https://arxiv.org/pdf/2206.01136.pdf)
-    * *Description:* Transformer, the latest technological advance of deep learning, has gained prevalence in natural language processing or computer vision. Since medical imaging bear some resemblance to computer vision, it is natural to inquire about the status quo of Transformers in medical imaging and ask the question: can the Transformer models transform medical imaging? In this paper, we attempt to make a response to the inquiry. After a brief introduction of the fundamentals of Transformers, especially in comparison with convolutional neural networks (CNNs), and highlighting key defining properties that characterize the Transformers, we offer a comprehensive review of the state-of-the-art Transformer-based approaches for medical imaging and exhibit current research progresses made in the areas of medical image segmentation, recognition, detection, registration, reconstruction, enhancement, etc. 
+    * *Description:* Transformer, one of the latest technological advances of deep learning, has gained prevalence in natural language processing or computer vision. Since medical imaging bear some resemblance to computer vision, it is natural to inquire about the status quo of Transformers in medical imaging and ask the question: can the Transformer models transform medical imaging? In this paper, we attempt to make a response to the inquiry. After a brief introduction of the fundamentals of Transformers, especially in comparison with convolutional neural networks (CNNs), and highlighting key defining properties that characterize the Transformers, we offer a comprehensive review of the state-of-the-art Transformer-based approaches for medical imaging and exhibit current research progresses made in the areas of medical image segmentation, recognition, detection, registration, reconstruction, enhancement, etc.
     * <img src="/images/TransSurvey.jpg" width="800"/>
     * *Citation:*
-         * *APA:* Li, J., <strong>Chen, J.</strong>, Tang, Y., Wang, C., Landman, B. A., & Zhou, S. K. (2022). Transforming medical imaging with Transformers?          A comparative review of key properties, current progresses, and future perspectives. arXiv preprint [arXiv:2206.01136](https://arxiv.org/abs/2206.01136).       
-         * *BibTex:* @article{li2022transforming,
-             title={Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives},
-             author={Li, Jun and Chen, Junyu and Tang, Yucheng and Wang, Ce and Landman, Bennett A and Zhou, S Kevin},
-             journal={arXiv preprint arXiv:2206.01136},
-             year={2022}
+         * *APA:* Li, J., Chen, J., Tang, Y., Wang, C., Landman, B. A., & Zhou, S. K. (2023). Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives. Medical Image Analysis, 102762.      
+         * *BibTex:* @article{li2023transforming,
+            title={Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives},
+            author={Li, Jun and Chen, Junyu and Tang, Yucheng and Wang, Ce and Landman, Bennett A and Zhou, S Kevin},
+            journal={Medical Image Analysis},
+            pages={102762},
+            year={2023},
+            publisher={Elsevier}
             }
 2.  ***Unsupervised Learning of Diffeomorphic Image Registration via TransMorph***
     * *Authors:* **Junyu Chen**, Eric C. Frey, and Yong Du
