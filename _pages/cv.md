@@ -20,7 +20,15 @@ Education
 
 Professional experience
 ------
-* Sep 2017 - Present: **Graduate Research Assistant**
+* Jan 2023 - Present: **Research Associate (Faculty)**
+  * ***Department of Radiology and Radiological Science, Johns Hopkins Medical Institutions***, *Baltimore, MD*
+  * Duties included: 
+    * Nuclear Medicine imaging 
+    * Medical Image Analysis
+    * Deep Learning
+  * Supervisor: Dr. Yong Du
+
+* Sep 2017 - Dec 2022: **Graduate Research Assistant**
   * ***Department of Radiology and Radiological Science, Johns Hopkins Medical Institutions***, *Baltimore, MD*
   * Duties included: 
     * Nuclear Medicine imaging 
