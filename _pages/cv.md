@@ -78,6 +78,7 @@ Jounral peer review activities
 * IEEE Transactions on Radiation and Plasma Medical Sciences
 * IEEE Journal of Biomedical and Health Informatics
 * Medical & Biological Engineering & Computing
+* Medical Image Analysis
 
 Conference peer review activities
 ------
@@ -108,7 +109,7 @@ Teaching experience
 Peer-reviewed publications
 ------
 ***Journal Publications:***
-1.	Li, J.\*, <strong>Chen, J.\* (Co-first author)</strong>, Tang, Y.\*, Wang, C., Landman, B. A., & Zhou, S. K. (2022). Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives. arXiv preprint arXiv:2206.01136. https://arxiv.org/abs/2206.01136. [\*: Equal contributions, submitted to Medical Image Analysis]
+1.	Li, J.\*, <strong>Chen, J.\*</strong>, Tang, Y.\*, Wang, C., Landman, B. A., & Zhou, S. K. (2023). Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives. *Medical Image Analysis*, 102762. [\*: Equal contributions]
 2.	<strong>Chen, J.</strong>, Frey, E. C., He, Y., Segars, W. P., Li, Y., & Du, Y. (2022). Transmorph: Transformer for unsupervised medical image registration. *Medical Image Analysis*, 102615.
 3.  Jang, S. I., Pan, T., Li, Y., Heidari, P., <strong>Chen, J.</strong>, Li, Q., & Gong, K. (2022). Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising. arXiv preprint arXiv:2209.03300. (Submitted to IEEE Transactions on Medical Imaging)
 4.	<strong>Chen, J.</strong>, Li, Y., Luna, L. P., Chung, H. W., Rowe, S. P., Du, Y., Solnes, L. B., & Frey, E. C. (2021). Learning Fuzzy Clustering for SPECT/CT Segmentation via Convolutional Neural Networks. Medical Physics.
