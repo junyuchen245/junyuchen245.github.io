@@ -59,7 +59,7 @@ PUBLICATIONS
 <a href="https://scholar.google.com/citations?user=9jIpgScAAAAJ&hl=en">Junyu Chen on Google Scholar</a>
 
 ***Journal Publications:***
-1. Li, J.\*, <strong>Chen, J. \*(Co-first author)</strong>, Tang, Y.\*, Wang, C., Landman, B. A., & Zhou, S. K. (2022). Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives. *Medical Image Analysis* (To appear). (***\*: Equal contributions***)
+1. Li, J.\*, <strong>Chen, J. \*(Co-first author)</strong>, Tang, Y.\*, Wang, C., Landman, B. A., & Zhou, S. K. (2022). Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives. *Medical Image Analysis*, 102762. (***\*: Equal contributions***)
 2. <strong>Chen, J.</strong>, Frey, E. C., He, Y., Segars, W. P., Li, Y., & Du, Y. (2022). Transmorph: Transformer for unsupervised medical image registration. *Medical Image Analysis*, 102615.
 3. Jang, S. I., Pan, T., Li, Y., Heidari, P., <strong>Chen, J.</strong>, Li, Q., & Gong, K. (2022). Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising. arXiv preprint arXiv:2209.03300. (Submitted to IEEE Transactions on Medical Imaging)
 4. <strong>Chen, J.</strong>, Li, Y., Luna, L. P., Chung, H. W., Rowe, S. P., Du, Y., Solnes, L. B., & Frey, E. C. (2021). Learning fuzzy clustering for SPECT/CT segmentation via convolutional neural networks. *Medical physics*, 48(7), 3860-3877.
