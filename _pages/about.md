@@ -101,6 +101,7 @@ PEER REVIEW ACTIVITIES
 7. <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433213">IEEE Transactions on Radiation and Plasma Medical Sciences</a>
 8. <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">IEEE Journal of Biomedical and Health Informatics</a> (IF: 7.021)
 8. <a href="https://www.springer.com/journal/11517"> Medical & Biological Engineering & Computing</a> (IF: 3.079)
+9. <a href="https://www.sciencedirect.com/journal/medical-image-analysis"> Medical Image Analysis</a> (IF: 13.83)
 
 ***Conferences:***
 1. <a href="https://2022.midl.io/">Medical Imaging with Deep Learning (MIDL) 2022</a>
