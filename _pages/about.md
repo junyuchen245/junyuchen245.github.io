@@ -22,7 +22,7 @@ I received my dual B.Sc. degrees with <a href="http://catalog.ncsu.edu/undergrad
 
 PROJECT PAGES
 ----
-- #### [*TransMorph: Transformer for unsupervised medical image registration*](https://junyuchen.me/TransMorph/)
+- [*TransMorph: Transformer for unsupervised medical image registration*](https://junyuchen.me/TransMorph/)
 
 NEWS
 ----
