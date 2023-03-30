@@ -22,7 +22,8 @@ I received my dual B.Sc. degrees with <a href="http://catalog.ncsu.edu/undergrad
 
 PROJECT PAGES
 ----
-[*TransMorph: Transformer for unsupervised medical image registration*](https://junyuchen.me/TransMorph/)
+[*TransMorph: Transformer for unsupervised medical image registration*](https://junyuchen.me/TransMorph/)\
+[*Learning fuzzy clustering for SPECT/CT segmentation via convolutional neural networks*](https://junyuchen.me/FCM_loss_for_MedImgSeg/)
 
 NEWS
 ----
