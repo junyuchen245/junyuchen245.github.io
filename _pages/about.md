@@ -27,6 +27,8 @@ PROJECT PAGES
 
 NEWS
 ----
+*05/08/2023* - I've won the [2023 JHU Discovery Award](https://hub.jhu.edu/2023/05/08/35-teams-receive-discovery-awards/) in collaboration with Yong Du, PhD, Steven Rowe, MD PhD, and Aaron Carass, DEng. [LINK](https://research.jhu.edu/major-initiatives/discovery-awards/2023-awardees/)\
+*04/18/2023* - My papers as the first author were among the most downloaded publications in [Medical Image Analysis](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/MedIA_top_download.jpg) and [Medical Physics](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/MedPhy_top_download.jpg).\
 *01/12/2023* - One journal paper was accepted by [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis) for publication!\
 *01/01/2023* - I joined JHMI as a research faculty member!\
 *10/21/2022* - Successfully defended my dissertation. Officially a Ph.D.!\
