@@ -109,6 +109,9 @@ Teaching experience
 Peer-reviewed publications
 ------
 ***Journal Publications:***
+1. Li, G. Y., <strong>Chen, J.</strong>, Jang, S. I., Gong, K., & Li, Q. (2023). SwinCross: Cross-modal Swin Transformer for Head-and-Neck Tumor Segmentation in PET/CT Images. arXiv preprint arXiv:2302.03861. (submitted to Medical Physics)
+1. Li, Y., Zhao, L., Amindarolzarbi, A., Mena, E., Leal, J., <strong>Chen, J.</strong>, ..., Bai, H. X. (2023). A Automated Deep Learning-based Framework for Uptake Segmentation and Classification on PSMA PET/CT/ Imaging of Patients with Prostate Cancer. (submitted to Journal of Nuclear Medicine)
+1. Li, Y., Brown, J., Xu, J., <strong>Chen, J.</strong>, Ghaly, M., Dugan, M., Cao, X., Du, Y., Fahey, F. H., Bolch, W., Sgouros, G., Frey E. F. (2023). Girth-based Administered Activity for Pediatric 99mTc-DMSA SPECT. Medical Physics (Accepted).
 1. Liu, Y., <strong>Chen, J.</strong>, Wei, S., Carass, A., & Prince, J.L. (2022). On Finite Difference Jacobian Computation in Deformable Image Registration. arXiv preprint [arXiv:2212.06060](https://arxiv.org/abs/2212.06060). (submitted to IJCV)
 1. Li, J.\*, <strong>Chen, J. \*(Co-first author)</strong>, Tang, Y.\*, Wang, C., Landman, B. A., & Zhou, S. K. (2022). Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives. *Medical Image Analysis*, 102762. (***\*: Equal contributions***)
 2. <strong>Chen, J.</strong>, Frey, E. C., He, Y., Segars, W. P., Li, Y., & Du, Y. (2022). Transmorph: Transformer for unsupervised medical image registration. *Medical Image Analysis*, 102615.
