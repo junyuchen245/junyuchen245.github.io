@@ -27,6 +27,7 @@ PROJECT PAGES
 
 NEWS
 ----
+*06/29/2023* - I received the [2023 IEEE NSS MIC RTSD Trainee Grant](https://nssmic.ieee.org/2023/information/#:~:text=Support%3A%20Maximum%20of%20USD%20400,of%20reimbursement%20for%20allowable%20expenses.).\
 *05/08/2023* - I've won the [2023 JHU Discovery Award](https://hub.jhu.edu/2023/05/08/35-teams-receive-discovery-awards/) in collaboration with Yong Du, PhD, Steven Rowe, MD PhD, and Aaron Carass, DEng. [LINK](https://research.jhu.edu/major-initiatives/discovery-awards/2023-awardees/)\
 *04/18/2023* - My papers as the first author were among the most downloaded publications in [Medical Image Analysis](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/MedIA_top_download.jpg) and [Medical Physics](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/MedPhy_top_download.jpg).\
 *01/12/2023* - One journal paper was accepted by [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis) for publication!\
@@ -114,6 +115,7 @@ PEER REVIEW ACTIVITIES
 8. <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">IEEE Journal of Biomedical and Health Informatics</a> (IF: 7.021)
 8. <a href="https://www.springer.com/journal/11517"> Medical & Biological Engineering & Computing</a> (IF: 3.079)
 9. <a href="https://www.sciencedirect.com/journal/medical-image-analysis"> Medical Image Analysis</a> (IF: 13.83)
+10. <a href="https://www.nature.com/natbiomedeng/"> Nature Biomedical Engineering</a> (IF: 28.1)
 
 ***Conferences:***
 1. <a href="https://2022.midl.io/">Medical Imaging with Deep Learning (MIDL) 2022</a>
