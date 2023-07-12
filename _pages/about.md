@@ -127,8 +127,9 @@ AWARDS & HONORS
 ----
 1. Fully Funded Graduate Assistantship, Radiological Physics Division, Johns Hopkins Medical Institute (2019 – 2022)
 2. SNMMI Student Research Grant Award: Discovering Molecular Imaging (2022)
-3. 2023 Johns Hopkins Discovery Award
-4. 2023 IEEE NSS MIC RTSD Trainee Grant 
+3. 2022 SNMMI Student Research Grant Award
+4. 2023 Johns Hopkins Discovery Award
+5. 2023 IEEE NSS MIC RTSD Trainee Grant 
 
 TEACHING
 ----
