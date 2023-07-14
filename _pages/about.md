@@ -10,7 +10,7 @@ redirect_from:
 
 ABOUT MYSELF
 ====
-I am a research associate faculty at Johns Hopkins Medical Institutes, working in the <a href="https://www.hopkinsmedicine.org/radiology/research/divisions/radiological-physics/our-team.html">Radiological Physics Division</a> of the <a href="https://www.hopkinsmedicine.org/radiology/index.html">Russell H. Morgan Department of Radiology and Radiological Science</a>.
+I am a faculty research associate at Johns Hopkins Medical Institutes, working in the <a href="https://www.hopkinsmedicine.org/radiology/research/divisions/radiological-physics/our-team.html">Radiological Physics Division</a> of the <a href="https://www.hopkinsmedicine.org/radiology/index.html">Russell H. Morgan Department of Radiology and Radiological Science</a>.
 
 I was a graduate student at Johns Hopkins University from 2017 to 2022, advised by <a href="https://scholar.google.com/citations?user=_-K45vUAAAAJ&hl=en">Dr. Eric C. Frey</a>, and co-advised by <a href="https://scholar.google.com/citations?user=rXoK-TcAAAAJ&hl=en">Dr. Yong Du</a>. I successfully defended my dissertation on Oct. 21, 2022. My sincere appreciation to my committee members, Profs. <a href="https://pulselab.jhu.edu/muyinatu-a-lediju-bell-phd/">Muyinatu Bell</a>, <a href="https://engineering.jhu.edu/ece/faculty/vishal-patel/">Vishal Patel</a>, <a href="https://www.hopkinsmedicine.org/profiles/details/yong-du">Yong Du</a>, and <a href="https://scholar.google.com/citations?user=_-K45vUAAAAJ&hl=en">Eric Frey</a>.
 
