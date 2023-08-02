@@ -122,6 +122,7 @@ PEER REVIEW ACTIVITIES
 10. <a href="https://www.springer.com/journal/330"> European Radiology</a> (IF: 5.9)
 11. <a href="https://www.sciencedirect.com/journal/pattern-recognition"> Pattern Recognition</a> (IF: 8)
 12. <a href="https://www.nature.com/natbiomedeng/"> Nature Biomedical Engineering</a> (IF: 28.1)
+13. <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83"> IEEE Transactions on Image Processing</a> (IF: 10.6)
 
 ***Conferences:***
 1. <a href="https://2022.midl.io/">Medical Imaging with Deep Learning (MIDL) 2022</a>
