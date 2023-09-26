@@ -68,15 +68,15 @@ PUBLICATIONS
 
 ***Journal Preprints:***
 1. Li, Y., Zhao, L., Amindarolzarbi, A., Mena, E., Leal, J., <strong>Chen, J.</strong>, ..., Bai, H. X. (2023). An Automated Deep Learning-based Framework for Uptake Segmentation and Classification on PSMA PET/CT/ Imaging of Patients with Prostate Cancer. (submitted to Journal of Nuclear Medicine)
-2. Liu, Y., <strong>Chen, J.</strong>, Wei, S., Carass, A., & Prince, J.L. (2023). On Finite Difference Jacobian Computation in Deformable Image Registration. arXiv preprint [arXiv:2212.06060](https://arxiv.org/abs/2212.06060). (submitted to IJCV)
-3. Jang, S. I., Pan, T., Li, Y., Heidari, P., <strong>Chen, J.</strong>, Li, Q., & Gong, K. (2022). Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising. arXiv preprint arXiv:2209.03300. (Submitted to IEEE Transactions on Medical Imaging)
+2. Liu, Y., <strong>Chen, J.</strong>, Wei, S., Carass, A., & Prince, J.L. (2023). On Finite Difference Jacobian Computation in Deformable Image Registration. arXiv preprint [arXiv:2212.06060](https://arxiv.org/abs/2212.06060). (submitted to International Journal of Computer Vision)
 4. <strong>Chen, J.</strong>, Liu, Y., He, Y., & Du, Y. (2023). Spatially-varying Regularization with Conditional Transformer for Unsupervised Image Registration. arXiv preprint arXiv:2303.06168.
 5. Liu, Y., <strong>Chen, J.</strong>, Zuo, L., Du, Y., Carass, A., & Prince, J. L. (2023). Vector Field Attention for Deformable Image Registration. (Submitted to IEEE Transactions on Medical Imaging)
-6. <strong>Chen, J.\*</strong>, Liu, Y.\*, Wei, S.\*, Bian, Z., Subramanian, S., Carass, A., Prince, J. L., & Du, Y. (2023). A Survey on Deep Learning in Medical Image Registration: New Technologies, Uncertainty, Evaluation Metrics, and Beyond. arXiv preprint [arXiv:2307.15615](https://arxiv.org/abs/2307.15615). (***\*: Equal contributions***)
+6. <strong>Chen, J.\*</strong>, Liu, Y.\*, Wei, S.\*, Bian, Z., Subramanian, S., Carass, A., Prince, J. L., & Du, Y. (2023). A Survey on Deep Learning in Medical Image Registration: New Technologies, Uncertainty, Evaluation Metrics, and Beyond. arXiv preprint [arXiv:2307.15615](https://arxiv.org/abs/2307.15615). (***\*: Equal contributions***; Submitted to Medical Image Analysis)
 
 ***Journal Publications:***
-1. Li, Y., <strong>Chen, J.</strong>, Jang, S. I., Gong, K., & Li, Q. (2023). SwinCross: Cross-modal Swin Transformer for Head-and-Neck Tumor Segmentation in PET/CT Images. Medical Physics.
-1. Li, Y., Brown, J., Xu, J., <strong>Chen, J.</strong>, Ghaly, M., Dugan, M., Cao, X., Du, Y., Fahey, F. H., Bolch, W., Sgouros, G., & Frey E. F. (2023). Girth-based Administered Activity for Pediatric 99mTc-DMSA SPECT. Medical Physics.
+1. Jang, S. I., Pan, T., Li, Y., Heidari, P., <strong>Chen, J.</strong>, Li, Q., & Gong, K. (2023). Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising. *IEEE Transactions on Medical Imaging*. (Accepted: Minor Revision)
+1. Li, Y., <strong>Chen, J.</strong>, Jang, S. I., Gong, K., & Li, Q. (2023). SwinCross: Cross-modal Swin Transformer for Head-and-Neck Tumor Segmentation in PET/CT Images. *Medical Physics*.
+1. Li, Y., Brown, J., Xu, J., <strong>Chen, J.</strong>, Ghaly, M., Dugan, M., Cao, X., Du, Y., Fahey, F. H., Bolch, W., Sgouros, G., & Frey E. F. (2023). Girth-based Administered Activity for Pediatric 99mTc-DMSA SPECT. *Medical Physics*.
 1. Li, J.\*, <strong>Chen, J. \*(Co-first author)</strong>, Tang, Y.\*, Wang, C., Landman, B. A., & Zhou, S. K. (2023). Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives. *Medical Image Analysis*, 102762. (***\*: Equal contributions***)
 2. <strong>Chen, J.</strong>, Frey, E. C., He, Y., Segars, W. P., Li, Y., & Du, Y. (2022). Transmorph: Transformer for unsupervised medical image registration. *Medical Image Analysis*, 102615.
 4. <strong>Chen, J.</strong>, Li, Y., Luna, L. P., Chung, H. W., Rowe, S. P., Du, Y., Solnes, L. B., & Frey, E. C. (2021). Learning fuzzy clustering for SPECT/CT segmentation via convolutional neural networks. *Medical physics*, 48(7), 3860-3877.
@@ -84,7 +84,7 @@ PUBLICATIONS
 6. <strong>Chen, J.</strong>, Li, Y., Du, Y., & Frey, E. C. (2020). Generating Anthropomorphic Phantoms Using Fully Unsupervised Deformable Image Registration with Convolutional Neural Networks. *Medical Physics*, 47: 6366-6380. (***<a href="https://aapm.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2473-4209.EDITORS_CHOICE">Editor's Choice</a>***)
 
 ***Conference Publications:*** 
-1. <strong>Chen, J.</strong>, Liu, Y., He, Y., & Du, Y. (2023). Deformable Cross-Attention Transformer for Medical Image Registration. arXiv preprint arXiv:2303.06179.
+1. <strong>Chen, J.</strong>, Liu, Y., He, Y., & Du, Y. (2023). Deformable Cross-Attention Transformer for Medical Image Registration. In Machine Learning in Medical Imaging (MLMI). (***Oral Presentation***)
 3. <strong>Chen, J.</strong>, Frey, E. C., & Du, Y. (2022). Unsupervised Learning of Diffeomorphic Image Registration via TransMorph. In International Workshop on Biomedical Image Registration (WBIR). (***Long oral presentation***)
 4. Li, Y., Cui, J., <strong>Chen, J.</strong>, Zeng, G., Wollenweber, S., Jansen, F., ... & Li, Q. (2022). A Noise-level-aware Framework for PET Image Denoising. In International Workshop on Machine Learning for Medical Image Reconstruction. Springer, Cham.
 5. <strong>Chen, J.</strong>, Asma, E., & Chan, C. (2021). Targeted Gradient Descent: A Novel Method for Convolutional Neural Networks Fine-tuning and Online-learning. In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). (***Oral presentation, provisionally accepted, top 13% of 1630 papers***)
