@@ -18,7 +18,7 @@ I worked at <a href="https://www.research.us.medical.canon/"> Canon Medical Rese
 
 <!---I passed the Graduate Board Oral (GBO) examination in July, 2021. The exam committee members include: Profs. <a href="https://pulselab.jhu.edu/muyinatu-a-lediju-bell-phd/">Muyinatu Bell</a>, <a href="https://www.hopkinsmedicine.org/profiles/details/george-sgouros">George Sgouros</a>, <a href="https://www.hopkinsmedicine.org/profiles/details/yong-du">Yong Du</a>, <a href="https://www.hopkinsmedicine.org/profiles/details/jingyan-xu">Jingyan Xu</a>, and <a href="https://scholar.google.com/citations?user=_-K45vUAAAAJ&hl=en">Eric Frey</a>.--->
 
-I received my dual B.Sc. degrees with <a href="http://catalog.ncsu.edu/undergraduate/academic-policies-procedures/student-status-honors/academic-honors/">Summa Cum Laude</a> honors in Computer Engineering and Electrical Engineering from <a href="https://www.ece.ncsu.edu/">North Carolina State University</a> in 2017, my M.S.E. and Ph.D. degrees in Electrical & Computer Engineering from <a href="https://engineering.jhu.edu/ece/">Johns Hopkins University</a> in 2019 and 2022, respectively.
+I received my dual B.Sc. degrees with <a href="http://catalog.ncsu.edu/undergraduate/academic-policies-procedures/student-status-honors/academic-honors/">Summa Cum Laude</a> honors in Computer Engineering and Electrical Engineering from <a href="https://www.ece.ncsu.edu/">North Carolina State University</a> in 2017, and my M.S.E. and Ph.D. degrees in Electrical & Computer Engineering from <a href="https://engineering.jhu.edu/ece/">Johns Hopkins University</a> in 2019 and 2022, respectively.
 
 PROJECT PAGES
 ----
