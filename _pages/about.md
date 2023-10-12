@@ -27,6 +27,8 @@ PROJECT PAGES
 
 NEWS
 ----
+*10/12/2023* - I was selected as a gold-level distinguished reviewer for IEEE TMI! [Certificate](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/Chen%2C%20Junyu_IEEE_TMI_Reviewer.pdf)
+*10/11/2023* - I received the "honorable mention" as a reviewer for MICCAI 2023!
 *06/29/2023* - I received the [2023 IEEE NSS MIC RTSD Trainee Grant](https://nssmic.ieee.org/2023/information/#:~:text=Support%3A%20Maximum%20of%20USD%20400,of%20reimbursement%20for%20allowable%20expenses.).\
 *05/08/2023* - I've won the [2023 JHU Discovery Award](https://hub.jhu.edu/2023/05/08/35-teams-receive-discovery-awards/) in collaboration with Yong Du, PhD, Steven Rowe, MD PhD, and Aaron Carass, DEng. [LINK](https://research.jhu.edu/major-initiatives/discovery-awards/2023-awardees/)\
 *04/18/2023* - My papers as the first author were among the most downloaded publications in [Medical Image Analysis](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/MedIA_top_download.jpg) and [Medical Physics](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/MedPhy_top_download.jpg).\
