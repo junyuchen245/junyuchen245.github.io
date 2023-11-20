@@ -27,6 +27,7 @@ PROJECT PAGES
 
 NEWS
 ----
+*11/20/2023* - One co-authored journal paper was accepted by [IEEE TMI](https://arxiv.org/abs/2209.03300) for publication!\
 *10/12/2023* - I was selected as a [gold-level distinguished reviewer](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/Chen%2C%20Junyu_IEEE_TMI_Reviewer.pdf) for IEEE TMI!\
 *10/11/2023* - I received the ["honorable mention"](https://conferences.miccai.org/2023/en/MICCAI-2023-OUTSTANDING-REVIEWERS-AWARDS.html) as a reviewer for MICCAI 2023!\
 *06/29/2023* - I received the [2023 IEEE NSS MIC RTSD Trainee Grant](https://nssmic.ieee.org/2023/information/#:~:text=Support%3A%20Maximum%20of%20USD%20400,of%20reimbursement%20for%20allowable%20expenses.).\
@@ -76,7 +77,7 @@ PUBLICATIONS
 6. <strong>Chen, J.\*</strong>, Liu, Y.\*, Wei, S.\*, Bian, Z., Subramanian, S., Carass, A., Prince, J. L., & Du, Y. (2023). A Survey on Deep Learning in Medical Image Registration: New Technologies, Uncertainty, Evaluation Metrics, and Beyond. arXiv preprint [arXiv:2307.15615](https://arxiv.org/abs/2307.15615). (***\*: Equal contributions***; Submitted to Medical Image Analysis)
 
 ***Journal Publications:***
-1. Jang, S. I., Pan, T., Li, Y., Heidari, P., <strong>Chen, J.</strong>, Li, Q., & Gong, K. (2023). Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising. *IEEE Transactions on Medical Imaging*. (Accepted: Minor Revision)
+1. Jang, S. I., Pan, T., Li, Y., Heidari, P., <strong>Chen, J.</strong>, Li, Q., & Gong, K. (2023). Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising. *IEEE Transactions on Medical Imaging*.
 1. Li, Y., <strong>Chen, J.</strong>, Jang, S. I., Gong, K., & Li, Q. (2023). SwinCross: Cross-modal Swin Transformer for Head-and-Neck Tumor Segmentation in PET/CT Images. *Medical Physics*.
 1. Li, Y., Brown, J., Xu, J., <strong>Chen, J.</strong>, Ghaly, M., Dugan, M., Cao, X., Du, Y., Fahey, F. H., Bolch, W., Sgouros, G., & Frey E. F. (2023). Girth-based Administered Activity for Pediatric 99mTc-DMSA SPECT. *Medical Physics*.
 1. Li, J.\*, <strong>Chen, J. \*(Co-first author)</strong>, Tang, Y.\*, Wang, C., Landman, B. A., & Zhou, S. K. (2023). Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives. *Medical Image Analysis*, 102762. (***\*: Equal contributions***)
