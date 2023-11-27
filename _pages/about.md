@@ -27,7 +27,7 @@ PROJECT PAGES
 
 NEWS
 ----
-*11/20/2023* - One co-authored journal paper was accepted by [IEEE TMI](https://arxiv.org/abs/2209.03300) for publication!\
+*11/20/2023* - One co-authored journal paper was accepted by [IEEE TMI](https://ieeexplore.ieee.org/document/10327759) for publication!\
 *10/12/2023* - I was selected as a [gold-level distinguished reviewer](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/Chen%2C%20Junyu_IEEE_TMI_Reviewer.pdf) for IEEE TMI!\
 *10/11/2023* - I received the ["honorable mention"](https://conferences.miccai.org/2023/en/MICCAI-2023-OUTSTANDING-REVIEWERS-AWARDS.html) as a reviewer for MICCAI 2023!\
 *06/29/2023* - I received the [2023 IEEE NSS MIC RTSD Trainee Grant](https://nssmic.ieee.org/2023/information/#:~:text=Support%3A%20Maximum%20of%20USD%20400,of%20reimbursement%20for%20allowable%20expenses.).\
