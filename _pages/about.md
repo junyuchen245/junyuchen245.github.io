@@ -62,11 +62,11 @@ EDUCATION <img src="/images/JHU_flat.png" width="140"/> <img src="/images/NC.png
 
 MEMBERSHIPS
 ----
-#### Society of Nuclear Medicine and Molecular Imaging (SNMMI), *Scientist-in-Training Member*
-#### Institute of Electrical and Electronics Engineers (IEEE), *Student Member*
+#### Society of Nuclear Medicine and Molecular Imaging (SNMMI), *Member*
+#### Institute of Electrical and Electronics Engineers (IEEE), *Member*
 #### The International Society for Optics and Photonics (SPIE), *Student Member*
 #### Association for Computing Machinery (ACM), *Student Member*
-#### The Medical Image Computing and Computer Assisted Intervention Society (MICCAI), *Student Member*
+#### The Medical Image Computing and Computer Assisted Intervention Society (MICCAI), *Member*
 
 PUBLICATIONS
 ------
