@@ -27,6 +27,7 @@ PROJECT PAGES
 
 NEWS
 ----
+*11/28/2023* - I was selected by Forbes for their 2024 "30 under 30" in Healthcare!! [Forbes30under30](https://www.forbes.com/profile/junyu-chen-1/?sh=a38fe137f7da)\
 *11/20/2023* - One co-authored journal paper was accepted by [IEEE TMI](https://ieeexplore.ieee.org/document/10327759) for publication!\
 *10/12/2023* - I was selected as a [gold-level distinguished reviewer](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/Chen%2C%20Junyu_IEEE_TMI_Reviewer.pdf) for IEEE TMI!\
 *10/11/2023* - I received the ["honorable mention"](https://conferences.miccai.org/2023/en/MICCAI-2023-OUTSTANDING-REVIEWERS-AWARDS.html) as a reviewer for MICCAI 2023!\
