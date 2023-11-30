@@ -20,7 +20,7 @@ My academic journey at Johns Hopkins University spanned from 2017 to 2022, culmi
 
 I hold dual B.Sc. degrees with <a href="http://catalog.ncsu.edu/undergraduate/academic-policies-procedures/student-status-honors/academic-honors/">Summa Cum Laude</a> honors in Computer Engineering and Electrical Engineering from <a href="https://www.ece.ncsu.edu/">North Carolina State University</a> (2017), along with M.S.E. and Ph.D. degrees in Electrical & Computer Engineering from <a href="https://engineering.jhu.edu/ece/">Johns Hopkins University</a> (2019 and 2022, respectively).
 
-In a significant career milestone, I was honored to be selected for the [2024 Forbes 30 Under 30 in Healthcare](https://www.forbes.com/profile/junyu-chen-1/) (see the full list [here](https://www.forbes.com/30-under-30/2024/healthcare)). This recognition underscores my dedication and the invaluable collaborations at the <a href="https://www.hopkinsmedicine.org/radiology/research/divisions/radiological-physics#team">Radiological Physics Division</a> and Johns Hopkins University. I extend profound gratitude to Drs. <a href="https://scholar.google.com/citations?user=_-K45vUAAAAJ&hl=en">Eric Frey</a>, <a href="https://www.hopkinsmedicine.org/profiles/details/yong-du">Yong Du</a>, and <a href="https://www.hopkinsmedicine.org/profiles/details/george-sgouros">George Sgouros</a> for their unwavering support and guidance in my professional growth.
+In a significant career milestone, I was honored to be selected for the [2024 Forbes 30 Under 30 in Healthcare](https://www.forbes.com/profile/junyu-chen-1/?list=30under30-healthcare/) (see the full list [here](https://www.forbes.com/30-under-30/2024/healthcare)). This recognition underscores my dedication and the invaluable collaborations at the <a href="https://www.hopkinsmedicine.org/radiology/research/divisions/radiological-physics#team">Radiological Physics Division</a> and Johns Hopkins University. I extend profound gratitude to Drs. <a href="https://scholar.google.com/citations?user=_-K45vUAAAAJ&hl=en">Eric Frey</a>, <a href="https://www.hopkinsmedicine.org/profiles/details/yong-du">Yong Du</a>, and <a href="https://www.hopkinsmedicine.org/profiles/details/george-sgouros">George Sgouros</a> for their unwavering support and guidance in my professional growth.
 
 PROJECT PAGES
 ----
@@ -29,7 +29,7 @@ PROJECT PAGES
 
 NEWS
 ----
-*11/28/2023* - I was selected by Forbes for their 2024 "30 under 30" in Healthcare!! [Forbes30under30](https://www.forbes.com/profile/junyu-chen-1/?sh=a38fe137f7da)\
+*11/28/2023* - I was selected by Forbes for their 2024 "30 under 30" in Healthcare!! [Forbes30under30](https://www.forbes.com/30-under-30/2024/healthcare)\
 *11/20/2023* - One co-authored journal paper was accepted by [IEEE TMI](https://ieeexplore.ieee.org/document/10327759) for publication!\
 *10/12/2023* - I was selected as a [gold-level distinguished reviewer](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/Chen%2C%20Junyu_IEEE_TMI_Reviewer.pdf) for IEEE TMI!\
 *10/11/2023* - I received the ["honorable mention"](https://conferences.miccai.org/2023/en/MICCAI-2023-OUTSTANDING-REVIEWERS-AWARDS.html) as a reviewer for MICCAI 2023!\
@@ -140,7 +140,7 @@ AWARDS & HONORS
 2. SNMMI Student Research Grant Award: Discovering Molecular Imaging (2022)
 4. 2023 Johns Hopkins Discovery Award
 5. 2023 IEEE NSS MIC RTSD Trainee Grant
-6. 2024 Forbes 30 Under 30 in Healthcare [Link](https://www.forbes.com/profile/junyu-chen-1/?sh=a38fe137f7da)
+6. 2024 Forbes 30 Under 30 in Healthcare [Link](https://www.forbes.com/30-under-30/2024/healthcare)
 
 TEACHING
 ----
