@@ -7,19 +7,19 @@ author_profile: true
 1. ### *A Novel Decoder for Learning-based Diffeomorphic Image Registration*
     * *Invited Presentation* @ **[MICCAI Learn2Reg 2022 Challenge](https://learn2reg.grand-challenge.org/)**
     * **Junyu Chen**
-    *  Vedio: [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/lH-esWNVTHQ)
+    *  Video: [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/lH-esWNVTHQ)
 
 3. ### *Unsupervised Learning of Diffeomorphic Image Registration via TransMorph*
     * *Oral Presentation* @ **[International Workshop on Biomedical Image Registration 2022](https://link.springer.com/book/10.1007/978-3-031-11203-4)**
     *  **Junyu Chen**, Eric C. Frey, Yong Du
-    *  Vedio: [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/iUO5gN_CTX8) Slides/Poster: [<img src="/images/pdf_icon.png" width="30"/>](https://drive.google.com/file/d/1QYlpzc-zxx8w3V_TLj_9NImqMJAYZNjq/view?usp=sharing)
+    *  Video: [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/iUO5gN_CTX8) Slides/Poster: [<img src="/images/pdf_icon.png" width="30"/>](https://drive.google.com/file/d/1QYlpzc-zxx8w3V_TLj_9NImqMJAYZNjq/view?usp=sharing)
     *  Paper: [https://link.springer.com/chapter/10.1007/978-3-031-11203-4_11](https://link.springer.com/chapter/10.1007/978-3-031-11203-4_11)
 
 1. ### *Class-incremental Learning for Multi-organ Segmentation*
     * *Oral Presentation* @ **[SNMMI Annual Meeting 2022](https://www.snmmi.org/MeetingsEvents/index.aspx?ItemNumber=798)**
     * *06/14/2022*
     *  **Junyu Chen**
-    *  Vedio: [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/Mnzz0ZVDwIw)
+    *  Video: [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/Mnzz0ZVDwIw)
 
 1. ### *Deep Learning for Medical Image Analysis*
     * *Invited Talk* @ **[CAMCA at Massachusetts General Hospital/Harvard Medical School](https://projects.iq.harvard.edu/camca/)**
@@ -31,7 +31,7 @@ author_profile: true
     * *Invited Talk* @ **[RPD at Johns Hopkins Medical Institute](https://www.hopkinsmedicine.org/radiology/research/divisions/radiological-physics/)**
     * *06/02/2022*
     *  **Junyu Chen**
-    *  Vedio: [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/hLvNNDwltdE)
+    *  Video: [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/hLvNNDwltdE)
 
 3. ### *Deep Learning Methods for Medical Image Analysis*
     * *Invited Talk* @ **[PlenaryAI](https://www.plenaryai.com/)**
