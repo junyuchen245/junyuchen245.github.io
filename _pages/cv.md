@@ -161,3 +161,11 @@ Memberships
 * The International Society for Optics and Photonics (SPIE), *Student Member*
 * Association for Computing Machinery (ACM), *Student Member*
 * The Medical Image Computing and Computer Assisted Intervention Society (MICCAI), *Member*
+
+Awards & Honors
+----
+1. Fully Funded Graduate Assistantship, Radiological Physics Division, Johns Hopkins Medical Institute (2019 – 2022)
+2. SNMMI Student Research Grant Award: Discovering Molecular Imaging (2022)
+4. 2023 Johns Hopkins Discovery Award
+5. 2023 IEEE NSS MIC RTSD Trainee Grant
+6. 2024 Forbes 30 Under 30 in Healthcare [Link](https://www.forbes.com/30-under-30/2024/healthcare)
