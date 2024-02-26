@@ -58,24 +58,24 @@ RESEARCH INTERESTS <img src="/images/radiology_icon.png" width="48"/> <img src="
 
 EDUCATION <img src="/images/JHU_flat.png" width="140"/> <img src="/images/NC.png" width="180"/>
 ----
-#### Ph.D. in Electrical & Computer Engineering, <a href="https://engineering.jhu.edu/ece/">Johns Hopkins University</a> (Baltimore, MD) (2022)
-#### M.S.E. in Electrical & Computer Engineering, <a href="https://engineering.jhu.edu/ece/">Johns Hopkins University</a> (Baltimore, MD) (2019)   
-#### B.Sc. in Computer Engineering, *Summa Cum Laude*, <a href="https://www.ece.ncsu.edu/">North Carolina State University</a> (Raleigh, NC) (2017)
-#### B.Sc. in Electrical Engineering, *Summa Cum Laude*, <a href="https://www.ece.ncsu.edu/">North Carolina State University</a> (Raleigh, NC) (2017)   
+* Ph.D. in Electrical & Computer Engineering, <a href="https://engineering.jhu.edu/ece/">Johns Hopkins University</a> (Baltimore, MD) (2022)
+* M.S.E. in Electrical & Computer Engineering, <a href="https://engineering.jhu.edu/ece/">Johns Hopkins University</a> (Baltimore, MD) (2019)   
+* B.Sc. in Computer Engineering, *Summa Cum Laude*, <a href="https://www.ece.ncsu.edu/">North Carolina State University</a> (Raleigh, NC) (2017)
+* B.Sc. in Electrical Engineering, *Summa Cum Laude*, <a href="https://www.ece.ncsu.edu/">North Carolina State University</a> (Raleigh, NC) (2017)   
 
 AWARDS & HONORS
 ----
-1. Fully Funded Graduate Assistantship, Radiological Physics Division, Johns Hopkins Medical Institute (2019 – 2022)
-2. SNMMI Student Research Grant Award: Discovering Molecular Imaging (2022)
-4. 2023 Johns Hopkins Discovery Award
-5. 2023 IEEE NSS MIC RTSD Trainee Grant
-6. 2024 Forbes 30 Under 30 in Healthcare [Link](https://www.forbes.com/30-under-30/2024/healthcare)
+* Fully Funded Graduate Assistantship, Radiological Physics Division, Johns Hopkins Medical Institute (2019 – 2022)
+* SNMMI Student Research Grant Award: Discovering Molecular Imaging (2022)
+* 2023 Johns Hopkins Discovery Award
+* 2023 IEEE NSS MIC RTSD Trainee Grant
+* 2024 Forbes 30 Under 30 in Healthcare [Link](https://www.forbes.com/30-under-30/2024/healthcare)
 
 TEACHING
 ----
 I gave several guest lectures when I was a TA for Medical Imaging Systems course, some lecture recordings can be found here:
 
-1. Physics of Nuclear Medicine [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/Sk-IjeNy1aU)
+* Physics of Nuclear Medicine [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/Sk-IjeNy1aU)
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
