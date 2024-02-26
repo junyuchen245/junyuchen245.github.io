@@ -1,3 +1,11 @@
+---
+title: 'My Notes'
+date: 2024-02-26
+permalink: /posts/2024/02/Notes/
+tags:
+  - Notes
+---
+
 NOTES
 ----
 1. An overview of SPECT imaging [<img src="/images/pdf_icon.png" width="30"/>](http://junyuchen245.github.io/files/SPECT_Systems_v6.pdf)
