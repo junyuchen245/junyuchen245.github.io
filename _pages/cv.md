@@ -122,7 +122,7 @@ Peer-reviewed publications
 6. <strong>Chen, J.\*</strong>, Liu, Y.\*, Wei, S.\*, Bian, Z., Subramanian, S., Carass, A., Prince, J. L., & Du, Y. (2023). A Survey on Deep Learning in Medical Image Registration: New Technologies, Uncertainty, Evaluation Metrics, and Beyond. arXiv preprint [arXiv:2307.15615](https://arxiv.org/abs/2307.15615). (***\*: Equal contributions***; Submitted to Medical Image Analysis)
 
 ***Journal Publications:***
-2. Liu, Y., <strong>Chen, J.</strong>, Wei, S., Carass, A., & Prince, J.L. (2023). On Finite Difference Jacobian Computation in Deformable Image Registration. *International Journal of Computer Vision*.
+1. Liu, Y., <strong>Chen, J.</strong>, Wei, S., Carass, A., & Prince, J.L. (2024). On Finite Difference Jacobian Computation in Deformable Image Registration. *International Journal of Computer Vision*.
 1. Jang, S. I., Pan, T., Li, Y., Heidari, P., <strong>Chen, J.</strong>, Li, Q., & Gong, K. (2023). Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising. *IEEE Transactions on Medical Imaging*.
 1. Li, Y., <strong>Chen, J.</strong>, Jang, S. I., Gong, K., & Li, Q. (2023). SwinCross: Cross-modal Swin Transformer for Head-and-Neck Tumor Segmentation in PET/CT Images. *Medical Physics*.
 1. Li, Y., Brown, J., Xu, J., <strong>Chen, J.</strong>, Ghaly, M., Dugan, M., Cao, X., Du, Y., Fahey, F. H., Bolch, W., Sgouros, G., & Frey E. F. (2023). Girth-based Administered Activity for Pediatric 99mTc-DMSA SPECT. *Medical Physics*.
