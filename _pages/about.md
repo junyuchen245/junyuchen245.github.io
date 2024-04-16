@@ -72,11 +72,5 @@ AWARDS & HONORS
 * 2023 IEEE NSS MIC RTSD Trainee Grant
 * 2024 Forbes 30 Under 30 in Healthcare [Link](https://www.forbes.com/30-under-30/2024/healthcare)
 
-TEACHING
-----
-I gave several guest lectures when I was a TA for Medical Imaging Systems course, some lecture recordings can be found here:
-
-* Physics of Nuclear Medicine [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/Sk-IjeNy1aU)
-
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
