@@ -116,12 +116,12 @@ Peer-reviewed publications
 <a href="https://scholar.google.com/citations?user=9jIpgScAAAAJ&hl=en">Junyu Chen on Google Scholar</a>
 
 ***Journal Preprints:***
-1. Li, Y., Zhao, L., Amindarolzarbi, A., Mena, E., Leal, J., <strong>Chen, J.</strong>, ..., Bai, H. X. (2023). An Automated Deep Learning-based Framework for Uptake Segmentation and Classification on PSMA PET/CT/ Imaging of Patients with Prostate Cancer. (submitted to Journal of Nuclear Medicine)
 4. <strong>Chen, J.</strong>, Liu, Y., He, Y., & Du, Y. (2023). Spatially-varying Regularization with Conditional Transformer for Unsupervised Image Registration. arXiv preprint arXiv:2303.06168.
 5. Liu, Y., <strong>Chen, J.</strong>, Zuo, L., Du, Y., Carass, A., & Prince, J. L. (2023). Vector Field Attention for Deformable Image Registration. (Submitted to IEEE Transactions on Medical Imaging)
 6. <strong>Chen, J.\*</strong>, Liu, Y.\*, Wei, S.\*, Bian, Z., Subramanian, S., Carass, A., Prince, J. L., & Du, Y. (2023). A Survey on Deep Learning in Medical Image Registration: New Technologies, Uncertainty, Evaluation Metrics, and Beyond. arXiv preprint [arXiv:2307.15615](https://arxiv.org/abs/2307.15615). (***\*: Equal contributions***; Submitted to Medical Image Analysis)
 
 ***Journal Publications:***
+1. Li, Y., Zhao, L., Amindarolzarbi, A., Mena, E., Leal, J., <strong>Chen, J.</strong>, ..., Bai, H. X. (2024). An Automated Deep Learning-based Framework for Uptake Segmentation and Classification on PSMA PET/CT/ Imaging of Patients with Prostate Cancer. *Journal of Imaging Informatics in Medicine*.
 1. Liu, Y., <strong>Chen, J.</strong>, Wei, S., Carass, A., & Prince, J.L. (2024). On Finite Difference Jacobian Computation in Deformable Image Registration. *International Journal of Computer Vision*.
 1. Jang, S. I., Pan, T., Li, Y., Heidari, P., <strong>Chen, J.</strong>, Li, Q., & Gong, K. (2023). Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising. *IEEE Transactions on Medical Imaging*.
 1. Li, Y., <strong>Chen, J.</strong>, Jang, S. I., Gong, K., & Li, Q. (2023). SwinCross: Cross-modal Swin Transformer for Head-and-Neck Tumor Segmentation in PET/CT Images. *Medical Physics*.
