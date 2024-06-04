@@ -20,7 +20,7 @@ Education
 
 Professional experience
 ------
-* Jan 2023 - Mar 2024: **Instructor**
+* Apr 2024 - Present: **Instructor**
   * ***Department of Radiology and Radiological Science, Johns Hopkins Medical Institutions***, *Baltimore, MD*
   * Duties included: 
     * Nuclear Medicine imaging 
