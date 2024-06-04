@@ -20,7 +20,14 @@ Education
 
 Professional experience
 ------
-* Jan 2023 - Present: **Research Associate (Faculty)**
+* Jan 2023 - Mar 2024: **Instructor**
+  * ***Department of Radiology and Radiological Science, Johns Hopkins Medical Institutions***, *Baltimore, MD*
+  * Duties included: 
+    * Nuclear Medicine imaging 
+    * Medical Image Analysis
+    * Deep Learning
+
+* Jan 2023 - Mar 2024: **Research Associate (Faculty)**
   * ***Department of Radiology and Radiological Science, Johns Hopkins Medical Institutions***, *Baltimore, MD*
   * Duties included: 
     * Nuclear Medicine imaging 
