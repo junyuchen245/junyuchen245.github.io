@@ -33,7 +33,7 @@ PROJECT PAGES
 
 NEWS
 ----
-*08/19/2024* - Check out my interview with [Lifestyles Magazine](https://lifestylesmagazine.com/qa/qa-junyu-chen/), where I discuss my research interests and their potential positive impact on healthcare.\
+*08/19/2024* - Check out my interview with [Lifestyles Magazine](https://lifestylesmagazine.com/qa/qa-junyu-chen/), where I discuss my research interests and their positive impact on healthcare.\
 *02/29/2024* - One co-authored journal paper was accepted by [IJCV](https://link.springer.com/journal/11263) for publication!\
 *02/10/2024* - One paper was accepted to [ISBI 2024](https://biomedicalimaging.org/2024/)!\
 *11/28/2023* - I was selected by Forbes for their 2024 "30 under 30" in Healthcare!! [Forbes30under30](https://www.forbes.com/30-under-30/2024/healthcare)\
