@@ -33,7 +33,7 @@ PROJECT PAGES
 
 NEWS
 ----
-*08/19/2024* - Check out my interview with [Lifestyles Magazine](https://lifestylesmagazine.com/qa/qa-junyu-chen/), where I discuss my research interests and their potential positive impact on healthcare.
+*08/19/2024* - Check out my interview with [Lifestyles Magazine](https://lifestylesmagazine.com/qa/qa-junyu-chen/), where I discuss my research interests and their potential positive impact on healthcare.\
 *02/29/2024* - One co-authored journal paper was accepted by [IJCV](https://link.springer.com/journal/11263) for publication!\
 *02/10/2024* - One paper was accepted to [ISBI 2024](https://biomedicalimaging.org/2024/)!\
 *11/28/2023* - I was selected by Forbes for their 2024 "30 under 30" in Healthcare!! [Forbes30under30](https://www.forbes.com/30-under-30/2024/healthcare)\
@@ -53,14 +53,14 @@ NEWS
 *09/29/2021* - I was featured in the <a href="https://www.rsipvision.com/MICCAI2021-Wednesday/">MICCAI daily 2021</a>!\
 *07/28/2021* - I passed GBO exam! I'm now officially a Ph.D. candidate.
 
-RESEARCH INTERESTS <img src="/images/radiology_icon.png" width="48"/> <img src="/images/ai_icon.png" width="48"/>
+RESEARCH INTERESTS [<img src="/images/radiology_icon.png" width="48"/>](https://en.wikipedia.org/wiki/Radiology) [<img src="/images/ai_icon.png" width="48"/>](https://en.wikipedia.org/wiki/Artificial_intelligence)
 ----
 * Nuclear Medicine Imaging (SPECT, PET)
 * Medical Image Analysis (Segmentation, Registration, Desnoising)
 * Deep Learning & Machine Learning
 * Digital Phantoms
 
-EDUCATION <img src="/images/JHU_flat.png" width="140"/> <img src="/images/NC.png" width="180"/>
+EDUCATION [<img src="/images/JHU_flat.png" width="140"/>](https://engineering.jhu.edu/ece/) [<img src="/images/NC.png" width="180"/>](https://www.ece.ncsu.edu/)
 ----
 * Ph.D. in Electrical & Computer Engineering, <a href="https://engineering.jhu.edu/ece/">Johns Hopkins University</a> (Baltimore, MD) (2022)
 * M.S.E. in Electrical & Computer Engineering, <a href="https://engineering.jhu.edu/ece/">Johns Hopkins University</a> (Baltimore, MD) (2019)   
