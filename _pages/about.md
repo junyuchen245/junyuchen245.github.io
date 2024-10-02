@@ -35,6 +35,7 @@ PROJECT PAGES
 
 NEWS
 ----
+*10/02/2024* - One journal paper was accepted by [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis) for publication!\
 *08/19/2024* - Check out my interview with [Lifestyles Magazine](https://lifestylesmagazine.com/qa/qa-junyu-chen/), where I discuss my research interests and their positive impact on healthcare.\
 *02/29/2024* - One co-authored journal paper was accepted by [IJCV](https://link.springer.com/journal/11263) for publication!\
 *02/10/2024* - One paper was accepted to [ISBI 2024](https://biomedicalimaging.org/2024/)!\
