@@ -33,7 +33,7 @@ PROJECT PAGES
 [*TransMorph: Transformer for unsupervised medical image registration*](https://junyuchen.me/TransMorph/)\
 [*Learning fuzzy clustering for SPECT/CT segmentation via convolutional neural networks*](https://junyuchen.me/FCM_loss_for_MedImgSeg/)
 
-NEWS
+UPDATES
 ----
 *10/02/2024* - One journal paper was accepted by [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis) for publication!\
 *08/19/2024* - Check out my interview with [Lifestyles Magazine](https://lifestylesmagazine.com/qa/qa-junyu-chen/), where I discuss my research interests and their positive impact on healthcare.\
