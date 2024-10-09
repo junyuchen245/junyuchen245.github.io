@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-ABOUT MYSELF 
-====
 I currently serve as an Instructor at Johns Hopkins Medical Institutes in the <a href="https://www.hopkinsmedicine.org/radiology/research/divisions/radiological-physics#team">Radiological Physics Division</a> of the <a href="https://www.hopkinsmedicine.org/radiology/index.html">Russell H. Morgan Department of Radiology and Radiological Science</a>.
 
 My academic journey at Johns Hopkins University spanned from 2017 to 2022, culminating in a Ph.D. under the mentorship of <a href="https://scholar.google.com/citations?user=_-K45vUAAAAJ&hl=en">Dr. Eric C. Frey</a>. I hold dual B.Sc. degrees with <a href="http://catalog.ncsu.edu/undergraduate/academic-policies-procedures/student-status-honors/academic-honors/">Summa Cum Laude</a> honors in Computer Engineering and Electrical Engineering from <a href="https://www.ece.ncsu.edu/">North Carolina State University</a> (2017), along with M.S.E. and Ph.D. degrees in Electrical & Computer Engineering from <a href="https://engineering.jhu.edu/ece/">Johns Hopkins University</a> (2019 and 2022, respectively).
