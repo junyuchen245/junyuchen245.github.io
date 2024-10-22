@@ -33,6 +33,7 @@ PROJECT PAGES
 
 UPDATES
 ----
+- ***10/22/2024:*** I was awarded $5k faculty research credit from [Google Cloud](https://cloud.google.com/edu/researchers?hl=en)!
 - ***10/14/2024:*** I was selected as a [gold-level distinguished reviewer](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/TMI_Reviewer24_JChen.pdf) in 2024 for IEEE TMI!
 - ***10/02/2024:*** One journal paper was accepted by [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis) for publication!
 - ***08/19/2024:*** Check out my interview with [Lifestyles Magazine](https://lifestylesmagazine.com/qa/qa-junyu-chen/), where I discuss my research interests and their positive impact on healthcare.
