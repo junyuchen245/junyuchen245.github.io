@@ -33,25 +33,25 @@ PROJECT PAGES
 
 UPDATES
 ----
-- ***10/22/2024:*** I was awarded $5k faculty research credit from [Google Cloud](https://cloud.google.com/edu/researchers?hl=en)!
-- ***10/14/2024:*** I was selected as a [gold-level distinguished reviewer](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/TMI_Reviewer24_JChen.pdf) in 2024 for IEEE TMI!
-- ***10/02/2024:*** One journal paper was accepted by [Medical Image Analysis](https://www.sciencedirect.com/science/article/pii/S1361841524003104) for publication!
-- ***08/19/2024:*** Check out my interview with [Lifestyles Magazine](https://lifestylesmagazine.com/qa/qa-junyu-chen/), where I discuss my research interests and their positive impact on healthcare.
-- ***02/29/2024:*** One co-authored journal paper was accepted by [IJCV](https://link.springer.com/journal/11263) for publication!
-- ***02/10/2024:*** One paper was accepted to [ISBI 2024](https://biomedicalimaging.org/2024/)!
-- ***11/28/2023:*** I was selected by Forbes for their 2024 "30 under 30" in Healthcare!! [Forbes30under30](https://www.forbes.com/30-under-30/2024/healthcare)
-- ***11/20/2023:*** One co-authored journal paper was accepted by [IEEE TMI](https://ieeexplore.ieee.org/document/10327759) for publication!
-- ***10/12/2023:*** I was selected as a [gold-level distinguished reviewer](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/Chen%2C%20Junyu_IEEE_TMI_Reviewer.pdf) in 2023 for IEEE TMI!
+- ***10/22/2024:*** I was awarded $5k faculty research credit from [***Google Cloud***](https://cloud.google.com/edu/researchers?hl=en)!
+- ***10/14/2024:*** I was selected as a [gold-level distinguished reviewer](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/TMI_Reviewer24_JChen.pdf) in 2024 for ***IEEE TMI***!
+- ***10/02/2024:*** One journal paper was accepted by [***Medical Image Analysis***](https://www.sciencedirect.com/science/article/pii/S1361841524003104) for publication!
+- ***08/19/2024:*** Check out my interview with [***Lifestyles Magazine***](https://lifestylesmagazine.com/qa/qa-junyu-chen/), where I discuss my research interests and their positive impact on healthcare.
+- ***02/29/2024:*** One co-authored journal paper was accepted by [***International Journal of Computer Vision***](https://link.springer.com/journal/11263) for publication!
+- ***02/10/2024:*** One paper was accepted to [***ISBI 2024***](https://biomedicalimaging.org/2024/)!
+- ***11/28/2023:*** I was selected by ***Forbes*** for their 2024 "30 under 30" in Healthcare!! [Forbes30under30](https://www.forbes.com/30-under-30/2024/healthcare)
+- ***11/20/2023:*** One co-authored journal paper was accepted by [***IEEE TMI***](https://ieeexplore.ieee.org/document/10327759) for publication!
+- ***10/12/2023:*** I was selected as a [gold-level distinguished reviewer](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/Chen%2C%20Junyu_IEEE_TMI_Reviewer.pdf) in 2023 for ***IEEE TMI***!
 - ***10/11/2023:*** I received the ["honorable mention"](https://conferences.miccai.org/2023/en/MICCAI-2023-OUTSTANDING-REVIEWERS-AWARDS.html) as a reviewer for MICCAI 2023!
-- ***06/29/2023:*** I received the [2023 IEEE NSS MIC RTSD Trainee Grant](https://nssmic.ieee.org/2023/information/#:~:text=Support%3A%20Maximum%20of%20USD%20400,of%20reimbursement%20for%20allowable%20expenses.).
-- ***05/08/2023:*** I've won the [2023 JHU Discovery Award](https://hub.jhu.edu/2023/05/08/35-teams-receive-discovery-awards/) in collaboration with Yong Du, PhD, Steven Rowe, MD PhD, and Aaron Carass, DEng. [LINK](https://research.jhu.edu/major-initiatives/discovery-awards/2023-awardees/)
-- ***04/18/2023:*** My papers as the first author were among the most downloaded publications in [Medical Image Analysis](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/Most%20Downloaded%20Articles%20-%20Medical%20Image%20Analysis.pdf) and [Medical Physics](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/MedPhy_top_download.jpg).
-- ***01/12/2023:*** One journal paper was accepted by [Medical Image Analysis](https://www.sciencedirect.com/science/article/pii/S1361841523000233) for publication!
+- ***06/29/2023:*** I received the [***2023 IEEE NSS MIC RTSD Trainee Grant***](https://nssmic.ieee.org/2023/information/#:~:text=Support%3A%20Maximum%20of%20USD%20400,of%20reimbursement%20for%20allowable%20expenses.).
+- ***05/08/2023:*** I've won the [***2023 JHU Discovery Award***](https://hub.jhu.edu/2023/05/08/35-teams-receive-discovery-awards/) in collaboration with Yong Du, PhD, Steven Rowe, MD PhD, and Aaron Carass, DEng. [LINK](https://research.jhu.edu/major-initiatives/discovery-awards/2023-awardees/)
+- ***04/18/2023:*** My papers as the first author were among the most downloaded publications in [***Medical Image Analysis***](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/Most%20Downloaded%20Articles%20-%20Medical%20Image%20Analysis.pdf) and [***Medical Physics***](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/MedPhy_top_download.jpg).
+- ***01/12/2023:*** One journal paper was accepted by [***Medical Image Analysis***](https://www.sciencedirect.com/science/article/pii/S1361841523000233) for publication!
 - ***01/01/2023:*** I joined JHMI as a research faculty member!
 - ***10/21/2022:*** Successfully defended my dissertation. Officially a Ph.D.!
-- ***09/02/2022:*** One journal paper was accepted by [Medical Image Analysis](https://www.sciencedirect.com/science/article/pii/S1361841522002432) for publication!
-- ***05/17/2022:*** One paper was accepted to [WBIR 2022](https://www.wbir.info/themenmenue/information/info/index.html) as long oral!
-- ***04/22/2022:*** I won 2022 SNMMI Student Research Grant award!
+- ***09/02/2022:*** One journal paper was accepted by [***Medical Image Analysis***](https://www.sciencedirect.com/science/article/pii/S1361841522002432) for publication!
+- ***05/17/2022:*** One paper was accepted to [***WBIR 2022***](https://www.wbir.info/themenmenue/information/info/index.html) as long oral!
+- ***04/22/2022:*** I won ***2022 SNMMI Student Research Grant award***!
 - ***02/10/2022:*** My Ph.D. thesis proposal was accepted!
 - ***09/29/2021:*** I was featured in the <a href="https://www.rsipvision.com/MICCAI2021-Wednesday/">MICCAI daily 2021</a>!
 - ***07/28/2021:*** I passed GBO exam! I'm now officially a Ph.D. candidate.
