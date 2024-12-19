@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 1. ***A survey on deep learning in medical image registration: New technologies, uncertainty, evaluation metrics, and beyond***
-   * *Authors:* **Junyu Chen***, Yihao Liu*, Shuwen Wei*, Zhangxing Bian, Shalini Subramanian, Aaron Carass, Jerry L. Prince, Yong Du
+   * *Authors:* **Junyu Chen**\*, Yihao Liu\*, Shuwen Wei\*, Zhangxing Bian, Shalini Subramanian, Aaron Carass, Jerry L. Prince, Yong Du
     * *Published in:* Medical Image Analysis
     * *Paper link:* [https://www.sciencedirect.com/science/article/pii/S1361841524003104](https://www.sciencedirect.com/science/article/pii/S1361841524003104)
     * *PDF:* [<img src="/images/pdf_icon.png" width="25"/>](https://arxiv.org/pdf/2307.15615v4)
