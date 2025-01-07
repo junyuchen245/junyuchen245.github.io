@@ -33,7 +33,7 @@ PROJECT PAGES
 
 UPDATES
 ----
-- ***01/07/2025:*** [TransMorph](https://www.sciencedirect.com/science/article/pii/S1361841522002432) is among the "Top Cited" paper in [***Medical Image Analysis***](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/MedIA_TopCited_2024.png)!
+- ***01/07/2025:*** [TransMorph](https://www.sciencedirect.com/science/article/pii/S1361841522002432) is among the "Top Cited" papers in [***Medical Image Analysis***](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/MedIA_TopCited_2024.png)!
 - ***10/22/2024:*** I was awarded $5k faculty research credit from [***Google Cloud***](https://cloud.google.com/edu/researchers?hl=en)!
 - ***10/14/2024:*** I was selected as a [gold-level distinguished reviewer](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/TMI_Reviewer24_JChen.pdf) in 2024 for ***IEEE TMI***!
 - ***10/02/2024:*** One journal paper was accepted by [***Medical Image Analysis***](https://www.sciencedirect.com/science/article/pii/S1361841524003104) for publication!
