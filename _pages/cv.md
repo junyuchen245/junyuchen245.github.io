@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**[My CV](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/Junyu_CV_10052023.pdf)** (Updated 10/05/2023)
+**[My CV](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/Junyu_CV_01212025.pdf)** (Updated 01/21/2025)
 
 Education
 ------
