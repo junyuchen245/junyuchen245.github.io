@@ -4,6 +4,26 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
+1. ### *Pretraining Deformable Image Registration Networks with Random Images*
+    * *Poster Presentation* @ **[Medical Imaging with Deep Learning 2025](https://openreview.net/forum?id=NJANlZzxfi#discussion)**
+    * **Junyu Chen**, Shuwen Wei, Yihao Liu, Aaron Carass, Yong Du
+    *  Paper: [https://openreview.net/pdf?id=NJANlZzxfi](https://openreview.net/pdf?id=NJANlZzxfi) Poster: [<img src="/images/pdf_icon.png" width="30"/>](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/MIDL-2025-JChen.pdf)
+
+1. ### *Correlation Ratio for Unsupervised Learning of Multi-modal Deformable Registration*
+    * *Poster Presentation* @ **[SPIE Medical Imaging: Image Processing 2025](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13406/1340632/Correlation-ratio-for-unsupervised-learning-of-multi-modal-deformable-registration/10.1117/12.3047699.short)**
+    * Xiaojian Chen, Yihao Liu, Shuwen Wei, Aaron Carass, Yong Du, **Junyu Chen**
+    *  Paper: [https://arxiv.org/pdf/2504.12265](https://arxiv.org/pdf/2504.12265) Poster: [<img src="/images/pdf_icon.png" width="30"/>](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/SPIE%20Poster_CR_JC.pdf)
+      
+1. ### *Unsupervised Learning of Multi-modal Affine Registration for PET/CT*
+    * *Poster Presentation* @ **[IEEE NSS/MIC/RTSD 2024](https://ieeexplore.ieee.org/abstract/document/10655957)**
+    * **Junyu Chen**, Yihao Liu, Shuwen Wei, Aaron Carass, Yong Du
+    *  Paper: [https://arxiv.org/pdf/2409.13863](https://arxiv.org/pdf/2409.13863) Poster: [<img src="/images/pdf_icon.png" width="30"/>](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/MIC-2024-JChen.pdf)
+  
+1. ### *From Registration Uncertainty to Segmentation Uncertainty*
+    * *Poster Presentation* @ **[IEEE ISBI 2024](https://ieeexplore.ieee.org/document/10635251)**
+    * **Junyu Chen**, Yihao Liu, Shuwen Wei, Zhangxing Bian, Aaron Carass, and Yong Du
+    *  Paper: [https://arxiv.org/pdf/2403.05111](https://arxiv.org/pdf/2403.05111) Poster: [<img src="/images/pdf_icon.png" width="30"/>](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/ISBI24-JChen.pdf)
+
 1. ### *A Novel Decoder for Learning-based Diffeomorphic Image Registration*
     * *Invited Presentation* @ **[MICCAI Learn2Reg 2022 Challenge](https://learn2reg.grand-challenge.org/)**
     * **Junyu Chen**
