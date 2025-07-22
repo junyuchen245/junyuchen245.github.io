@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2025-fall-teaching
 venue: "Johns Hopkins University, School of Medicine, Department of Radiology and Radiological Science"
-date: Fall, 2025
+date: 2025-08-31
 location: "Baltimore, MD"
 ---
 
