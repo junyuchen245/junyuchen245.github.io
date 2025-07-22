@@ -8,13 +8,4 @@ date: 2025-08-31
 location: "Baltimore, MD"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I am co-teaching Medical Imaging Systems course in Fall 2025 with Drs. Ken Taguchi and Jingyan Xu for the Medical Physics program in the Department of Radiology and Radiological Science at Johns Hopkins University, School of Medicine.
