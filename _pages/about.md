@@ -36,6 +36,7 @@ PROJECT PAGES
 UPDATES
 ----
 - ***11/20/2025:*** One journal paper was accepted by ***Medical Image Analysis*** for publication!
+- ***11/01/2025:*** One co-authored paper was accepted by [***NeurIPS***](https://openreview.net/forum?id=QU1SArYwKB) for publication!
 - ***03/01/2025:*** I will serve as a non-voting member of the Board of Directors in [PIDSC](https://snmmi.org/Web/About/About-SNMMI/Councils/Physics--Instrumentation-and-Data-Sciences-Council/PIDSC-Board-of-Directors.aspx) at SNMMI for a two-year term starting in July 2025.
 - ***01/07/2025:*** [TransMorph](https://www.sciencedirect.com/science/article/pii/S1361841522002432) is among the "Top Cited" papers in [***Medical Image Analysis***](https://github.com/junyuchen245/junyuchen245.github.io/blob/master/files/MedIA_TopCited_2024.png)!
 - ***10/22/2024:*** I was awarded $5k faculty research credit from [***Google Cloud***](https://cloud.google.com/edu/researchers?hl=en)!
