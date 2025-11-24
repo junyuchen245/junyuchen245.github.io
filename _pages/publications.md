@@ -4,9 +4,26 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+1. ***Unsupervised learning of spatially varying regularization for diffeomorphic image registration***
+   * *Authors:* **Junyu Chen**, Shuwen Wei, Yihao Liu, Zhangxing Bian, Yufan He, Aaron Carass, Harrison Bai, Yong Du
+    * *Published in:* Medical Image Analysis (**MedIA**)
+    * *Paper link:* [https://www.sciencedirect.com/science/article/pii/S1361841525004335](https://www.sciencedirect.com/science/article/pii/S1361841525004335)
+    * *PDF:* [<img src="/images/pdf_icon.png" width="25"/>](https://arxiv.org/pdf/2412.17982)
+    * *Code:* [Spatially_varying_reg](https://github.com/junyuchen245/Spatially-Varying-Regularization-ImgReg) 
+    * *Description:* Spatially varying regularization accommodates the deformation variations that may be necessary for different anatomical regions during deformable image registration. Historically, optimization-based registration models have harnessed spatially varying regularization to address anatomical subtleties. However, most modern deep learning-based models tend to gravitate towards spatially invariant regularization, wherein a homogenous regularization strength is applied across the entire image, potentially disregarding localized variations. In this paper, we propose a hierarchical probabilistic model that integrates a prior distribution on the deformation regularization strength, enabling the end-to-end learning of a spatially varying deformation regularizer directly from the data. The proposed method is straightforward to implement and easily integrates with various registration network architectures. Additionally, automatic tuning of hyperparameters is achieved through Bayesian optimization, allowing efficient identification of optimal hyperparameters for any given registration task. Comprehensive evaluations on publicly available datasets demonstrate that the proposed method significantly improves registration performance and enhances the interpretability of deep learning-based registration, all while maintaining smooth deformations.
+    * <img src="/images/Spatially_varying_reg.jpg" width="800"/>
+
+1. ***Deep learning-derived arterial input function for dynamic brain PET***
+   * *Authors:* **Junyu Chen**, Zirui Jiang, Jennifer M Coughlin, Martin G Pomper, Yong Du
+    * *Published in:* **NeuroImage**
+    * *Paper link:* N/A
+    * *PDF:* [<img src="/images/pdf_icon.png" width="25"/>](https://arxiv.org/pdf/2505.24166) 
+    * *Description:* Dynamic positron emission tomography (PET) imaging combined with radiotracer kinetic modeling is a powerful technique for visualizing biological processes in the brain, offering valuable insights into brain functions and neurological disorders such as Alzheimer's and Parkinson's diseases. Accurate kinetic modeling relies heavily on the use of a metabolite-corrected arterial input function (AIF), which typically requires invasive and labor-intensive arterial blood sampling. While alternative non-invasive approaches have been proposed, they often compromise accuracy or still necessitate at least one invasive blood sampling. In this study, we present the deep learning-derived arterial input function (DLIF), a deep learning framework capable of estimating a metabolite-corrected AIF directly from dynamic PET image sequences without any blood sampling. We validated DLIF using existing dynamic PET patient data. We compared DLIF and resulting parametric maps against ground truth measurements. Our evaluation shows that DLIF achieves accurate and robust AIF estimation. By leveraging deep learning's ability to capture complex temporal dynamics and incorporating prior knowledge of typical AIF shapes through basis functions, DLIF provides a rapid, accurate, and entirely non-invasive alternative to traditional AIF measurement methods.
+    * <img src="/images/DLIF.jpg" width="1000"/>
+    
 1. ***A survey on deep learning in medical image registration: New technologies, uncertainty, evaluation metrics, and beyond***
    * *Authors:* **Junyu Chen**\*, Yihao Liu\*, Shuwen Wei\*, Zhangxing Bian, Shalini Subramanian, Aaron Carass, Jerry L. Prince, Yong Du
-    * *Published in:* Medical Image Analysis
+    * *Published in:* Medical Image Analysis (**MedIA**)
     * *Paper link:* [https://www.sciencedirect.com/science/article/pii/S1361841524003104](https://www.sciencedirect.com/science/article/pii/S1361841524003104)
     * *PDF:* [<img src="/images/pdf_icon.png" width="25"/>](https://arxiv.org/pdf/2307.15615v4)
     * *Code:* [MedImgReg_Survey](https://github.com/JHU-MedImage-Reg/MedImgReg_Survey) 
@@ -15,7 +32,7 @@ author_profile: true
 
 1. ***Vector Field Attention for Deformable Image Registration***
    * *Authors:* Yihao Liu, **Junyu Chen**, Lianrui Zuo, Aaron Carass, Jerry L. Prince
-    * *Published in:* Journal of Medical Imaging
+    * *Published in:* Journal of Medical Imaging (**JMI**)
     * *Paper link:* [SPIE Digital Library](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-11/issue-6/064001/Vector-field-attention-for-deformable-image-registration/10.1117/1.JMI.11.6.064001.full)
     * *PDF:* [<img src="/images/pdf_icon.png" width="25"/>](https://arxiv.org/pdf/2407.10209)
     * *Code:* [VFA](https://github.com/yihao6/vfa) 
@@ -24,7 +41,7 @@ author_profile: true
     
 1. ***On Finite Difference Jacobian Computation in Deformable Image Registration***
    * *Authors:* Yihao Liu, **Junyu Chen**, Shuwen Wei, Aaron Carass, and Jerry Prince
-    * *Published in:* International Journal of Computer Vision
+    * *Published in:* International Journal of Computer Vision (**IJCV**)
     * *Paper link:* [https://link.springer.com/article/10.1007/s11263-024-02047-1](https://link.springer.com/article/10.1007/s11263-024-02047-1)
     * *PDF:* [<img src="/images/pdf_icon.png" width="25"/>](https://arxiv.org/pdf/2212.06060.pdf)
     * *Code:* [digital_diffeomorphism](https://github.com/yihao6/digital_diffeomorphism) 
@@ -33,7 +50,7 @@ author_profile: true
     
 3.  ***Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives.***
     * *Authors:* Jun Li\*, **Junyu Chen**\*, Yucheng Tang\*, Ce Wang, Bennett A. Landman, and S. Kevin Zhou (***\*: Equal Contribution***)
-    * *Published in:* Medical Image Analysis
+    * *Published in:* Medical Image Analysis (**MedIA**)
     * *Paper link:* [https://www.sciencedirect.com/science/article/abs/pii/S1361841523000233](https://www.sciencedirect.com/science/article/abs/pii/S1361841523000233)
     * *PDF:* [<img src="/images/pdf_icon.png" width="25"/>](https://arxiv.org/pdf/2206.01136.pdf)
     * *Description:* Transformer, one of the latest technological advances of deep learning, has gained prevalence in natural language processing or computer vision. Since medical imaging bear some resemblance to computer vision, it is natural to inquire about the status quo of Transformers in medical imaging and ask the question: can the Transformer models transform medical imaging? In this paper, we attempt to make a response to the inquiry. After a brief introduction of the fundamentals of Transformers, especially in comparison with convolutional neural networks (CNNs), and highlighting key defining properties that characterize the Transformers, we offer a comprehensive review of the state-of-the-art Transformer-based approaches for medical imaging and exhibit current research progresses made in the areas of medical image segmentation, recognition, detection, registration, reconstruction, enhancement, etc.
@@ -50,7 +67,7 @@ author_profile: true
 
 3.  ***TransMorph: Transformer for Unsupervised Medical Image Registration***
     * *Authors:* **Junyu Chen**, Yong Du, Yufan He, William P. Segars, Ye Li, and Eric C. Frey
-    * *Published in:* Medical Image Analysis
+    * *Published in:* Medical Image Analysis (**MedIA**)
     * *Paper link:* [https://www.sciencedirect.com/science/article/pii/S1361841522002432](https://www.sciencedirect.com/science/article/pii/S1361841522002432)
     * *PDF:* [<img src="/images/pdf_icon.png" width="25"/>](https://arxiv.org/pdf/2111.10480.pdf)
     * *Code:* [TransMorph](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration) 
@@ -78,7 +95,7 @@ We also introduce three variants of TransMorph, with two diffeomorphic variants 
 
 6.  ***Learning Fuzzy Clustering for SPECT/CT Segmentation via Convolutional Neural Networks***
     * *Authors:* **Junyu Chen**, Ye Li, Licia P. Luna, Hyun Woo Chung, Steven P. Rowe, Yong Du, Lilja B. Solnes, and Eric C. Frey
-    * *Published in:* Medical Physics
+    * *Published in:* **Medical Physics**
     * *Paper link:* [https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.14903](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.14903)
     * *PDF:* [<img src="/images/pdf_icon.png" width="25"/>](https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/mp.14903)
     * *Code:* [Semi-supervised_FCM_Loss_for_Segmentation](https://github.com/junyuchen245/Semi-supervised_FCM_Loss_for_Segmentation)
@@ -96,7 +113,7 @@ We also introduce three variants of TransMorph, with two diffeomorphic variants 
 
 8.  ***Generating anthropomorphic phantoms using fully unsupervised deformable image registration with convolutional neural networks***
     * *Authors:* **Junyu Chen**, Ye Li, Yong Du, Eric C. Frey
-    * *Published in:* Medical Physics, Dec. 2020 (***Editor's Choice***)
+    * *Published in:* **Medical Physics** (***Editor's Choice***)
     * *Paper link:* [https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.14545](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.14545)
     * *PDF:* [<img src="/images/pdf_icon.png" width="25"/>](https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/mp.14545)
     * *Code:* [Fully_Unsupervised_CNN_Registration_Keras](https://github.com/junyuchen245/Fully_Unsupervised_CNN_Registration_Keras)
@@ -105,7 +122,7 @@ We also introduce three variants of TransMorph, with two diffeomorphic variants 
 
 9. ***DeepAMO: A Multi-Slice, Multi-View Anthropomorphic Model Observer for Visual Detection Tasks Performed on Volume Images***
     * *Authors:* Ye Li, **Junyu Chen**, Justin L. Brown, S. Ted Treves, Xinhua Cao, Frederic H. Fahey, George Sgouros, Wesley E. Bolch, Eric C. Frey
-    * *Published in:*  Journal of Medical Imaging’s special section: Perspectives in Human and Model Observer Performance, 2020
+    * *Published in:*  Journal of Medical Imaging’s special section: Perspectives in Human and Model Observer Performance, 2020 (**JMI**)
     * *Paper link:* [SPIE. Digital Library](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-8/issue-4/041204/DeepAMO--a-multi-slice-multi-view-anthropomorphic-model-observer/10.1117/1.JMI.8.4.041204.short?SSO=1)
     * *PDF:* [<img src="/images/pdf_icon.png" width="25"/>](http://junyuchen245.github.io/files/041204_1.pdf)
     * *Code:* [From GaryLi's site](http://garyliye.com/deepAMO.zip)
