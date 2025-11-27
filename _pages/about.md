@@ -35,7 +35,7 @@ PROJECT PAGES
 
 UPDATES
 ----
-- ***11/21/2025:*** One journal paper was accepted by ***NeuroImage*** for publication!
+- ***11/21/2025:*** One journal paper was accepted by [***NeuroImage***](https://www.sciencedirect.com/science/article/pii/S1053811925006123) for publication!
 - ***11/20/2025:*** One journal paper was accepted by [***Medical Image Analysis***](https://www.sciencedirect.com/science/article/pii/S1361841525004335) for publication!
 - ***11/01/2025:*** One co-authored paper was accepted by [***NeurIPS***](https://openreview.net/forum?id=QU1SArYwKB) for publication!
 - ***03/01/2025:*** I will serve as a non-voting member of the Board of Directors in [PIDSC](https://snmmi.org/Web/About/About-SNMMI/Councils/Physics--Instrumentation-and-Data-Sciences-Council/PIDSC-Board-of-Directors.aspx) at SNMMI for a two-year term starting in July 2025.
