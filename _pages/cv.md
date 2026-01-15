@@ -96,6 +96,7 @@ Conference peer review activities
 ------
 1. <a href="https://2022.midl.io/">Medical Imaging with Deep Learning (MIDL) 2022</a>
 2. <a href="https://conferences.miccai.org/2022/en/">International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2022</a>
+3. <a href="https://cvpr.thecvf.com/">The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026</a>
 
  
 Teaching experience
