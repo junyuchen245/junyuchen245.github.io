@@ -30,6 +30,7 @@ Check out my interview with [Lifestyles Magazine](https://lifestylesmagazine.com
 
 PROJECT PAGES
 ----
+[*MIR: A research toolkit for medical image registration*](https://junyuchen.me/MIR/)\
 [*TransMorph: Transformer for unsupervised medical image registration*](https://junyuchen.me/TransMorph/)\
 [*Learning fuzzy clustering for SPECT/CT segmentation via convolutional neural networks*](https://junyuchen.me/FCM_loss_for_MedImgSeg/)
 
