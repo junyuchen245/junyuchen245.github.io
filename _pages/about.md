@@ -36,7 +36,7 @@ PROJECT PAGES
 
 UPDATES
 ----
-- ***06/13/2025:*** One journal paper was accepted by ***Medical Image Analysis*** for publication!
+- ***06/13/2026:*** One journal paper was accepted by ***Medical Image Analysis*** for publication!
 - ***11/21/2025:*** One journal paper was accepted by [***NeuroImage***](https://www.sciencedirect.com/science/article/pii/S1053811925006123) for publication!
 - ***11/20/2025:*** One journal paper was accepted by [***Medical Image Analysis***](https://www.sciencedirect.com/science/article/pii/S1361841525004335) for publication!
 - ***11/01/2025:*** One co-authored paper was accepted by [***NeurIPS***](https://openreview.net/forum?id=QU1SArYwKB) for publication!
