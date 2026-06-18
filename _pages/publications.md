@@ -5,6 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 1. ***Unsupervised learning of spatially varying regularization for diffeomorphic image registration***
+   * *Authors:* **Junyu Chen**, Shuwen Wei, Joel Honkamaa, Pekka Marttinen, Hang Zhang, Min Liu, Yichao Zhou, Zuopeng Tan, Zhuoyuan Wang, Yi Wang, Hongchao Zhou, Shunbo Hu, Yi Zhang, Qian Tao, Lukas Förner, Thomas Wendler, Bailiang Jian, Benedikt Wiestler, Tim Hable, Jin Kim, Dan Ruan, Frederic Madesta, Thilo Sentker, Wiebke Heyer, Lianrui Zuo, Yuwei Dai, Jing Wu, Jerry L. Prince, Harrison Bai, Yong Du, Yihao Liu, Alessa Hering, Reuben Dorent, Lasse Hansen, Mattias P. Heinrich, Aaron Carassb
+    * *Published in:* Medical Image Analysis (**MedIA**)
+    * *Paper link:* [TBA](TBA)
+    * *PDF:* [<img src="/images/pdf_icon.png" width="25"/>](https://arxiv.org/abs/2505.24160)
+    * *Code:* [LUMIR](https://github.com/JHU-MedImage-Reg/LUMIR_L2R) 
+    * *Description:* Medical image challenges have played a transformative role in advancing the field, catalyzing innovation and establishing new performance benchmarks. Image registration, a foundational task in neuroimaging, has similarly advanced through the Learn2Reg initiative. Building on this, we introduce the Large-scale Unsupervised Brain MRI Image Registration (LUMIR) challenge, a next-generation benchmark for unsupervised brain MRI registration. Previous challenges relied upon anatomical label maps, however LUMIR provides 4,014 unlabeled T1-weighted MRIs for training, encouraging biologically plausible deformation modeling through self-supervision. Evaluation includes 590 in-domain test subjects and extensive zero-shot tasks across disease populations, imaging protocols, and species. Deep learning methods consistently achieved state-of-the-art performance and produced anatomically plausible, diffeomorphic deformation fields. They outperformed several leading optimization-based methods and remained robust to most domain shifts. These findings highlight the growing maturity of deep learning in neuroimaging registration and its potential to serve as a foundation model for general-purpose medical image registration.
+    * <img width="800" alt="image" src="https://github.com/user-attachments/assets/86e3e546-c59c-43e5-a610-872bae13b68a" />
+
+1. ***Unsupervised learning of spatially varying regularization for diffeomorphic image registration***
    * *Authors:* **Junyu Chen**, Shuwen Wei, Yihao Liu, Zhangxing Bian, Yufan He, Aaron Carass, Harrison Bai, Yong Du
     * *Published in:* Medical Image Analysis (**MedIA**)
     * *Paper link:* [https://www.sciencedirect.com/science/article/pii/S1361841525004335](https://www.sciencedirect.com/science/article/pii/S1361841525004335)
