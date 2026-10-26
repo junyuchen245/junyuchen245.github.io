@@ -38,12 +38,12 @@ description: "Run a deep-learning image registration model with spatially varyin
         <legend>Hyperparameters <span class="pg-hint">(the same network, re-conditioned on the fly)</span></legend>
         <label class="pg-slider" id="pg-alpha-row">
           <span class="pg-slider__name">Prior strength <em>&kappa;</em> <span class="pg-slider__val" id="pg-alpha-val"></span></span>
-          <input type="range" id="pg-alpha" min="0" max="1" step="0.01" value="0.5">
+          <input type="range" id="pg-alpha" min="0" max="1" step="0.01" value="0.2">
           <span class="pg-slider__ends"><span>weak prior: &lambda; drops easily</span><span>strong prior: &lambda; &rarr; 1</span></span>
         </label>
         <label class="pg-slider">
           <span class="pg-slider__name">Regularization weight <em>w</em> <span class="pg-slider__val" id="pg-reg-val"></span></span>
-          <input type="range" id="pg-reg" min="0" max="1" step="0.01" value="0.5">
+          <input type="range" id="pg-reg" min="0" max="1" step="0.01" value="0.6">
           <span class="pg-slider__ends"><span>0.0005 (flexible)</span><span>0.2 (smooth)</span></span>
         </label>
       </fieldset>
