@@ -76,6 +76,7 @@
   function loadImageData(url) {
     return new Promise(function (resolve, reject) {
       var im = new Image();
+      im.crossOrigin = 'anonymous';   // allows pixel reads when assets are served from another origin (CORS)
       im.onload = function () {
         var c = document.createElement('canvas'); c.width = im.width; c.height = im.height;
         var ctx = c.getContext('2d'); ctx.drawImage(im, 0, 0);
