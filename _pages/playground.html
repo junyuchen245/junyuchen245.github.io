@@ -10,11 +10,13 @@ description: "Run a deep-learning image registration model with spatially varyin
   <header class="playground__header">
     <h1 class="page__title">Registration Playground</h1>
     <p class="playground__lead">
-      Deformable image registration running <strong>entirely in your browser</strong>. The network is a
-      hypernetwork-conditioned <a href="https://junyuchen.me/MIR/models/vfa.html">VFA</a> model with
-      <a href="https://www.sciencedirect.com/science/article/pii/S1361841525004335">spatially varying regularization</a>,
-      trained in 2D with the <a href="https://github.com/junyuchen245/MIR">MIR toolkit</a> and exported to ONNX.
-      Pick two brain MRI slices, drag the sliders, and watch the deformation and the learned regularization map respond.
+      Deformable image registration running <strong>entirely in your browser</strong>.
+      <strong>Spatially varying regularization</strong> is a method I developed for learning-based registration
+      (<a href="https://www.sciencedirect.com/science/article/pii/S1361841525004335">Chen et&nbsp;al., <em>Medical Image Analysis</em>, 2025</a>)
+      and have since built into my open-source <a href="https://github.com/junyuchen245/MIR">MIR toolkit</a>; this page exists to let you
+      try it directly. The network is a hypernetwork-conditioned <a href="https://junyuchen.me/MIR/models/vfa.html">VFA</a> model with that
+      regularization, trained in 2D with MIR and exported to ONNX. Pick two brain MRI slices, drag the sliders, and watch the deformation
+      and the learned regularization map respond.
     </p>
   </header>
 
@@ -95,7 +97,9 @@ description: "Run a deep-learning image registration model with spatially varyin
           <em>spatially invariant</em>: one weight for the whole image.
         </p>
         <p>
-          The <strong>spatially varying</strong> model instead learns a per-pixel weight &lambda;(x) &isin; (0, 1] end to end.
+          The <strong>spatially varying</strong> model, the formulation I introduced in
+          <a href="https://www.sciencedirect.com/science/article/pii/S1361841525004335">Chen et&nbsp;al. (2025)</a>, instead learns a
+          per-pixel weight &lambda;(x) &isin; (0, 1] end to end.
           The penalty becomes <em>w</em>&middot;&lambda;(x)&middot;|&nabla;u(x)|&sup2;, and a Beta prior with parameter
           &alpha; = 1 + &kappa;<em>w</em> keeps &lambda; from collapsing to zero. Per pixel, the optimum is
           &lambda;* = &kappa; / |&nabla;u|&sup2; (clipped to 1): where the deformation must be sharp and local, &lambda; drops
@@ -112,7 +116,8 @@ description: "Run a deep-learning image registration model with spatially varyin
       </div>
       <div>
         <h3 class="subsection-title">Built with MIR</h3>
-        <p>Everything here comes from the toolkit: the model, the losses, the training loop, and the export.</p>
+        <p>Everything here comes from my toolkit: the model, the losses, the training loop, and the export. The full recipe is a
+          <a href="https://junyuchen.me/MIR/user_guide/browser_deployment.html">documented MIR tutorial</a>, so you can train and deploy your own.</p>
 <pre class="pg-code"><code>from MIR.models import HyperVFASPR, SpatialTransformer
 from MIR.deformation_regularizer import logBeta, LocalGrad2d
 import MIR.models.configs_VFA as cfgs
