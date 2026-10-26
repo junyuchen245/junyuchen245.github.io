@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junyu's Homepage"
+title                    : "Junyu Chen"
 title_separator          : "-"
-name                     : &name "Junyu's Homepage"
-description              : &description "Junyu's Homepage"
-url                      : https://junyuchen245.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Junyu Chen, Ph.D."
+description              : &description "Junyu Chen, Ph.D. — Instructor at Johns Hopkins University School of Medicine. Deep learning for medical image registration, segmentation, and nuclear medicine imaging."
+url                      : https://junyuchen.me # the base hostname & protocol for your site (custom domain, see CNAME)
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "junyuchen245/junyuchen245.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -68,10 +68,11 @@ analytics:
 # Site Author
 author:
   name             : "Junyu Chen, Ph.D."
-  avatar           : "CHEN junyu_.jpg"#"IMG_5377.jpg"
-  bio              : "Instructor@Johns Hopkins Medicine | 2024 Forbes 30 Under 30"
+  avatar           : "junyu_chen.jpg"
+  bio              : "Instructor, Johns Hopkins University School of Medicine. Forbes 30 Under 30 (2024)."
   location         : "Baltimore, MD, USA"
   employer         : "Johns Hopkins Medicine"
+  cv               : "/files/Junyu_CV_09262025.pdf"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=9jIpgScAAAAJ&hl=en"
   email            : "jchen245@jhmi.edu"
@@ -96,7 +97,7 @@ author:
   #stackoverflow    : # http://stackoverflow.com/users/123456/username
   #steam            :
   #tumblr           :
-  twitter          : "@jchen245"
+  twitter          : "jchen245"
   #vine             :
   #weibo            :
   #xing             :
@@ -111,6 +112,8 @@ include:
   - _pages
   - files
 exclude:
+  - CHANGELOG.md
+  - CONTRIBUTING.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -166,15 +169,6 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -206,33 +200,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
 
 # Sass/SCSS
 sass:
@@ -244,7 +211,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

@@ -1,0 +1,159 @@
+# Talks and presentations, newest first.
+# Fields: title, type (Invited Talk | Oral | Short Oral | Poster), venue, venue_url,
+#         when (free text, optional), authors (optional; "Junyu Chen" is bolded automatically),
+#         links: paper / poster / slides / video (any subset).
+
+- title: "Pretraining deformable image registration networks with random images"
+  type: "Poster"
+  venue: "Medical Imaging with Deep Learning (MIDL) 2025"
+  venue_url: "https://openreview.net/forum?id=NJANlZzxfi#discussion"
+  when: "2025"
+  authors: "Junyu Chen, Shuwen Wei, Yihao Liu, Aaron Carass, Yong Du"
+  links:
+    paper: "https://openreview.net/pdf?id=NJANlZzxfi"
+    poster: "/files/MIDL-2025-JChen.pdf"
+
+- title: "Correlation ratio for unsupervised learning of multi-modal deformable registration"
+  type: "Poster"
+  venue: "SPIE Medical Imaging: Image Processing 2025"
+  venue_url: "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13406/1340632/Correlation-ratio-for-unsupervised-learning-of-multi-modal-deformable-registration/10.1117/12.3047699.short"
+  when: "2025"
+  authors: "Xiaojian Chen, Yihao Liu, Shuwen Wei, Aaron Carass, Yong Du, Junyu Chen"
+  links:
+    paper: "https://arxiv.org/pdf/2504.12265"
+    poster: "/files/SPIE Poster_CR_JC.pdf"
+
+- title: "Unsupervised learning of multi-modal affine registration for PET/CT"
+  type: "Poster"
+  venue: "IEEE NSS/MIC/RTSD 2024"
+  venue_url: "https://ieeexplore.ieee.org/abstract/document/10655957"
+  when: "2024"
+  authors: "Junyu Chen, Yihao Liu, Shuwen Wei, Aaron Carass, Yong Du"
+  links:
+    paper: "https://arxiv.org/pdf/2409.13863"
+    poster: "/files/MIC-2024-JChen.pdf"
+
+- title: "From registration uncertainty to segmentation uncertainty"
+  type: "Poster"
+  venue: "IEEE International Symposium on Biomedical Imaging (ISBI) 2024"
+  venue_url: "https://ieeexplore.ieee.org/document/10635251"
+  when: "2024"
+  authors: "Junyu Chen, Yihao Liu, Shuwen Wei, Zhangxing Bian, Aaron Carass, Yong Du"
+  links:
+    paper: "https://arxiv.org/pdf/2403.05111"
+    poster: "/files/ISBI24-JChen.pdf"
+
+- title: "A novel decoder for learning-based diffeomorphic image registration"
+  type: "Invited Talk"
+  venue: "MICCAI Learn2Reg 2022 Challenge"
+  venue_url: "https://learn2reg.grand-challenge.org/"
+  when: "2022"
+  authors: "Junyu Chen"
+  links:
+    video: "https://youtu.be/lH-esWNVTHQ"
+
+- title: "Unsupervised learning of diffeomorphic image registration via TransMorph"
+  type: "Oral"
+  venue: "International Workshop on Biomedical Image Registration (WBIR) 2022"
+  venue_url: "https://link.springer.com/book/10.1007/978-3-031-11203-4"
+  when: "2022"
+  authors: "Junyu Chen, Eric C. Frey, Yong Du"
+  links:
+    paper: "https://link.springer.com/chapter/10.1007/978-3-031-11203-4_11"
+    slides: "https://drive.google.com/file/d/1QYlpzc-zxx8w3V_TLj_9NImqMJAYZNjq/view?usp=sharing"
+    video: "https://youtu.be/iUO5gN_CTX8"
+
+- title: "Class-incremental learning for multi-organ segmentation"
+  type: "Oral"
+  venue: "SNMMI Annual Meeting 2022"
+  venue_url: "https://www.snmmi.org/MeetingsEvents/index.aspx?ItemNumber=798"
+  when: "June 14, 2022"
+  authors: "Junyu Chen"
+  links:
+    video: "https://youtu.be/Mnzz0ZVDwIw"
+
+- title: "Deep learning for medical image analysis"
+  type: "Invited Talk"
+  venue: "CAMCA, Massachusetts General Hospital / Harvard Medical School"
+  venue_url: "https://projects.iq.harvard.edu/camca/"
+  when: "June 3, 2022"
+  authors: "Junyu Chen"
+  links:
+    slides: "https://drive.google.com/file/d/103_BiDqfX5Gosw3D9H_R-lYnOKfzDVsm/view?usp=sharing"
+
+- title: "Medical image analysis in the era of deep learning"
+  type: "Invited Talk"
+  venue: "Radiological Physics Division, Johns Hopkins Medical Institutions"
+  venue_url: "https://www.hopkinsmedicine.org/radiology/research/divisions/radiological-physics/"
+  when: "June 2, 2022"
+  authors: "Junyu Chen"
+  links:
+    video: "https://youtu.be/hLvNNDwltdE"
+
+- title: "Deep learning methods for medical image analysis"
+  type: "Invited Talk"
+  venue: "PlenaryAI"
+  venue_url: "https://www.plenaryai.com/"
+  authors: "Junyu Chen"
+  links:
+    slides: "https://drive.google.com/file/d/1XDm1S2Z5uAf3mDuachF4ceaaxjh6axf1/view?usp=sharing"
+
+- title: "Targeted gradient descent: A novel method for convolutional neural networks fine-tuning and online-learning"
+  type: "Oral"
+  venue: "MICCAI 2021"
+  venue_url: "https://link.springer.com/chapter/10.1007/978-3-030-87199-4_3"
+  when: "2021"
+  authors: "Junyu Chen, Evren Asma, Chung Chan"
+  links:
+    paper: "https://link.springer.com/chapter/10.1007/978-3-030-87199-4_3"
+    slides: "/files/MICCAI_2021_Junyu_slides.pdf"
+    poster: "/files/MICCAI_21_poster_Junyu.pdf"
+    video: "https://youtu.be/yEZHsPo2mJY"
+
+- title: "ViT-V-Net: Vision Transformer for unsupervised volumetric medical image registration"
+  type: "Short Oral"
+  venue: "MIDL 2021"
+  venue_url: "https://2021.midl.io/papers/e6"
+  when: "2021"
+  authors: "Junyu Chen, Yufan He, Eric C. Frey, Ye Li, Yong Du"
+  links:
+    paper: "https://arxiv.org/abs/2104.06468"
+    video: "https://2021.midl.io/papers/e6"
+
+- title: "Creating anthropomorphic phantoms via unsupervised convolutional neural networks"
+  type: "Short Oral"
+  venue: "MIDL 2021"
+  venue_url: "https://2021.midl.io/papers/h5"
+  when: "2021"
+  authors: "Junyu Chen, Ye Li, Yong Du, Eric C. Frey"
+  links:
+    paper: "https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.14545"
+    video: "https://2021.midl.io/papers/h5"
+
+- title: "Semi-supervised SPECT segmentation using convolutional neural networks"
+  type: "Poster"
+  venue: "SNMMI Annual Meeting 2021"
+  when: "2021"
+  authors: "Junyu Chen, Ye Li, Licia P. Luna, Hyun Woo Chung, Steven P. Rowe, Yong Du, Lilja B. Solnes, Eric C. Frey"
+  links:
+    paper: "https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.14903"
+    poster: "/files/SNMMI2021.pdf"
+
+- title: "Medical image segmentation via unsupervised convolutional neural network"
+  type: "Short Oral"
+  venue: "MIDL 2020"
+  venue_url: "https://2020.midl.io/papers/chen20.html"
+  when: "2020"
+  authors: "Junyu Chen, Eric C. Frey"
+  links:
+    paper: "https://openreview.net/forum?id=XrbnSCv4LU"
+    video: "https://2020.midl.io/papers/chen20.html"
+
+- title: "A fully unsupervised approach to create patient-like phantoms via convolutional neural networks"
+  type: "Oral"
+  venue: "SNMMI Annual Meeting 2020"
+  when: "2020"
+  authors: "Junyu Chen, Ye Li, Yong Du, Eric C. Frey"
+  links:
+    paper: "https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.14545"
+    video: "https://youtu.be/KUbIXUBA7bk"

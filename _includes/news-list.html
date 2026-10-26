@@ -1,0 +1,18 @@
+{% comment %}
+  Renders the news timeline. Usage: {% include news-list.html limit=8 %}
+  Items beyond `limit` are hidden until the "Show all" button is pressed.
+{% endcomment %}
+{% assign limit = include.limit | default: 8 %}
+{% assign total = site.data.news | size %}
+<ul class="news" id="news">
+  {% for item in site.data.news %}
+  <li class="news__item{% if forloop.index > limit %} news__item--hidden{% endif %}">
+    <time class="news__date" datetime="{{ item.date | date: '%Y-%m-%d' }}">{{ item.date | date: "%b %-d, %Y" }}</time>
+    <div class="news__text">{{ item.text | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+  </li>
+  {% endfor %}
+</ul>
+{% if total > limit %}
+<button type="button" class="btn btn--outline news__toggle" data-target="#news"
+        data-more="Show all {{ total }} updates" data-less="Show fewer">Show all {{ total }} updates</button>
+{% endif %}

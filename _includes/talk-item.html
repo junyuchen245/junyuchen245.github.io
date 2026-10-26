@@ -1,0 +1,25 @@
+{% comment %} Renders one talk/presentation. Usage: {% include talk-item.html talk=t %} {% endcomment %}
+{% assign talk = include.talk %}
+{% assign talk_type = talk.type | default: "Talk" %}
+{% assign type_class = talk_type | downcase | replace: " ", "-" %}
+<article class="talk">
+  <div class="talk__type">
+    <span class="badge badge--{{ type_class }}">{{ talk_type }}</span>
+    {% if talk.when %}<span class="talk__when">{{ talk.when }}</span>{% endif %}
+  </div>
+  <div class="talk__body">
+    <h3 class="talk__title">{{ talk.title }}</h3>
+    <p class="talk__venue">
+      {% if talk.venue_url %}<a href="{{ talk.venue_url }}">{{ talk.venue }}</a>{% else %}{{ talk.venue }}{% endif %}
+    </p>
+    {% if talk.authors %}<p class="talk__authors">{{ talk.authors | escape | replace: "Junyu Chen", "<strong>Junyu Chen</strong>" }}</p>{% endif %}
+    {% if talk.links %}
+    <div class="pub__links">
+      {% if talk.links.paper %}<a class="chip-link" href="{{ talk.links.paper }}"><i class="fas fa-file-alt" aria-hidden="true"></i> Paper</a>{% endif %}
+      {% if talk.links.slides %}<a class="chip-link" href="{{ talk.links.slides | replace: ' ', '%20' }}"><i class="fas fa-file-powerpoint" aria-hidden="true"></i> Slides</a>{% endif %}
+      {% if talk.links.poster %}<a class="chip-link" href="{{ talk.links.poster | replace: ' ', '%20' }}"><i class="fas fa-file-pdf" aria-hidden="true"></i> Poster</a>{% endif %}
+      {% if talk.links.video %}<a class="chip-link" href="{{ talk.links.video }}"><i class="fas fa-video" aria-hidden="true"></i> Video</a>{% endif %}
+    </div>
+    {% endif %}
+  </div>
+</article>

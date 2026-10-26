@@ -1,0 +1,39 @@
+{% comment %}
+  Renders one publication card.
+  Usage: {% include publication-card.html pub=p compact=true %}
+{% endcomment %}
+{% assign pub = include.pub %}
+{% assign authors_html = pub.authors | escape | replace: "Junyu Chen", "<strong>Junyu Chen</strong>" %}
+<article class="pub{% if include.compact %} pub--compact{% endif %}" data-type="{{ pub.type | default: 'journal' }}">
+  {% if pub.image %}
+  <a class="pub__thumb" href="{{ base_path }}/images/{{ pub.image_full | default: pub.image }}" title="{{ pub.title | escape }}">
+    <img src="{{ base_path }}/images/{{ pub.image }}" alt="Figure from: {{ pub.title | escape }}" loading="lazy">
+  </a>
+  {% endif %}
+  <div class="pub__body">
+    <div class="pub__meta">
+      <span class="badge badge--{{ pub.type | default: 'journal' }}">{{ pub.venue_short | default: pub.venue }}</span>
+      <span class="pub__year">{{ pub.year }}</span>
+      {% if pub.note %}<span class="pub__note"><i class="fas fa-star" aria-hidden="true"></i> {{ pub.note }}</span>{% endif %}
+    </div>
+    <h3 class="pub__title">
+      {% if pub.links.paper %}<a href="{{ pub.links.paper }}">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}
+    </h3>
+    <p class="pub__authors">{{ authors_html }}{% if pub.authors_note %} <span class="pub__authors-note">({{ pub.authors_note }})</span>{% endif %}</p>
+    {% unless include.compact %}<p class="pub__venue">{{ pub.venue }}{% if pub.year %}, {{ pub.year }}{% endif %}</p>{% endunless %}
+    <div class="pub__links">
+      {% if pub.links.paper %}<a class="chip-link" href="{{ pub.links.paper }}"><i class="fas fa-external-link-alt" aria-hidden="true"></i> Paper</a>{% endif %}
+      {% if pub.links.pdf %}<a class="chip-link" href="{{ pub.links.pdf }}"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a>{% endif %}
+      {% if pub.links.supp %}<a class="chip-link" href="{{ pub.links.supp }}"><i class="fas fa-file-alt" aria-hidden="true"></i> Supplement</a>{% endif %}
+      {% if pub.links.code %}<a class="chip-link" href="{{ pub.links.code }}"><i class="fab fa-github" aria-hidden="true"></i> Code</a>{% endif %}
+      {% if pub.links.project %}<a class="chip-link" href="{{ pub.links.project }}"><i class="fas fa-globe" aria-hidden="true"></i> Project page</a>{% endif %}
+      {% if pub.code_note %}<span class="pub__code-note">{{ pub.code_note }}</span>{% endif %}
+    </div>
+    {% if pub.abstract and include.compact != true %}
+    <details class="pub__abstract">
+      <summary>Abstract</summary>
+      <p>{{ pub.abstract }}</p>
+    </details>
+    {% endif %}
+  </div>
+</article>

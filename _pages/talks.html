@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Talks &amp; Presentations"
+permalink: /talks/
+author_profile: true
+description: "Invited talks, oral presentations, and posters by Junyu Chen."
+---
+{% include base_path %}
+
+<p class="page__intro">Invited talks, conference presentations, and posters, newest first.</p>
+
+<div class="talk-list">
+  {% for t in site.data.talks %}
+    {% include talk-item.html talk=t %}
+  {% endfor %}
+</div>

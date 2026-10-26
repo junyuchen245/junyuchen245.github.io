@@ -1,0 +1,14 @@
+{% comment %} Renders project/software cards from _data/projects.yml {% endcomment %}
+<div class="cards">
+  {% for p in site.data.projects %}
+  <a class="card card--link" href="{{ p.url }}">
+    <div class="card__icon"><i class="{{ p.icon | default: 'fas fa-code' }}" aria-hidden="true"></i></div>
+    <div class="card__body">
+      <h3 class="card__title">{{ p.name }}</h3>
+      <p class="card__tagline">{{ p.tagline }}</p>
+      {% if p.description %}<p class="card__desc">{{ p.description }}</p>{% endif %}
+    </div>
+    <span class="card__arrow" aria-hidden="true"><i class="fas fa-arrow-right"></i></span>
+  </a>
+  {% endfor %}
+</div>

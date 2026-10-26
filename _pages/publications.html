@@ -1,0 +1,32 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+description: "Selected publications by Junyu Chen on medical image registration, segmentation, and nuclear medicine imaging."
+---
+{% include base_path %}
+
+<p class="page__intro">
+  Selected journal and conference papers. A complete, up-to-date list is on
+  <a href="{{ site.author.googlescholar }}">Google Scholar</a>. <strong>Bold</strong> marks my name; * marks equal contribution.
+</p>
+
+<div class="pub-filter" role="group" aria-label="Filter publications">
+  <button type="button" class="is-active" data-type="all">All</button>
+  <button type="button" data-type="journal">Journal</button>
+  <button type="button" data-type="conference">Conference</button>
+  <button type="button" data-type="preprint">Preprint</button>
+</div>
+
+{% assign pubs = site.data.publications %}
+{% assign years = pubs | map: "year" | uniq %}
+{% for y in years %}
+  <h2 class="pub-year" id="y{{ y }}">{{ y }}</h2>
+  <div class="pub-group pub-list">
+    {% assign group = pubs | where: "year", y %}
+    {% for p in group %}
+      {% include publication-card.html pub=p %}
+    {% endfor %}
+  </div>
+{% endfor %}

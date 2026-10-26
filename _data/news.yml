@@ -1,0 +1,63 @@
+# News items, newest first. `text` is Markdown.
+- date: 2026-10-07
+  text: "Named to the 2026 [Stanford/Elsevier list of the world's top 2% scientists](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9) (science-wide standardized citation indicators)."
+- date: 2026-06-13
+  text: "Journal paper accepted by [*Medical Image Analysis*](https://www.sciencedirect.com/science/article/pii/S1361841526002446): \"Beyond the LUMIR challenge: The pathway to foundational registration models.\""
+- date: 2026-05-13
+  text: "Co-authored paper accepted by [*IEEE Transactions on Medical Imaging*](https://ieeexplore.ieee.org/abstract/document/11520956)."
+- date: 2026-02-20
+  text: "Co-authored paper accepted to [*CVPR 2026*](https://openaccess.thecvf.com/content/CVPR2026/html/Bian_Solving_a_Nonlinear_Blind_Inverse_Problem_for_Tagged_MRI_with_CVPR_2026_paper.html)."
+- date: 2025-11-21
+  text: "Journal paper accepted by [*NeuroImage*](https://www.sciencedirect.com/science/article/pii/S1053811925006123): deep learning-derived arterial input function for dynamic brain PET."
+- date: 2025-11-20
+  text: "Journal paper accepted by [*Medical Image Analysis*](https://www.sciencedirect.com/science/article/pii/S1361841525004335): unsupervised learning of spatially varying regularization."
+- date: 2025-11-01
+  text: "Co-authored paper accepted to [*NeurIPS 2025*](https://openreview.net/forum?id=QU1SArYwKB)."
+- date: 2025-03-01
+  text: "Appointed as a non-voting member of the Board of Directors of the SNMMI [Physics, Instrumentation & Data Sciences Council (PIDSC)](https://snmmi.org/Web/About/About-SNMMI/Councils/Physics--Instrumentation-and-Data-Sciences-Council/PIDSC-Board-of-Directors.aspx) for a two-year term starting July 2025."
+- date: 2025-01-07
+  text: "[TransMorph](https://www.sciencedirect.com/science/article/pii/S1361841522002432) is among the [top-cited papers](/files/MedIA_TopCited_2024.png) in *Medical Image Analysis*."
+- date: 2024-10-22
+  text: "Awarded a $5,000 faculty research credit from [Google Cloud](https://cloud.google.com/edu/researchers?hl=en)."
+- date: 2024-10-14
+  text: "Selected as a 2024 [gold-level distinguished reviewer](/files/TMI_Reviewer24_JChen.pdf) for *IEEE Transactions on Medical Imaging*."
+- date: 2024-10-02
+  text: "Journal paper accepted by [*Medical Image Analysis*](https://www.sciencedirect.com/science/article/pii/S1361841524003104): a survey on deep learning in medical image registration."
+- date: 2024-08-19
+  text: "Interviewed by [*Lifestyles Magazine*](https://lifestylesmagazine.com/qa/qa-junyu-chen/) about my research and its impact on healthcare."
+- date: 2024-02-29
+  text: "Co-authored journal paper accepted by the [*International Journal of Computer Vision*](https://link.springer.com/article/10.1007/s11263-024-02047-1)."
+- date: 2024-02-10
+  text: "Paper accepted to [*IEEE ISBI 2024*](https://biomedicalimaging.org/2024/)."
+- date: 2023-11-28
+  text: "Named to the [Forbes 30 Under 30 (2024), Healthcare](https://www.forbes.com/30-under-30/2024/healthcare) list."
+- date: 2023-11-20
+  text: "Co-authored journal paper accepted by [*IEEE Transactions on Medical Imaging*](https://ieeexplore.ieee.org/document/10327759)."
+- date: 2023-10-12
+  text: "Selected as a 2023 [gold-level distinguished reviewer](/files/Chen, Junyu_IEEE_TMI_Reviewer.pdf) for *IEEE Transactions on Medical Imaging*."
+- date: 2023-10-11
+  text: "Received an [honorable mention](https://conferences.miccai.org/2023/en/MICCAI-2023-OUTSTANDING-REVIEWERS-AWARDS.html) as a reviewer for MICCAI 2023."
+- date: 2023-06-29
+  text: "Received the 2023 IEEE NSS/MIC/RTSD Trainee Grant."
+- date: 2023-05-08
+  text: "Won a [2023 Johns Hopkins Discovery Award](https://research.jhu.edu/major-initiatives/discovery-awards/2023-awardees/) with Yong Du, Steven Rowe, and Aaron Carass ([announcement](https://hub.jhu.edu/2023/05/08/35-teams-receive-discovery-awards/))."
+- date: 2023-04-18
+  text: "First-author papers were among the most downloaded articles in [*Medical Image Analysis*](/files/Most Downloaded Articles - Medical Image Analysis.pdf) and [*Medical Physics*](/files/MedPhy_top_download.jpg)."
+- date: 2023-01-12
+  text: "Journal paper accepted by [*Medical Image Analysis*](https://www.sciencedirect.com/science/article/pii/S1361841523000233): a comparative review of Transformers in medical imaging."
+- date: 2023-01-01
+  text: "Joined Johns Hopkins Medicine as a research faculty member."
+- date: 2022-10-21
+  text: "Successfully defended my dissertation and earned my Ph.D."
+- date: 2022-09-02
+  text: "Journal paper accepted by [*Medical Image Analysis*](https://www.sciencedirect.com/science/article/pii/S1361841522002432): TransMorph."
+- date: 2022-05-17
+  text: "Paper accepted to [WBIR 2022](https://www.wbir.info/) as a long oral."
+- date: 2022-04-22
+  text: "Received the 2022 SNMMI Student Research Grant Award."
+- date: 2022-02-10
+  text: "Ph.D. thesis proposal accepted."
+- date: 2021-09-29
+  text: "Featured in [MICCAI Daily 2021](https://www.rsipvision.com/MICCAI2021-Wednesday/)."
+- date: 2021-07-28
+  text: "Passed the Graduate Board Oral exam and advanced to Ph.D. candidacy."
