@@ -22,6 +22,15 @@ Most content lives in small data files, so routine updates do not require touchi
 
 Blog posts are Markdown files in `_posts/`.
 
+## Registration playground
+
+`/playground/` runs two small 2D registration networks (MIR `HyperVFASPR` and `HyperVFA`) in the browser with
+ONNX Runtime Web. The page is `_pages/playground.html` + `assets/js/playground.js`; demo slices and label maps are in
+`assets/playground/samples/`, the ONNX models and their metadata in `assets/playground/models/`. Training, export,
+and asset scripts live outside this repo in `../GitHub_IO_playground/` (see its `train_web_hypervfa.py` and
+`export_web_models.py`). To swap in a retrained model, re-run the export script and copy the `*_fp16w.onnx` and
+`*.json` files into `assets/playground/models/`; the JavaScript reads the hyperparameter ranges from the JSON.
+
 ## Styling
 
 Theme colours and typography are in `_sass/_variables.scss`; all site-specific components

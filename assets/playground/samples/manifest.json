@@ -1,0 +1,65 @@
+{
+ "size": [
+  192,
+  160
+ ],
+ "source": "IXI dataset (CC BY-SA 3.0), test split, axial slice 96",
+ "samples": [
+  {
+   "id": "s0",
+   "subject": 71,
+   "slice": 96,
+   "img": "s0.png",
+   "seg": "s0_seg.png"
+  },
+  {
+   "id": "s1",
+   "subject": 18,
+   "slice": 96,
+   "img": "s1.png",
+   "seg": "s1_seg.png"
+  },
+  {
+   "id": "s2",
+   "subject": 26,
+   "slice": 96,
+   "img": "s2.png",
+   "seg": "s2_seg.png"
+  },
+  {
+   "id": "s3",
+   "subject": 13,
+   "slice": 96,
+   "img": "s3.png",
+   "seg": "s3_seg.png"
+  },
+  {
+   "id": "s4",
+   "subject": 16,
+   "slice": 96,
+   "img": "s4.png",
+   "seg": "s4_seg.png"
+  },
+  {
+   "id": "s5",
+   "subject": 41,
+   "slice": 96,
+   "img": "s5.png",
+   "seg": "s5_seg.png"
+  },
+  {
+   "id": "s6",
+   "subject": 90,
+   "slice": 96,
+   "img": "s6.png",
+   "seg": "s6_seg.png"
+  },
+  {
+   "id": "s7",
+   "subject": 7,
+   "slice": 96,
+   "img": "s7.png",
+   "seg": "s7_seg.png"
+  }
+ ]
+}

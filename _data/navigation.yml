@@ -6,6 +6,9 @@ main:
   - title: "Presentations"
     url: /talks/
 
+  - title: "Playground"
+    url: /playground/
+
   - title: "Teaching"
     url: /teaching/
 

@@ -1,0 +1,64 @@
+{
+ "name": "hypervfa_plain_2d",
+ "model": "plain",
+ "img_size": [
+  192,
+  160
+ ],
+ "n_hyper": 1,
+ "hyper_map": {
+  "reg_range": [
+   0.0005,
+   0.2
+  ],
+  "kappa_range": [
+   0.03,
+   3.0
+  ],
+  "scale": "log",
+  "alpha": "1 + kappa * reg",
+  "codes": [
+   "prior strength kappa (SPR only)",
+   "regularization weight"
+  ]
+ },
+ "params": 3665363,
+ "iters": 30000,
+ "val": {
+  "0.0": [
+   0.5746728114423034,
+   3.7404369500776133,
+   null,
+   2.791907032330831
+  ],
+  "0.5": [
+   0.602864979661527,
+   0.3795537007196496,
+   null,
+   2.3502697587013244
+  ],
+  "1.0": [
+   0.5933470001982578,
+   0.0006585662777069956,
+   null,
+   1.762099560101827
+  ]
+ },
+ "cfg": {
+  "affine": 0,
+  "downsamples": 4,
+  "img_size": [
+   192,
+   160
+  ],
+  "in_channels": 1,
+  "initialize": 1.0,
+  "int_steps": 0,
+  "matching_channels": 8,
+  "max_channels": 32,
+  "name": "VFA",
+  "nb_hyp_units": 16,
+  "skip": 0,
+  "start_channels": 8
+ }
+}
