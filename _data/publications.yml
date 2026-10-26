@@ -188,6 +188,7 @@
     pdf: "https://arxiv.org/pdf/2206.01136.pdf"
   image: "pubs/TransSurvey.jpg"
   image_full: "TransSurvey.jpg"
+  selected: true
   abstract: >-
     Transformer, one of the latest technological advances of deep learning, has gained prevalence in natural
     language processing or computer vision. Since medical imaging bear some resemblance to computer vision, it
