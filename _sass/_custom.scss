@@ -1244,15 +1244,15 @@ body {
    ========================================================================== */
 
 .visitors {
-  margin-top: 1.25em;
-  padding-top: 1em;
+  margin-top: 2.25em;
+  padding-top: 1.5em;
   border-top: 1px solid $line;
 
   @media (max-width: 924px) { display: none; }   /* sidebar collapses to a header on small screens */
 }
 
 .visitors__title {
-  margin-bottom: 0.5em;
+  margin-bottom: 0.75em;
   color: $muted;
   font-size: 0.72rem;
   font-weight: 600;
@@ -1263,6 +1263,7 @@ body {
 }
 
 .visitors__widget {
+  height: 114px;              /* 16px counter line + 98px map at the 200px widget width; clips the widget's empty footer */
   overflow: hidden;
   border: 1px solid $line;
   border-radius: 8px;
@@ -1271,4 +1272,10 @@ body {
 
   img, canvas, a { max-width: 100%; height: auto; display: block; }
   a { line-height: 1.2; }
+
+  /* trim the widget's own chrome: no padding/border, no branding footer, no stray space under the map */
+  #mapmyvisitors-widget { display: block; margin: 0; padding: 0; border: 0; box-shadow: none; }
+  .mapmyvisitors-map-container { padding: 0; }
+  .mapmyvisitors-bottom-text { display: none !important; }
+  .mapmyvisitors-map { display: block; }
 }
