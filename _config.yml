@@ -106,6 +106,9 @@ author:
   publons           : "https://www.webofscience.com/wos/author/record/2193671"
 
 
+# Visitor map (Map My Visitors widget shown at the bottom of the sidebar; leave empty to disable)
+visitor_map              : "SWMqf0TO-9pU_x_pxO-RYheQQNJOBkRA53gS8ld8sGw"
+
 # Reading Files
 include:
   - .htaccess

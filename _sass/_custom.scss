@@ -1238,3 +1238,37 @@ body {
 
   @media (max-width: 600px) { flex-wrap: wrap; &__cta { margin-left: 56px; } }
 }
+
+/*
+   Visitor map (sidebar)
+   ========================================================================== */
+
+.visitors {
+  margin-top: 1.25em;
+  padding-top: 1em;
+  border-top: 1px solid $line;
+
+  @media (max-width: 924px) { display: none; }   /* sidebar collapses to a header on small screens */
+}
+
+.visitors__title {
+  margin-bottom: 0.5em;
+  color: $muted;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+
+  i { margin-right: 0.3em; color: $accent; }
+}
+
+.visitors__widget {
+  overflow: hidden;
+  border: 1px solid $line;
+  border-radius: 8px;
+  background: #fff;
+  line-height: 0;
+
+  img, canvas, a { max-width: 100%; height: auto; display: block; }
+  a { line-height: 1.2; }
+}
