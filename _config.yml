@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Junyu Chen"
 title_separator          : "-"
 name                     : &name "Junyu Chen, Ph.D."
-description              : &description "Junyu Chen, Ph.D. — Instructor at Johns Hopkins University School of Medicine. Deep learning for medical image registration, segmentation, and nuclear medicine imaging."
+description              : &description "Junyu Chen, Ph.D. — Assistant Professor at Johns Hopkins University School of Medicine. Deep learning for medical image registration, segmentation, and nuclear medicine imaging."
 url                      : https://junyuchen.me # the base hostname & protocol for your site (custom domain, see CNAME)
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "junyuchen245/junyuchen245.github.io"
@@ -69,7 +69,7 @@ analytics:
 author:
   name             : "Junyu Chen, Ph.D."
   avatar           : "junyu_chen.jpg"
-  bio              : "Instructor, Johns Hopkins University School of Medicine. Forbes 30 Under 30 (2024)."
+  bio              : "Assistant Professor, Johns Hopkins University School of Medicine. Forbes 30 Under 30 (2024)."
   location         : "Baltimore, MD, USA"
   employer         : "Johns Hopkins Medicine"
   cv               : "/files/Junyu_CV_09262025.pdf"
